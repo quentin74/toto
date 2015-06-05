@@ -1,99 +1,8144 @@
-# French translations for PACKAGE package.
-# Copyright (C) 2015 THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Quentin Torck <qtorck@imac-de-admin.local>, 2015.
-#
+#. extracted from fr.csv
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-29 15:48+0200\n"
-"PO-Revision-Date: 2015-05-29 16:47+0200\n"
-"Last-Translator: Quentin Torck <qtorck@imac-de-admin.local>\n"
-"Language-Team: French\n"
-"Language: fr\n"
+"POT-Creation-Date: 2015-06-05 11:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/admin/index.phtml:35
-msgid "parameter"
+msgid " or edit the site directly in the editor "
+msgstr " ou édite le site dans l'éditeur"
+
+msgid "(none)"
+msgstr "(aucune)"
+
+msgid "100% smartphone"
+msgstr "100% smartphone"
+
+msgid "140 characters maximum"
+msgstr "140 caractères maximum"
+
+msgid "160 characters for the first SMS, 153 for the next ones"
+msgstr "160 caractères pour le premier SMS, 153 caractères ensuite"
+
+msgid "160 characters for the first SMS; 153 for the next ones"
+msgstr "160 caractères pour le premier SMS; 153 caractères ensuite"
+
+msgid "3 dots &nbsp;Three dots &nbsp;'…'&nbsp;use three characters&nbsp;'...'"
 msgstr ""
+"3 petits points, le caractère « Points de suspension » '…' devient 3 points, "
+"soit 3 caractères '...'"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/admin/index.phtml:36
-msgid "value"
-msgstr ""
+msgid "A copy of the current message will be used to create a new model."
+msgstr "Une copie du message courant sera faite pour créer un nouveau modèle."
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/auth/login.phtml:36
-msgid "Mobisiteo"
-msgstr ""
-
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/auth/login.phtml:53
-#, php-format
 msgid ""
-"You can reach %1$s on %2$s or by e-mail at: <a href='mailto:%3$s'>%3$s</a>"
+"A copy of the current message will be used to create a new model. You can "
+"retrieve it from your model library."
 msgstr ""
+"Une copie du message courant sera faite pour créer un nouveau modèle. Vous "
+"le retrouverez dans votre bibliothèque de modèles."
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/auth/login.phtml:54
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/auth/login.phtml:58
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/display/error.phtml:43
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/offline/error.phtml:43
-#: /Users/qtorck/sources/v2.marketeo.net//application/views/scripts/auth/footer-partial.phtml:3
-#: /Users/qtorck/sources/v2.marketeo.net//application/views/scripts/footer-partial.phtml:52
-#: /Users/qtorck/sources/v2.marketeo.net//application/views/scripts/login-layout.phtml:27
-#: /Users/qtorck/sources/v2.marketeo.net//application/views/scripts/login-products.phtml:27
-msgid "Digitaleo"
-msgstr ""
+msgid "A user has post a reply on the site '%s' the %s"
+msgstr "Un utilisateur a répondu sur le site '%s' le '%s'"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/auth/login.phtml:54
-msgid "phone.Digitaleo"
-msgstr ""
+msgid "A user of your site submitted the following information"
+msgstr "Un utilisateur du site a soumis les informations suivantes"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/auth/login.phtml:55
-msgid "mail.Digitaleo"
-msgstr ""
+msgid "access url"
+msgstr "URL d'acces"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/component/add.form.phtml:63
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/controllers/ComponentController.php:119
-msgid "New component"
-msgstr ""
+msgid "Action not recognized..."
+msgstr "Action non reconnue..."
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/component/add.form.phtml:65
-msgid "Existing component"
-msgstr ""
+msgid "actions"
+msgstr "actions"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/component/common.edit.phtml:52
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/controllers/ComponentController.php:374
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/controllers/ComponentController.php:678
-msgid "editable"
-msgstr ""
+msgid "actives only"
+msgstr "actifs seulement"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/component/edit.form.phtml:26
-msgid "You must select an attribute before"
-msgstr ""
-
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/component/edit.form.phtml:61
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/frontoffice/views/scripts/settings/ajax-notification-sms.phtml:317
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/component/edit.form.phtml:69
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/frontoffice/views/scripts/contact/uploaded-custo.phtml:363
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/frontoffice/views/scripts/settings/ajax-notification-sms.phtml:102
+msgid "add"
+msgstr "ajouter"
+
+msgid "add a contact"
+msgstr "ajouter un contact"
+
+msgid "add a new campaign by clicking on"
+msgstr "ajouter une nouvelle campagne en cliquant"
+
+msgid "add a new message by clicking on"
+msgstr "ajouter un nouveau message en cliquant"
+
+msgid "add a new rule"
+msgstr "ajoute une nouvelle règle"
+
+msgid "add a new site by clicking on"
+msgstr "ajouter un nouveau site en cliquant"
+
+msgid "add affiliates group"
+msgstr "ajouter un groupe d'affiliés"
+
+msgctxt ""
+msgid "add affiliates list"
+msgstr "ajouter un groupe d'affiliés"
+
+msgid "Add an new component"
+msgstr "Ajouter un nouveau composant"
+
+msgid "add channel"
+msgstr "ajouter un canal"
+
+msgid "add comment"
+msgstr "ajouter un mémo"
+
+msgid "add new facebook"
+msgstr "Nouveau message Facebook"
+
+msgid "add new look"
+msgstr "ajouter un nouveau look"
+
+msgid "add new site"
+msgstr "ajouter un nouveau site"
+
+msgid "add new structure"
+msgstr "ajouter une nouvelle structure"
+
+msgid "add new twitter"
+msgstr "nouveau message Twitter"
+
+msgid "add note"
+msgstr "ajouter un message"
+
+msgid "add step"
+msgstr "ajouter une étape"
+
+msgid "add to selection"
+msgstr "ajouter à la sélection"
+
+msgid "add your contacts"
+msgstr "ajoutez vos contacts"
+
+msgid "added-page-label"
+msgstr "added-page-label"
+
+msgid "additional characters"
+msgstr "caractères supplémentaires"
+
+msgid "address"
+msgstr "adresse"
+
+msgid "address1"
+msgstr "Adresse 1"
+
+msgid "address2"
+msgstr "Adresse 2"
+
+msgid "advice for affiliates"
+msgstr "conseil pour les affiliés"
+
+msgid "advices"
+msgstr "conseils"
+
+msgid "affiliate"
+msgstr "affilié"
+
+msgctxt ""
+msgid "affiliates"
+msgstr "affiliés"
+
+msgid "affiliates group"
+msgstr "groupe d'affiliés"
+
+msgid "affiliates group deleted"
+msgstr "groupe d'affiliés supprimé"
+
+msgctxt ""
+msgid "affiliates list"
+msgstr "liste d'affiliés"
+
+msgid "affiliation date"
+msgstr "date d'affiliation"
+
+msgid "alive"
+msgstr "active"
+
+msgid "all affiliates"
+msgstr "tous les affiliés"
+
+msgid "all campaign models"
+msgstr "tous les modèles de campagnes"
+
+msgid "all campaigns using this template"
+msgstr "toutes les campagnes utilisant ce modèle"
+
+msgid "All contacts optin"
+msgstr "Activation de tous les contacts"
+
+msgid "All contacts optout"
+msgstr "Désactivation de tous les contacts"
+
+msgid "all medias"
+msgstr "tous les canaux"
+
+msgid "all my campaigns"
+msgstr "toutes les campagnes"
+
+msgid "all my contact lists"
+msgstr "toutes les listes de contacts"
+
+msgid "all my contacts"
+msgstr "tous les contacts"
+
+msgid "all my network"
+msgstr "tout le réseau"
+
+msgid "all network campaigns"
+msgstr "toutes les campagnes du réseau"
+
+msgid "all network users"
+msgstr "tous les utilisateurs du réseau"
+
+msgid "all status"
+msgstr "tous les statuts"
+
+msgid "all statuses"
+msgstr "tous les statuts"
+
+msgid "all users"
+msgstr "tous les utilisateurs"
+
+msgid "Already done"
+msgstr "Déjà fait"
+
+msgid "An error has occurred"
+msgstr "Une erreur s'est produite"
+
+msgctxt ""
+msgid "Error"
+msgstr "Erreur"
+
+msgid ""
+"An error occurred on the server when deleting contacts. Thank you notify us "
+"of this error"
+msgstr ""
+"Une erreur sur le serveur est apparue lors de la suppression des contacts. "
+"Merci de nous prévenir de cette erreur."
+
+msgid "An error was occured"
+msgstr "Une erreur s'est produite"
+
+msgid "an unexpected error has occured"
+msgstr "une erreur inattendue s'est produite"
+
+msgid "And"
+msgstr "Et"
+
+msgid "apostrophe"
+msgstr "apostrophe"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "apply"
+msgstr "appliquer"
+
+msgid "approximate cost of message"
+msgstr "coût indicatif du message"
+
+msgctxt ""
+msgid "Are you sure to want to cancel the campaign template?"
+msgstr "Etes-vous sûr de vouloir désactiver ce modèle de campagne ?"
+
+msgid "Are you sure to want to create a new list with the selected contact ?"
+msgstr ""
+"Etes-vous sûr de vouloir créer une nouvelle liste avec les contacts "
+"sélectionnés ?"
+
+msgid "Are you sure to want to delete this campaign template?"
+msgstr "Etes-vous sûr de vouloir supprimer ce modèle de campagne ?"
+
+msgid "are you sure to want to delete this contract?"
+msgstr "Etes-vous sûr de vouloir supprimer ce contrat ?"
+
+msgid "are you sure to want to delete this element?"
+msgstr "Etes-vous sûr de vouloir supprimer cet élément ?"
+
+msgid "are you sure to want to delete this message"
+msgstr "etes-vous sur de vouloir supprimer le message"
+
+msgctxt ""
+msgid "are you sure to want to delete this user?"
+msgstr "Etes-vous sûr de vouloir supprimer cet utilisateur ?"
+
+msgctxt ""
+msgid "are you sure to want to delete this user?"
+msgstr "etes-vous sûr de vouloir supprimer cet utilisateur ?"
+
+msgid "Are you sure to want to delete this?"
+msgstr "Etes vous sure de vouloir supprimer cet élément ?"
+
+msgid "Are you sure to want to export the current contact list ?"
+msgstr "Etes-vous sûr de vouloir exporter la liste de contacts courante ?"
+
+msgid "Are you sure to want to export the selected contact ?"
+msgstr "Etes-vous sûr de vouloir exporter les contacts sélectionnés ?"
+
+msgid "Are you sure to want to export your search results ?"
+msgstr "Etes-vous sûr de vouloir exporter vos résultats de recherche ?"
+
+msgid "are you sure to want to reactivate this contract?"
+msgstr "Etes-vous sûr de vouloir réactiver ce contrat ?"
+
+msgid "are you sure to want to suspend this contract?"
+msgstr ""
+"Etes-vous sûr de vouloir suspendre les envois de messages pour ce contrat ?"
+
+msgid "are you sure you want to cancel this campaign ?"
+msgstr "etes-vous sûr de vouloir annuler cette campagne ?"
+
+msgid "Are you sure you want to delete this content ?"
+msgstr "Etes-vous sûr de vouloir supprimer ce contenu ?"
+
+msgid "Are you sure you want to update end date ?"
+msgstr "Etes-vous sûr de vouloir changer la date de mise hors ligne?"
+
+msgid "associate your Facebook account to Digitaleo"
+msgstr "associer un compte Facebook à Digitaleo"
+
+msgid "associate your Twitter account to Digitaleo"
+msgstr "associer un compte Twitter à Digitaleo"
+
+msgid "at"
+msgstr "A ronde"
+
+msgid "attached o and e"
+msgstr "OE collé"
+
+msgid "Attributes"
+msgstr "Attributs"
+
+msgctxt ""
+msgid "available affiliates"
+msgstr "affiliés disponibles"
+
+msgid "available campaign templates"
+msgstr "modèles de campagne disponibles"
+
+msgid "Available custom fields..."
+msgstr "Champs personnalisés disponibles..."
+
+msgid "available soon"
+msgstr "bientôt disponible"
+
+msgid "back"
+msgstr "retour"
+
+msgid "back to campaign"
+msgstr "retour à la campagne"
+
+msgid "back to campaign list"
+msgstr "retour à la liste de campagnes"
+
+msgid "back to the list of affiliates"
+msgstr "retour à la liste des affiliés"
+
+msgctxt ""
+msgid "bad id"
+msgstr "mauvais ID"
+
+msgid "Bar code"
+msgstr "Code barre"
+
+msgid "begin to import your contacts"
+msgstr "confirmer l'import de contacts"
+
+msgid "bienvenue, "
+msgstr "bienvenue, "
+
+msgid "welcome"
+msgstr "bienvenue"
+
+msgid "birthDate"
+msgstr "Date de naissance"
+
+msgid "birthdate"
+msgstr "Date de naissance"
+
+msgid "bounce rate"
+msgstr "taux de rebond"
+
+msgid "Broadcast"
+msgstr "Diffuser"
+
+msgid "broadcast"
+msgstr "diffusion"
+
+msgid "budget"
+msgstr "budget"
+
+msgid "build_done"
+msgstr "préparation terminée"
+
+msgid "build_in_progress"
+msgstr "préparation en cours"
+
+msgid "contact_serialisation_in_progress"
+msgstr "sérialisation des contacts en cours"
+
+msgid "Button label"
+msgstr "Libellé du bouton"
+
+msgid "calendar.hour"
+msgstr "heure"
+
+msgid "calendar.minute"
+msgstr "minute"
+
+msgid "calendar.time"
+msgstr "horaire"
+
+msgid "campaign"
+msgstr "campagne"
+
+msgid "campaign cancelled"
+msgstr "campagne annulée"
+
+msgid "campaign deleted"
+msgstr "campagne supprimée"
+
+msgid "template campaign deleted"
+msgstr "modèle de campagne supprimé"
+
+msgid "campaign details"
+msgstr "détail de la campagne"
+
+msgid "campaign id"
+msgstr "identifiant de campagne"
+
+msgid "campaign not found"
+msgstr "campagne non trouvée"
+
+msgid "Campaign stats"
+msgstr "Statistiques de la campagne"
+
+msgid "campaign template deleted"
+msgstr "modèle de campagne supprimé"
+
+msgid "campaign template name"
+msgstr "nom du modèle de campagne"
+
+msgctxt ""
+msgid "campaign template not found"
+msgstr " \"le modèle de campagne n'a pas été trouvé\""
+
+msgid "campaign templates"
+msgstr "modèles de campagne"
+
+msgid "campaign was successfully created"
+msgstr "Campagne créée avec succès"
+
+msgid "campaign was successfully duplicated"
+msgstr "Campagne dupliquée avec succès"
+
+msgid "campaign-stats"
+msgstr "statistiques-campagne"
+
+msgid "campaign-template-stats"
+msgstr "campaign-template-stats"
+
+msgid "Campaigns"
+msgstr "Campagnes"
+
+msgid "campaigns"
+msgstr "campagnes"
+
+msgid "campaigns using the template"
+msgstr "campagnes utilisant le modèle"
+
+msgid "Validate"
+msgstr "Valider"
+
+msgctxt ""
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "cancel"
+msgstr "annuler"
+
+msgid "Cancel campaign"
+msgstr "Annuler la campagne"
+
+msgid "cancel note"
+msgstr "désactiver le message"
+
+msgid "Cancel note"
+msgstr "Désactiver le message"
+
+msgid "Cancel template"
+msgstr "Désactiver le modèle"
+
+msgid "cannot add a message wihtout a valid media type."
+msgstr "impossible d'ajouter un message sans un media valide."
+
+msgid "cannot add a message wihtout a valid step identifier."
+msgstr "impossible d'ajouter un message sans un identifiant d'étape valide."
+
+msgid "cannot add message"
+msgstr "impossible d'ajouter un message"
+
+msgid "cannot associate your selection into a list"
+msgstr "impossible d'ajouter la sélection à une liste"
+
+msgid "cannot cancel campaign with invalid identifier"
+msgstr "impossible d'annuler la campagne, identifiant invalide"
+
+msgid "Cannot cancel campaign with status : %s."
+msgstr "Impossible d'annuler une campagne dont le statut est : %s"
+
+msgid "cannot cancel campaign, no campaign found"
+msgstr "Impossible d'annuler la campagne, pas de campagne trouvée"
+
+msgid "cannot cancel template campaign, no campaign found"
+msgstr "Impossible d'annuler le modèle de campagne, pas de modèle trouvée"
+
+msgid "cannot cancel not confirmed template"
+msgstr "impossible de supprimer un template non validé"
+
+msgid "cannot cancel note"
+msgstr "impossible de désactiver le mesage"
+
+msgid "cannot cancel template"
+msgstr "impossible de désactiver le modèle"
+
+msgid "cannot confirm campaign"
+msgstr "impossible de confirmer la campagne"
+
+msgid "cannot confirm campaign with invalid identifier"
+msgstr "impossible de confirmer une campagne avec un identifiant invalide"
+
+msgid "cannot confirm campaign, unable to use a rented list"
+msgstr "impossible d'utiliser une liste louée pour la campagne"
+
+msgid ""
+"cannot confirm campaign, you can't use a rented list for an automatic "
+"campaign"
+msgstr "impossible d'utiliser une liste louée pour une campagne automatique"
+
+msgid ""
+"cannot confirm campaign, you can't use a rented list for a multiple steps "
+"campaign"
+msgstr ""
+"impossible d'utiliser une liste louée pour une campagne comportant plusieurs "
+"étapes"
+
+msgid ""
+"cannot confirm campaign, your list has expired, please select another one"
+msgstr "impossible d'utiliser cette liste de contacts car elle a expiré"
+
+msgid ""
+"cannot confirm campaign, your list will expired before your step will be "
+"sent, please select another one"
+msgstr ""
+"impossible d'utiliser cette liste de contacts car elle aura expiré avant la "
+"date d'envoi choisie"
+
+msgid "cannot confirm campaign, at least one invalid step"
+msgstr ""
+"la campagne ne peut pas être confirmée car elle a au moins une étape invalide"
+
+msgid "cannot confirm campaign, invalid campaign name"
+msgstr "la campagne ne peut pas être confirmée car le nom n'est pas valide"
+
+msgid "cannot confirm campaign, invalid contact list"
+msgstr "la campagne ne peut pas être confirmée car aucune liste n'est utilisée"
+
+msgid "cannot confirm campaign, invalid contact list for PUSH channel"
+msgstr ""
+"la campagne ne peut pas être confirmée car aucune liste n'est utilise pour "
+"les canaux PUSH"
+
+msgid "cannot confirm campaign, invalid email subject for step"
+msgstr ""
+"la campagne ne peut pas être confirmée car l'objet du message email n'est "
+"pas valide pour l'étape"
+
+msgid "cannot confirm campaign, invalid email subject for steps"
+msgstr ""
+"la campagne ne peut pas être confirmée car les objets des messages email ne "
+"sont pas valides pour les étapes"
+
+msgid "cannot confirm campaign, invalid email reply to field for step"
+msgstr ""
+"la campagne ne peut pas être confirmée car le champ répondre du message "
+"email n'est pas valide pour l'étape"
+
+msgid "cannot confirm campaign, invalid email reply to field for steps"
+msgstr ""
+"la campagne ne peut pas être confirmée car les champs répondre des messages "
+"email ne sont pas valides pour les étapes"
+
+msgid "cannot confirm campaign, invalid execution date"
+msgstr "la campagne ne peut pas être confirmée car sa date d'envoi est invalide"
+
+msgid "cannot confirm campaign, invalid execution dates of steps"
+msgstr ""
+"la campagne ne peut pas être confirmée car les dates d'envoi des canaux ne "
+"sont pas valides"
+
+msgid "cannot confirm campaign, invalid number of steps"
+msgstr ""
+"la campagne ne peut pas être confirmée car elle doit avoir au moins une étape"
+
+msgid "cannot confirm campaign, invalid steps"
+msgstr ""
+"la campagne ne peut pas être confirmée car les étapes ne sont pas valides"
+
+msgid "cannot confirm campaign, invalid user"
+msgstr ""
+"la campagne ne peut pas être confirmée car l'utilisateur n'est pas valid"
+
+msgid "cannot confirm campaign, no countact found"
+msgstr "la campagne ne peut pas être confirmée car elle n'a aucun contact"
+
+msgid "cannot confirm campaign, status is not editing"
+msgstr ""
+"la campagne ne peut pas être confirmée car elle n'est pas en mode édition"
+
+msgid "cannot confirm campaign; invalid contact list for PUSH channel"
+msgstr ""
+"la campagne ne peut pas être confirmée car aucune liste n'est utilisée pour "
+"les canaux PUSH"
+
+msgid "cannot confirm campaign; invalid execution dates of steps"
+msgstr ""
+"la campagne ne peut pas être confirmée car les dates d'envoi des canaux ne "
+"sont pas valides"
+
+msgid "cannot confirm campaign; invalid number of steps"
+msgstr ""
+"la campagne ne peut pas être confirmée car elle doit avoir au moins une étape"
+
+msgid "cannot confirm campaign; status is not editing"
+msgstr ""
+"la campagne ne peut pas être confirmée car elle n'est pas en mode édition"
+
+msgid "cannot confirm campaign, SMS content is not valid"
+msgstr ""
+"la campagne ne peut pas être confirmée car le contenu du message SMS n'est "
+"pas valide"
+
+msgid ""
+"cannot confirm campaign, customized TPOA AND responses management are not "
+"compatible"
+msgstr ""
+"la campagne ne peut pas être confirmée car la personnalisation de "
+"l'expéditeur ET la récupéreration des réponses aux SMS ne sont pas "
+"compatibles"
+
+msgid "cannot confirm campaign, contact list is demo type"
+msgstr ""
+"Vous ne pouvez pas confirmer votre campagne sur une liste de contacts de "
+"démonstration.<br/><br/>Merci d'utiliser une autre liste de contacts pour "
+"confirmer votre campagne."
+
+msgid "cannot confirm template"
+msgstr "impossible de confirmer le modèle"
+
+msgid "cannot create a new contact"
+msgstr "impossible de créer un nouveau contact"
+
+msgid "cannot create a new list"
+msgstr "impossible de créer une nouvelle liste"
+
+msgid "cannot create a new list without a valid selection"
+msgstr "impossible de créer une nouvelle liste sans un identifiant valide"
+
+msgctxt ""
+msgid "cannot create campaign"
+msgstr "impossible de créer une campagne"
+
+msgid "cannot create campaign template"
+msgstr "échec à la création du modèle de campagne"
+
+msgctxt ""
+msgid "cannot create campaign template 1"
+msgstr "échec à la création du modèle de campagne (étape 1)"
+
+msgctxt ""
+msgid "cannot create campaign template 2 (step)"
+msgstr "échec à la création du modèle de campagne (étape 2)"
+
+msgctxt ""
+msgid "cannot create step"
+msgstr "impossible de créer une étape"
+
+msgctxt ""
+msgid "cannot create template"
+msgstr "échec à la création du modèle"
+
+msgid "Cannot delete a message without a valide identifier"
+msgstr "Impossible de supprimer un message sans un identifiant valide"
+
+msgid "cannot delete campaign"
+msgstr "impossible de supprimer la campagne"
+
+msgid "cannot delete campaign template with invalid identifier"
+msgstr ""
+"impossible de supprimer un modèle de campagne sans un identifiant valide"
+
+msgid "cannot delete campaign with invalid identifier"
+msgstr "impossible de supprimer une campagne sans un identifiant valide"
+
+msgid "cannot delete template campaign with invalid identifier"
+msgstr ""
+"impossible de supprimer un modèle de campagne sans un identifiant valide"
+
+msgid "Cannot delete network with invalid identifier."
+msgstr "Impossible de supprimer un réseau : identifiant invalide"
+
+msgid "cannot delete orphan contact"
+msgstr "impossible de supprimer les contacts orphelins"
+
+msgctxt ""
+msgid "cannot delete step belonging to invalid template"
+msgstr "impossible d'effacer une étape depuis un modèle invalide"
+
+msgctxt ""
+msgid "cannot delete step if not in edit mode"
+msgstr "impossible d'effacer une étape en depersdu mode édition"
+
+msgctxt ""
+msgid "cannot delete step without valid identifier"
+msgstr "impossible de supprimer une étape avec un identifiant invalide"
+
+msgid "cannot delete your selection"
+msgstr "impossible de supprimer la sélection"
+
+msgid "cannot display campaign"
+msgstr "impossible d'afficher la campagne"
+
+msgctxt ""
+msgid "cannot display campaign template without a valid identifier"
+msgstr "l'identifiant de modèle de campagne n'est pas valide"
+
+msgid "cannot display campaign without a valid identifier"
+msgstr "impossible d'afficher la campagne sans un identifiant valide"
+
+msgid "cannot display contact with invalid identifiers"
+msgstr "impossible d'afficher un contact sans un identifiant valide"
+
+msgid "cannot display details"
+msgstr "impossible d'affiche le detail"
+
+msgid "cannot display details with invalid identifiers"
+msgstr "impossible d'afficher le detail à partir d'un identifiant invalide"
+
+msgid "cannot display note"
+msgstr "impossible d'afficher le message"
+
+msgid "cannot display stats for this step"
+msgstr "impossible d'afficher des statistiques pour cette étape"
+
+msgid "cannot duplicate campaign with invalid identifier"
+msgstr "impossible de dupliquer une campagne à partir d'un identifiant invalide"
+
+msgid "cannot duplicate template campaign with invalid identifier"
+msgstr ""
+"impossible de dupliquer un modèle de campagne à partir d'un identifiant "
+"invalide"
+
+msgid "cannot duplicate note"
+msgstr "impossible de dupliquer le message"
+
+msgid "cannot edit a shared campaign template"
+msgstr "Impossible d'éditer un modèle de campagne partagé"
+
+msgid "Cannot edit step with invalid campaign"
+msgstr "Impossible d'éditer une étape dans une campagne invalide"
+
+msgid "Cannot edit step with invalid identifier"
+msgstr "Impossible d'éditer une étape à partir d'un identifiant invalide"
+
+msgctxt ""
+msgid "cannot export your selection"
+msgstr "impossible d'exporter la sélection"
+
+msgctxt ""
+msgid "Cannot extract archive file, it must be valid"
+msgstr ""
+"Impossible d'extraire le contenu de l'archive, le fichier doit etre valide"
+
+msgid ""
+"Cannot process this file, if the problem occurs again contact the support"
+msgstr ""
+"Impossible de traiter le fichier, si le problème persiste, veuillez "
+"contacter le support"
+
+msgid "Cannot found this message"
+msgstr "Impossible de trouver ce message"
+
+msgctxt ""
+msgid "Cannot load content of temporary file"
+msgstr "Impossible d'acceder au repertoire temporaire"
+
+msgid "Cannot load this tab"
+msgstr "Impossible de charger cet onglet"
+
+msgctxt ""
+msgid "Cannot open archive file"
+msgstr "Impossible d'ouvrir l'archive"
+
+msgid "cannot optin your selection"
+msgstr "impossible d'activer la sélection"
+
+msgid "cannot optout your selection"
+msgstr "impossible de désactiver la sélection"
+
+msgid "cannot read data in this file"
+msgstr "données illisibles dans ce fichier"
+
+msgid "cannot save campaign"
+msgstr "impossible de sauver la campagne"
+
+msgid "Cannot share template to this affiliate group."
+msgstr "Impossible de partager le template à ce groupe d'affiliés"
+
+msgid "cannot update the list name"
+msgstr "impossible de mettre à jour le nom de la liste"
+
+msgid "cannot update the campaign name"
+msgstr "impossible de mettre à jour le nom de la campagne"
+
+msgctxt ""
+msgid "Cannot use a Zip archive which contain more than one html file"
+msgstr "Impossible de traiter une archive contenant plus d'un fichier HTML"
+
+msgid "Channel"
+msgstr "Canal"
+
+msgid "channel"
+msgstr "canal"
+
+msgctxt ""
+msgid "channels"
+msgstr "Canaux"
+
+msgid "Channels"
+msgstr "Canaux"
+
+msgid "channels usage"
+msgstr "utilisation des canaux"
+
+msgid "Characters number"
+msgstr "Nombre de caractères"
+
+msgid "characters number"
+msgstr "nombre de caractères"
+
+msgid "Characters which are not listed below, will be deleted"
+msgstr ""
+"Les caractères qui ne sont pas listés ici sont automatiquement supprimés."
+
+msgid "choose on which facebook page you wish to post."
+msgstr "choisissez la page Facebook sur laquelle vous souhaitez poster."
+
+msgctxt ""
+msgid "City"
+msgstr "Ville"
+
+msgctxt ""
+msgid "city"
+msgstr "ville"
+
+msgid "civility"
+msgstr "Civilité"
+
+msgid "clear"
+msgstr "effacer"
+
+msgid "Clear selection"
+msgstr "Effacer la sélection"
+
+msgid "Clic on the left part to display zone parameter"
+msgstr "Cliquez sur une zone à gauche pour l'éditer"
+
+msgid "click details"
+msgstr "détails des clics"
+
+msgctxt ""
+msgid "Click here to unsubscribe"
+msgstr "Cliquez ici pour vous d&eacute;sinscrire"
+
+msgid "Click on the left pane to display parameters"
+msgstr "Cliquez sur une zone à gauche pour l'éditer"
+
+msgid "clicked ratio"
+msgstr "taux de clics"
+
+msgid "clicked.export"
+msgstr "cliqueur"
+
+msgid "clickers"
+msgstr "cliqueurs"
+
+msgid "client code"
+msgstr "code client"
+
+msgid "close"
+msgstr "fermer"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "closed"
+msgstr "terminée"
+
+msgid "code"
+msgstr "code"
+
+msgid "Code/Url"
+msgstr "Code/Url"
+
+msgid "color #1"
+msgstr "Couleur 1"
+
+msgid "color #2"
+msgstr "Couleur 2"
+
+msgid "column name awaited"
+msgstr "en-tête de colonne attendu"
+
+msgid "column name found"
+msgstr "en-tête de colonne trouvé"
+
+msgid "comment"
+msgstr "mémo"
+
+msgid "comments"
+msgstr "mémos"
+
+msgid ""
+"communicate with you contacts via email in order to present your visual an "
+"personalised offer"
+msgstr ""
+"communiquez par email avec vos contacts pour présenter l'offre de façon "
+"visuelle et personnalisée"
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "company"
+msgstr "Société"
+
+msgid "company code"
+msgstr "code contrat"
+
+msgid "complete export"
+msgstr "Export ZIP (complet)"
+
+msgid "complete view"
+msgstr "vue complète"
+
+msgid "Confirm"
+msgstr "Confirmation"
+
+msgid "confirm"
+msgstr "confirmer"
+
+msgid "confirm campaign"
+msgstr "confirmer la campagne"
+
+msgid "confirm confirm campaign"
+msgstr "etes-vous sûr de vouloir confirmer la campagne ?"
+
+msgid "confirm campaign ?"
+msgstr "confirmer l'envoi de campagne ?"
+
+msgid "confirm delete list"
+msgstr "etes-vous sûr de vouloir supprimer la liste ?"
+
+msgid "confirm delete step"
+msgstr "etes-vous sûr de vouloir supprimer cette étape ?"
+
+msgid "Confirm deletion of all contacts search"
+msgstr "Confirmer la suppression de tous les contacts de la recherche"
+
+msgid "Confirm deletion of selected contacts"
+msgstr "Confirmer la suppression des contacts sélectionnés"
+
+msgid "Confirm deletion of the selected contact"
+msgstr "Confirmer la suppression du contact sélectionné"
+
+msgid "Confirm removal of contacts from list"
+msgstr "Confirmer le retrait des contacts sélectionnés de la liste"
+
+msgid "Confirm removal the contact from list"
+msgstr "Confirmer le retrait du contact sélectionné de la liste"
+
+msgid "Confirm remove contacts without list"
+msgstr "Confirmer la suppression des contacts sans liste"
+
+msgid "Confirm the deletion of all the contacts in the database"
+msgstr "Confirmer la suppression de tous les contacts de la base de données"
+
+msgid "Confirm the optin of %s selected contact"
+msgstr "Confirmer la mise en optout des %s contacts sélectionnés"
+
+msgid "Confirm the optin of all the contacts in the list"
+msgstr "Confirmer l'activation de tous les contacts de la liste"
+
+msgid "Confirm the optin of all the contacts search"
+msgstr "Confirmer l'activation de tous les contacts de la recherche"
+
+msgid "Confirm the optin of selected contact"
+msgstr "Confirmer l'activation des contacts sélectionnés"
+
+msgid "Confirm the optin of the selected contact"
+msgstr "Confirmer l'activation du contact sélectionné"
+
+msgid "Confirm the optout of %s selected contact"
+msgstr "Confirmer la mise en optout des %s contacts sélectionnés"
+
+msgid "Confirm the optout of all the contacts in the list"
+msgstr "Confirmer la désactivation de tous les contacts de la liste"
+
+msgid "Confirm the optout of all the contacts search"
+msgstr "Confirmer la désactivation de tous les contacts de la recherche"
+
+msgid "Confirm the optout of selected contact"
+msgstr "Confirmer la désactivation des contacts sélectionnés"
+
+msgid "Confirm the optout of the selected contact"
+msgstr "Confirmer la désactivation du contact sélectionné"
+
+msgid "Confirm the removal of all contacts in the list"
+msgstr "Confirmer le retrait de tous les contacts de la liste"
+
+msgid "Confirm the removal of all contacts search"
+msgstr "Confirmer le retrait de tous les contacts de la recherche"
+
+msgid "confirmed"
+msgstr "confimée"
+
+msgid "contact"
+msgstr "contact"
+
+msgid "contact added"
+msgstr "contact ajouté"
+
+msgid "Contact already exist"
+msgstr "Ce contact existe déjà"
+
+msgid "contact coordinates"
+msgstr "coordonnées du contact"
+
+msgid "Contact export"
+msgstr "Export des contacts"
+
+msgid "contact imported"
+msgstr "contact importé"
+
+msgid "contacts imported"
+msgstr "contacts importés"
+
+msgid "contact info"
+msgstr "coordonnées du contact"
+
+msgid "contact list name"
+msgstr "Nom de la liste de diffusion"
+
+msgid "contact name"
+msgstr "nom du contact"
+
+msgid "Contact optin"
+msgstr "Activation du contact"
+
+msgid "Contact optout"
+msgstr "Désactivation du contact"
+
+msgid "contact updated"
+msgstr "contact mis à jour"
+
+msgid "CONTACT-FIELDS"
+msgstr "Données des contacts"
+
+msgid "contact.filter"
+msgstr "filtres de contacts"
+
+msgid "contact.media.status-1"
+msgstr "désactivation manuelle"
+
+msgid "contact.media.status-2"
+msgstr "désactivation automatique"
+
+msgid "contact.media.status-3"
+msgstr "information non valide"
+
+msgid "contact.media.status0"
+msgstr "information non saisie"
+
+msgid "contact.media.status1"
+msgstr "information valide"
+
+msgid "contact.warning"
+msgstr "warning"
+
+msgid "contact(s)"
+msgstr "contact(s)"
+
+msgid "contacts"
+msgstr "contacts"
+
+msgid "contacts not found"
+msgstr "aucun contact trouvé"
+
+msgid "contacts on this page are selected"
+msgstr "contacts de cette page sont sélectionnés"
+
+msgid "Contacts optin"
+msgstr "Activation des contacts"
+
+msgid "Contacts optout"
+msgstr "Désactivation des contacts"
+
+msgid "contacts will be merged with the following criterias :"
+msgstr "les contacts seront dédoublonnés sur les critères d'unicité suivants :"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "content"
+msgstr "Contenu"
+
+msgid "content title"
+msgstr "titre du contenu"
+
+msgid "continue"
+msgstr "continuer"
+
+msgid "Contract"
+msgstr "Contrat"
+
+msgid "contract"
+msgstr "contrat"
+
+msgid "contract details"
+msgstr "informations contrat"
+
+msgid "Contracts"
+msgstr "Contrats"
+
+msgid "contracts deleted"
+msgstr "entreprises supprimées"
+
+msgid "Copy/paste from an external tool may cause dysfunctions when sending."
+msgstr ""
+"Le copier-coller depuis un outil externe peut provoquer des "
+"dysfonctionnements lors de l'envoi."
+
+msgid "could not add parameter"
+msgstr "impossible d'ajouter le paramètre"
+
+msgid "could not create a new note"
+msgstr "impossible de créer la note"
+
+msgid "could not delete the affiliates group"
+msgstr "impossible de supprimer la liste d'affiliés"
+
+msgctxt ""
+msgid "could not delete the list of affiliates"
+msgstr "impossible de supprimer la liste d'affiliés"
+
+msgid "Could not kill the session %s"
+msgstr "la session %s n'a pas pu être tuée"
+
+msgctxt ""
+msgid "could not update list"
+msgstr "impossible de mettre à jour la liste"
+
+msgctxt ""
+msgid "could not update list name"
+msgstr "impossible de mettre à jour le nom de la liste"
+
+msgid "could not update the note"
+msgstr "impossible de mettre à jour la note"
+
+msgid "country"
+msgstr "pays"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "create a campaign"
+msgstr "créer une nouvelle campagne"
+
+msgid "Create a contact list with existing contacts from a campaign"
+msgstr "Créer une liste de contacts à partir de contacts d'une campagne"
+
+msgid "create a list"
+msgstr "créer une liste"
+
+msgid "create a new campaign"
+msgstr "créer une nouvelle campagne"
+
+msgid "create a new campaign from template"
+msgstr "créer une nouvelle campagne à partir d'un modèle"
+
+msgid "create a new campaign template"
+msgstr "créer un nouveau modèle de campagne"
+
+msgid "Create a new campaign with this list"
+msgstr "Créer une nouvelle campagne avec cette liste"
+
+msgid "create a new campaign with this template"
+msgstr "créer une nouvelle campagne avec ce modèle"
+
+msgid "create a new contact list"
+msgstr "créer une nouvelle liste"
+
+msgid "create a new contact list and create campaign"
+msgstr "créer une liste et lancer une campagne"
+
+msgid "create a new note"
+msgstr "ajouter un nouveau message"
+
+msgid "create bar code"
+msgstr "créer un code barre"
+
+msgid "create list"
+msgstr "création de liste"
+
+msgid "create list from these contacts"
+msgstr "créer une liste à partir de ces contacts"
+
+msgid "create new list"
+msgstr "créer une nouvelle liste"
+
+msgid "create new list with selection"
+msgstr "créer une nouvelle liste à partir de la sélection"
+
+msgid "create new page"
+msgstr "créer une nouvelle page"
+
+msgid "create your content"
+msgstr "créez un contenu"
+
+msgid "creation date"
+msgstr "date de création"
+
+msgid "creator"
+msgstr "createur"
+
+msgid "CSS content"
+msgstr "Contenu CSS"
+
+msgid "css file"
+msgstr "fichier css"
+
+msgid "CSV separator"
+msgstr "séparateur CSV"
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+msgid "database.action"
+msgstr "actions"
+
+msgid "date"
+msgstr "date"
+
+msgid "dates"
+msgstr "dates"
+
+msgid "Default value"
+msgstr "Valeur par défaut"
+
+msgid "define as a template"
+msgstr "définir comme modèle"
+
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/component/edit.form.phtml:77
-msgid "Up"
-msgstr ""
+msgid "delete"
+msgstr "supprimer"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/component/edit.form.phtml:85
+msgid "delete affiliates group"
+msgstr "supprimer le groupe d'affiliés"
+
+msgid "delete all selected lists"
+msgstr "supprimer toutes les listes sélectionnées"
+
+msgid "Delete campaign"
+msgstr "Supprimer la campagne"
+
+msgid "Delete campaign template"
+msgstr "Supprimer le modèle de campagne"
+
+msgid "delete selection"
+msgstr "supprimer la sélection"
+
+msgid "Delete content"
+msgstr "Supprimer le contenu"
+
+msgid "delete current selection"
+msgstr "supprimer la sélection courante"
+
+msgid "delete Facebook / Digitaleo association"
+msgstr "supprimer l'association Facebook / Digitaleo"
+
+msgid "delete list"
+msgstr "supprimer la liste"
+
+msgid "delete lists"
+msgstr "Suppression de listes"
+
+msgid "Delete note"
+msgstr "Supprimer le message"
+
+msgid "delete step"
+msgstr "supprimer l'étape"
+
+msgid "Delete step"
+msgstr "Supprimer l'étape"
+
+msgid "delete this step"
+msgstr "supprimer l'étape"
+
+msgid "delete Twitter / Digitaleo association"
+msgstr "supprimer l'association Twitter / Digitaleo"
+
+msgid "delivered"
+msgstr "delivré"
+
+msgid "delivered messages"
+msgstr "messages délivrés"
+
+msgid "designation"
+msgstr "désignation"
+
+msgid "designation:"
+msgstr "désignation :"
+
+msgid "detail of message distribution of type"
+msgstr "détail de la diffusion du message par statut"
+
+msgid "details for list"
+msgstr "détails de la liste"
+
+msgid "details of the campaign"
+msgstr "détails de la campagne"
+
+msgid "details of the campaign template"
+msgstr "détails du modèle de campagne"
+
+msgctxt ""
+msgid "Digitaleo"
+msgstr "Digitaleo"
+
+msgid "Digitaleo Blog"
+msgstr "Blog Digitaleo"
+
+msgid "Digitaleo.mail"
+msgstr "contact@digitaleo.com"
+
+msgid "Digitaleo.phone"
+msgstr "02.56.03.67.00"
+
+msgid "Direct access to the product"
+msgstr "Accès direct au produit"
+
+msgid "display errors"
+msgstr "afficher les erreurs"
+
+msgid "displayed"
+msgstr "Affiché"
+
+msgid "do you want deleted all lists selected?"
+msgstr ""
+"Etes-vous sûr de vouloir supprimer les listes de contacts sélectionnées ?"
+
+msgctxt ""
+msgid "done"
+msgstr "terminé"
+
 msgid "Down"
-msgstr ""
+msgstr "Bas"
 
-#: /Users/qtorck/sources/v2.marketeo.net//application/modules/editor/views/scripts/component/edit.form.phtml:94
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "download example file"
+msgstr "télécharger un fichier d'exemple"
+
+msgid "download the final QR code"
+msgstr "téléchargez le QR code definitif"
+
+msgid "draft"
+msgstr "en création"
+
+msgid "duplicate"
+msgstr "Dupliquer"
+
+msgid "Duplicate campaign"
+msgstr "Dupliquer la campagne"
+
+msgid "Duplicate note"
+msgstr "Dupliquer le message"
+
+msgid "Duplicate template"
+msgstr "Dupliquer le modèle"
+
+msgid "e with accent"
+msgstr "e circonflexe"
+
+msgid "easily communicate via SMS with your customers whenever you want"
+msgstr ""
+"echangez facilement et simplement par SMS avec vos clients dès que vous le "
+"souhaitez"
+
+msgid "Edit"
+msgstr "Edition"
+
+msgid "edit"
+msgstr "edition"
+
+msgid "Edit a component"
+msgstr "Edition d'un composant"
+
+msgid "Edit affiliates group"
+msgstr "Éditer le groupe d'affiliés"
+
+msgid "edit affiliates group"
+msgstr "éditer le groupe d'affiliés"
+
+msgctxt ""
+msgid "edit affiliates list"
+msgstr "éditer un groupe d'affiliés"
+
+msgid "Edit campaign"
+msgstr "Editer la campagne"
+
+msgctxt ""
+msgid "edit contact"
+msgstr "modifier le contact"
+
+msgid "edit contacts"
+msgstr "modifier les contacts"
+
+msgid "Edit note"
+msgstr "Editer le message"
+
+msgid "edit or test"
+msgstr "editer ou tester"
+
+msgid "Edit step"
+msgstr "Editer l'étape"
+
+msgid "Edit template"
+msgstr "Editer le modèle"
+
+msgid "edit the SMS"
+msgstr "editer le SMS"
+
+msgid "edit your media channels bellow"
+msgstr "éditez vos canaux médias ci-dessous"
+
+msgid "editing"
+msgstr "en création"
+
+msgid "Edition"
+msgstr "Edition"
+
+msgid "editor"
+msgstr "Editeur"
+
+msgctxt ""
+msgid "email"
+msgstr "Email"
+
+msgid "EMAIL"
+msgstr "EMAIL"
+
+msgid "email alerte"
+msgstr "Les alertes email"
+
+msgid "Email list"
+msgstr "Emails"
+
+msgid "email notification"
+msgstr "notifier les affiliés par email"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "empty mail"
+msgstr "mail épuisé"
+
+msgid "empty mail Html"
+msgstr "html du mail épuisé"
+
+msgid "empty mail subject"
+msgstr "sujet du mail épuisé"
+
+msgid "empty mail text"
+msgstr "text du mail épuisé"
+
+msgid "en"
+msgstr "en"
+
+msgid "End date"
+msgstr "Date de fin"
+
+msgid "end date"
+msgstr "date de fin"
+
+msgid "ending"
+msgstr "au"
+
+msgctxt ""
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Error : invalid file extension"
+msgstr "Erreur : extension de fichier non valide"
+
+msgid "Error : Parameter reset format is invalid"
+msgstr "Erreur : Le format crontab de réinitialisation est invalide"
+
+msgid "Error : please select a media"
+msgstr "Erreur : merci de séléctionner un média"
+
+msgid "Error : Some fields must not be empty"
+msgstr "Erreur : merci de compléter tous les champs"
+
+msgid "error creating contacts list, parameter missing"
+msgstr ""
+"erreur lors de la création de la liste de contacts, un paramètre manque, la "
+"liste n'a pas été créée"
+
+msgctxt ""
+msgid "Error uploading image into baseo library"
+msgstr "Impossible de charger les images dans Baseo"
+
+msgid "error while creating list"
+msgstr "erreur lors de la création"
+
+msgid "error while reading stats"
+msgstr ""
+"erreur lors de la récupération des statistiques, la liste n'a pas été créée"
+
+msgid "error: your list has not been created"
+msgstr "la liste n'a pas été créée"
+
+msgid "estimate"
+msgstr "estimation"
+
+msgid "Excel file"
+msgstr "fichier Excel"
+
+msgid "execution date"
+msgstr "date d'envoi"
+
+msgid "execution date from"
+msgstr "date d'envoi à partir du"
+
+msgid "execution date until"
+msgstr "date d'envoi jusqu'au"
+
+msgid "Existing component"
+msgstr "Composant existant"
+
+msgid "expired"
+msgstr "terminé"
+
+msgctxt ""
+msgid "export affiliates"
+msgstr "exporter les affiliés"
+
+msgid "export selection"
+msgstr "exporter la sélection"
+
+msgid "export pdf"
+msgstr "Export PDF (résumé)"
+
+msgid "facebook"
+msgstr "facebook"
+
+msgid "Facebook account"
+msgstr "le compte Facebook"
+
+msgid "Facebook list"
+msgstr "Facebook"
+
+msgid "facebook pages"
+msgstr "pages Facebook"
+
+msgid "Failure page"
+msgstr "Page d'échec"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "fax"
+msgstr "Fax"
+
 msgid "Field code"
+msgstr "Code de champ"
+
+msgid "field01"
+msgstr "Champ 1"
+
+msgid "field02"
+msgstr "Champ 2"
+
+msgid "field03"
+msgstr "Champ 3"
+
+msgid "field04"
+msgstr "Champ 4"
+
+msgid "field05"
+msgstr "Champ 5"
+
+msgid "field06"
+msgstr "Champ 6"
+
+msgid "field07"
+msgstr "Champ 7"
+
+msgid "field08"
+msgstr "Champ 8"
+
+msgid "field09"
+msgstr "Champ 9"
+
+msgid "field10"
+msgstr "Champ 10"
+
+msgid "field11"
+msgstr "Champ 11"
+
+msgid "field12"
+msgstr "Champ 12"
+
+msgid "field13"
+msgstr "Champ 13"
+
+msgid "field14"
+msgstr "Champ 14"
+
+msgid "field15"
+msgstr "Champ 15"
+
+msgid "file"
+msgstr "fichier"
+
+msgid "file name"
+msgstr "Nom du fichier"
+
+msgid "File not uploaded"
+msgstr "Fichier non téléchargé"
+
+msgid "file upload failed; please retry"
+msgstr "L'envoi du fichier a échoué; merci d'essayer à nouveau"
+
+msgid "file's datas will be imported. Check content."
+msgstr ""
+"les données du fichier vont être importées, veuillez vérifier le contenu."
+
+msgid "filename"
+msgstr "nom du fichier"
+
+msgid "filled forms"
+msgstr "formulaires renseignés"
+
+msgid "filter"
+msgstr "filtrer"
+
+msgid "Filter"
+msgstr "Filtrer"
+
+msgid "filter by"
+msgstr " filtrer par"
+
+msgid "filter.contains"
+msgstr "contient"
+
+msgid "filter.desc.filterAnd"
+msgstr "et"
+
+msgid "filter.desc.filterOr"
+msgstr "ou"
+
+msgid "filter.display_all"
+msgstr "tous"
+
+msgid "filter.empty"
+msgstr "est vide"
+
+msgid "filter.equals"
+msgstr "égal à"
+
+msgid "filter.not_equals"
+msgstr "différent de"
+
+msgid "filter.notempty"
+msgstr "est défini"
+
+msgid "filter.optout"
+msgstr "est désactivé"
+
+msgid "filter.optout.all"
+msgstr "est désactivé (tous motifs)"
+
+msgid "filter.optout.user"
+msgstr "est désactivé manuellement"
+
+msgid "filter.optout.contact"
+msgstr "est désactivé par le contact"
+
+msgid "filter.optout.hardbounced"
+msgstr "est désactivé automatiquement (incorrect)"
+
+msgid "filter.lower"
+msgstr "est inférieur à"
+
+msgid "filter.top"
+msgstr "est supérieur à"
+
+msgid "filter.startswith"
+msgstr "commence par"
+
+msgid "filter.delete"
+msgstr "supprimer les filtres"
+
+msgid "filter.lowereq"
+msgstr "est inférieur ou égal à"
+
+msgid "filter.topeq"
+msgstr "est supérieur ou égal à"
+
+msgid "finished"
+msgstr "terminées"
+
+msgid "firstName"
+msgstr "Prénom"
+
+msgid "First name"
+msgstr "Prénom"
+
+msgid "first name"
+msgstr "prénom"
+
+msgid "followers"
+msgstr "followers"
+
+msgid "form response"
+msgstr "réponses aux formulaires"
+
+msgid "Form results"
+msgstr "Résultats formulaires"
+
+msgid "forms"
+msgstr "formulaires"
+
+msgid "found contact(s)"
+msgstr "contact(s) trouvé(s)"
+
+msgid "Free search (contract name, city, ...)"
+msgstr "Recherche libre (nom du contrat, ville, ...)"
+
+msgid "free search (contract name; city; ...)"
+msgstr "recherche libre (nom du contrat; ville; ...)"
+
+msgid "Free search (network name)"
+msgstr "Recherche libre (nom de réseau)"
+
+msgid "Free search(name, firstname, login, email)"
+msgstr "Recherche libre (nom, prénom, login, email)"
+
+msgid "free search(name; firstname; login; email)"
+msgstr "recherche libre(nom; prénom; login; email)"
+
+msgctxt ""
+msgid "from"
+msgstr "expéditeur"
+
+msgid "from..."
+msgstr "depuis..."
+
+msgid "Full screen"
+msgstr "Plein écran"
+
+msgid "Generate"
+msgstr "Générer"
+
+msgid "generate"
+msgstr "générer"
+
+msgid "generate QR code"
+msgstr "générer un QR code"
+
+msgid "geoloc.circlr.rayon"
+msgstr "rayon du cercle"
+
+msgid "geoloc.clear.map"
+msgstr "supprimer la / les sélection(s)"
+
+msgid "geoloc.create.polygon"
+msgstr "créer un polygone"
+
+msgid "geoloc.remove.polygon"
+msgstr "supprimer le polygone"
+
+msgid "geoloc.select.circle"
+msgstr "sélection Circulaire"
+
+msgid "Géolocalisation"
+msgstr "Géolocalisation"
+
+msgid "Geolocation"
+msgstr "Géolocalisation"
+
+msgid "geolocation"
+msgstr "géolocalisation"
+
+msgid "global component"
+msgstr "composant global"
+
+msgid "group affiliates"
+msgstr "affiliés du groupe"
+
+msgid "group name"
+msgstr "nom du groupe"
+
+msgid "hb.export"
+msgstr "erreur permanente (hard bounce)"
+
+msgid "header line"
+msgstr "ligne d'entête"
+
+msgid "headers haven't been successfully recognized."
+msgstr ""
+"Merci de préciser les entêtes de colonne pour finaliser l'import de contacts"
+
+msgid "Height"
+msgstr "hauteur"
+
+msgid "help on page"
+msgstr "aide sur la page"
+
+msgid "here"
+msgstr "ici"
+
+msgid "hidden"
+msgstr "caché"
+
+msgid "Hidden Field"
+msgstr "Champ caché"
+
+msgid "history of email openings"
+msgstr "historique des ouvertures d'emails"
+
+msgid "history of openings and clicks"
+msgstr "historique des ouvertures et clics"
+
+msgid "history of mobile site visits"
+msgstr "historique des accès au smartpage"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "home page"
+msgstr "Home"
+
+msgid "Home page"
+msgstr "Page d'accueil"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "id"
+msgstr "identifiant"
+
+msgid "If this newsletter is not displayed properly, please click"
+msgstr "Si vous ne parvenez pas a visualiser cet email, cliquez"
+
+msgid "Image from URL"
+msgstr "Image à partir d'une URL"
+
+msgid "image preview"
+msgstr "Previsualisation"
+
+msgid "images bank"
+msgstr "banque d'images"
+
+msgctxt ""
+msgid "immediate"
+msgstr "immédiate"
+
+msgid "import a file"
+msgstr "importer un fichier"
+
+msgid "Import failed"
+msgstr "Echec de l'import"
+
+msgid "import the first line of file"
+msgstr "importer la première ligne du fichier"
+
+msgid "importation in progress"
+msgstr "import en cours"
+
+msgid "importation results"
+msgstr "résumé de l'import"
+
+msgid "importing in progress, please be patient..."
+msgstr "import en cours, merci de patienter"
+
+msgid "inactives"
+msgstr "inactifs"
+
+msgid "incorrect extension"
+msgstr "extension incorrecte"
+
+msgid "incorrect filesize"
+msgstr "taille de fichier incorrecte"
+
+msgid "indicator"
+msgstr "indicateur"
+
+msgid "industry templates"
+msgstr "templates réseau"
+
+msgid "Info"
+msgstr "Information"
+
+msgid "information"
+msgstr "information"
+
+msgid "Informations"
+msgstr "Informations"
+
+msgid "information about your SMS campaign"
+msgstr "Informations sur votre campagne SMS"
+
+msgid "Insert link to mobile site"
+msgstr "Insérer un lien vers la Smartpage"
+
+msgid "invalid company, cannot display settings"
+msgstr "societé invalide, les paramètres ne peuvent pas être affichés"
+
+msgid "invalid company; cannot display settings"
+msgstr "societé invalide; les paramètres ne peuvent pas être affichés"
+
+msgid "invalid contact"
+msgstr "contact invalide"
+
+msgid "invalid contacts"
+msgstr "contacts invalides"
+
+msgid "invalid list of contacts"
+msgstr "liste de contacts invalide."
+
+msgid "is associated with your Digitaleo account"
+msgstr "a éte associé au compte Digitaleo"
+
+msgid "item"
+msgstr "résultat"
+
+msgid "items"
+msgstr "résultats"
+
+msgctxt ""
+msgid "keep [ctrl] pressed for multiselect"
+msgstr "maintenez la touche [ctrl] pour une sélection multiple"
+
+msgctxt ""
+msgid "keywords"
+msgstr "mots-clés"
+
+msgid "ko"
+msgstr "non délivrés"
+
+msgid "ko.export"
+msgstr "non délivré"
+
+msgid "Label"
+msgstr "Libellé"
+
+msgid "label"
+msgstr "libellé"
+
+msgid "large (L)"
+msgstr "grand (L)"
+
+msgid "last affiliates"
+msgstr "derniers affiliés"
+
+msgid "last name"
+msgstr "nom"
+
+msgid "lastName"
+msgstr "Nom"
+
+msgid "lastname"
+msgstr "nom"
+
+msgid "latest campaign models"
+msgstr "derniers modèles de campagnes"
+
+msgid "latest network campaigns"
+msgstr "dernières campagnes du réseau"
+
+msgid "latest network users"
+msgstr "derniers utilisateurs du réseau"
+
+msgid "Legal mentions"
+msgstr "Mentions"
+
+msgid "legal.mentions.text"
+msgstr ""
+"L'ensemble de ce site relève de la législation française et internationale "
+"sur le droit d'auteur et la propriété intellectuelle.<br>Tous les droits de "
+"reproduction sont réservés, y compris pour les documents téléchargeables et "
+"les représentations iconographiques et photographiques.<br>La reproduction "
+"de tout ou partie de ce site sur quelque support que ce soit est "
+"formellement interdite sauf autorisation écrite émanant de la société "
+"Digitaleo.<br>Toutes les marques présentes sur ce site sont enregistrées "
+"auprès des organismes spécialisés, pour le compte de Digitaleo."
+
+msgctxt ""
+msgid "legend"
+msgstr "légende"
+
+msgid "libraries"
+msgstr "bibliothèques"
+
+msgid "library.personal"
+msgstr "personnelle"
+
+msgid "library.fotolia"
+msgstr "banque d'images"
+
+msgid "library.manager"
+msgstr "manager"
+
+msgid "likes"
+msgstr "j'aime"
+
+msgid "line found"
+msgstr "ligne trouvée"
+
+msgid "lines found"
+msgstr "lignes trouvées"
+
+msgid "Lines number"
+msgstr "Nombre de lignes"
+
+msgid "Link"
+msgstr "Lien"
+
+msgid "Link to smartpage"
+msgstr "Lien vers la Smartpage"
+
+msgid "link name"
+msgstr "nom du lien"
+
+msgid "list"
+msgstr "liste"
+
+msgid "list '%s' created"
+msgstr "Liste '%s' créée"
+
+msgctxt ""
+msgid "list affiliates"
+msgstr "lister les affiliés"
+
+msgid "List campaigns"
+msgstr "Liste des campagnes"
+
+msgid "list deleted"
+msgstr "liste supprimée"
+
+msgid "List messages"
+msgstr "Liste des messages"
+
+msgctxt ""
+msgid "list name"
+msgstr "nom de la liste"
+
+msgctxt ""
+msgid "list name should not be empty"
+msgstr "le nom de la liste ne doit pas être vide"
+
+msgid "list of affiliates"
+msgstr "liste des affiliés"
+
+msgctxt ""
+msgid "list of affiliates deleted"
+msgstr "liste d'affiliés supprimée"
+
+msgid "list of contacts"
+msgstr "liste de contacts"
+
+msgid "rented list"
+msgstr "liste louée"
+
+msgid "list of Facebook messages"
+msgstr "liste de messages Facebook"
+
+msgid "list of looks"
+msgstr "liste de looks"
+
+msgid "edit look"
+msgstr "editer le look"
+
+msgid "list of Mobile Site messages"
+msgstr "liste de smartpage"
+
+msgid "list of selected contact(s)"
+msgstr "liste de contact(s) selectionné(s)"
+
+msgid "list of sessions"
+msgstr "liste des sessions"
+
+msgid "list of structures"
+msgstr "liste de structures"
+
+msgid "list of Twitter messages"
+msgstr "liste de messages Twitter"
+
+msgid "list of Voice messages"
+msgstr "liste des messages vocaux"
+
+msgid "list of Voicemail messages"
+msgstr "liste des messages sur répondeur"
+
+msgid "lists"
+msgstr "listes"
+
+msgid "lists name"
+msgstr "noms de listes"
+
+msgid "lists of contacts"
+msgstr "listes de contacts"
+
+msgid "lists of networks"
+msgstr "listes de réseaux"
+
+msgid "live from Blog"
+msgstr "en direct du Blog"
+
+msgid "Load message from archive"
+msgstr "Charger le message à partir de l'archive"
+
+msgid "locale"
+msgstr "région"
+
+msgid "Login"
+msgstr "Identifiant"
+
+msgid "logout"
+msgstr "Déconnexion"
+
+msgid "Add to favorites"
+msgstr "Ajouter aux favoris"
+
+msgid "Look"
+msgstr "Style"
+
+msgid "look"
+msgstr "style"
+
+msgid "Look & feel"
+msgstr "Look & feel"
+
+msgid "mail.Digitaleo"
+msgstr "contact@digitaleo.com"
+
+msgid "make available"
+msgstr "mettre à disposition"
+
+msgid "manage"
+msgstr "gérer"
+
+msgctxt ""
+msgid "manage affiliates list"
+msgstr "gérer ses listes d'affiliés"
+
+msgid "Manage list"
+msgstr "Gérer la liste"
+
+msgid "manually create new list"
+msgstr "créer une liste manuellement"
+
+msgid "Marketeo"
+msgstr "Marketeo"
+
+msgid "maximum height"
+msgstr "hauteur maximale"
+
+msgid "maximum size"
+msgstr "dimensions maximales"
+
+msgid "maximum width"
+msgstr "largeur maximale"
+
+msgid ""
+"measure customer satisfaction immediately following a service and improve "
+"your reputation"
+msgstr ""
+"mesurez la satisfaction de vos clients immédiatement après le service et "
+"améliorez votre réputation"
+
+msgid "media library"
+msgstr "bibliothèque de contenus"
+
+msgid "medium (M)"
+msgstr "moyen (M)"
+
+msgid "memo"
+msgstr "mémo"
+
+msgid "merge all selected lists"
+msgstr "fusionner toutes les listes sélectionnées"
+
+msgid "merge lists"
+msgstr "fusionner des listes"
+
+msgid "message name"
+msgstr "nom du message"
+
+msgid "message preview"
+msgstr "aperçu du message"
+
+msgid "message performance"
+msgstr "performances du message"
+
+msgid "view message"
+msgstr "visualiser le message"
+
+msgid "message status"
+msgstr "statut du message"
+
+msgid "Message successfuly deleted"
+msgstr "message correctement supprimé"
+
+msgid "message(s) has been sent"
+msgstr "message(s) de test envoyé(s)"
+
+msgid "messages"
+msgstr "messages"
+
+msgid "messages detail"
+msgstr "détail des messages"
+
+msgctxt ""
+msgid "messages from the network"
+msgstr "messages du réseau"
+
+msgid "mobile"
+msgstr "Mobile"
+
+msgid "Mobile phone"
+msgstr "Mobile"
+
+msgid "mobile site"
+msgstr "smartpage"
+
+msgid "mobile website"
+msgstr "smartpage"
+
+msgid "Mobile:"
+msgstr "Portable:"
+
+msgid "Mobisiteo"
+msgstr "Smartpage"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "mode"
+msgstr "mode"
+
+msgid "model"
+msgstr "modèle"
+
+msgid "models"
+msgstr "modèles"
+
+msgid "modify or test your channel"
+msgstr "modifiez ou testez votre canal"
+
+msgid "Modules"
+msgstr "Modules"
+
+msgctxt ""
+msgid "more"
+msgstr "plus"
+
+msgid "more content"
+msgstr "plus de contenu"
+
+msgid "more details"
+msgstr "plus de détails"
+
+msgid "most visited pages"
+msgstr "pages les plus vues"
+
+msgid "multicanal"
+msgstr "combiné"
+
+msgid "Multichannel mode"
+msgstr "Combiné"
+
+msgctxt ""
+msgid "affiliates"
+msgstr "affiliés"
+
+msgid "affiliates groups"
+msgstr "groupes d'affiliés"
+
+msgctxt ""
+msgid "my affiliates lists"
+msgstr "listes d'affiliés"
+
+msgid "My budget"
+msgstr "Budget"
+
+msgid "my campaign templates"
+msgstr "modèles de campagnes"
+
+msgid "My Campaigns"
+msgstr "Campagnes"
+
+msgid "my campaigns"
+msgstr "campagnes"
+
+msgid "My communication"
+msgstr "Communications"
+
+msgid "my contact"
+msgstr "contact"
+
+msgid "my contact database"
+msgstr "Base de contacts"
+
+msgid "My Contacts"
+msgstr "Contacts"
+
+msgid "my contacts"
+msgstr "contacts"
+
+msgid "my contacts distribution per channel"
+msgstr "répartition des contacts par canal"
+
+msgid "My content"
+msgstr "Bibliothèques"
+
+msgid "my contents"
+msgstr "Bibliothèques"
+
+msgid "my dashboard"
+msgstr "tableau de bord"
+
+msgid "my group"
+msgstr "groupe"
+
+msgctxt ""
+msgid "my list"
+msgstr "liste"
+
+msgid "my lists"
+msgstr "listes"
+
+msgid "My messages"
+msgstr "Messages"
+
+msgid "my messages to the network"
+msgstr "messages au réseau"
+
+msgctxt ""
+msgid "My network"
+msgstr "Réseau"
+
+msgid "my network campaigns"
+msgstr "campagnes réseaux"
+
+msgid "my network messages"
+msgstr "messages à destination du réseau"
+
+msgid "my performance ratio"
+msgstr "ratios de performance"
+
+msgid "my previous campaigns"
+msgstr "dernières campagnes"
+
+msgid "my previous campaigns (New)"
+msgstr "dernières campagnes (New)"
+
+msgid "my previous contact lists"
+msgstr "dernières listes de contacts"
+
+msgid "my resources"
+msgstr "ressources"
+
+msgid "My templates"
+msgstr "Mes modèles"
+
+msgid "my templates"
+msgstr "templates"
+
+msgctxt ""
+msgid "Name"
+msgstr "Nom"
+
+msgid "name"
+msgstr "nom"
+
+msgid "name list (optional)"
+msgstr "Nom de la liste (optionnel)"
+
+msgid "name your campaign"
+msgstr "nommez votre campagne"
+
+msgid "name your template"
+msgstr "nommez votre modèle"
+
+msgid "need help?"
+msgstr "besoin d'aide ?"
+
+msgid "network campaigns"
+msgstr "campagnes du réseau"
+
+msgid "network contacts distribution per channel"
+msgstr "répartition des contacts du réseau par canal"
+
+msgid "network details"
+msgstr "informations réseau"
+
+msgid "Networks"
+msgstr "Réseaux"
+
+msgid "New campaign"
+msgstr "Nouvelle campagne"
+
+msgid "new campaign"
+msgstr "nouvelle campagne"
+
+msgid "New campaign (New)"
+msgstr "Nouvelle campagne (New)"
+
+msgid "new campaign (New)"
+msgstr "nouvelle campagne (New)"
+
+msgid "new campaign template"
+msgstr "nouveau modèle de campagne"
+
+msgid "New component"
+msgstr "Nouveau composant"
+
+msgid "new contract"
+msgstr "création d'un contrat"
+
+msgid "New field"
+msgstr "Nouveau champ"
+
+msgid "new label"
+msgstr "nouveau libellé"
+
+msgid "New list"
+msgstr "Nouvelle liste"
+
+msgid "new list"
+msgstr "nouvelle liste"
+
+msgid "new list name"
+msgstr "nom de la nouvelle liste"
+
+msgid "new page"
+msgstr "nouvelle page"
+
+msgid "new step"
+msgstr "nouvelle étape"
+
+msgid "new-home-page-label"
+msgstr "new-home-page-label"
+
+msgid "news"
+msgstr "informations"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "next dispatch date"
+msgstr "date prochain envoi"
+
+msgid "no"
+msgstr "non"
+
+msgid "no available information"
+msgstr "pas d'information disponible"
+
+msgid "no campaign"
+msgstr "Aucune campagne"
+
+msgid "no campaign template"
+msgstr "pas de modèle de campagne"
+
+msgid "no component yet"
+msgstr "pas encore de composant"
+
+msgid "no contact"
+msgstr "aucun contact"
+
+msgid "No contact found"
+msgstr "Pas de contact trouvé"
+
+msgid "No contact geolocated"
+msgstr "Pas de contact géolocalisé"
+
+msgid "no contacts found"
+msgstr "aucun contact trouvé"
+
+msgid "no contacts found for this media"
+msgstr "pas de contact trouvé pour ce média, la liste n'a pas été créée"
+
+msgid "no contacts list"
+msgstr "pas de liste de contact"
+
+msgid "no data"
+msgstr "pas de données affichables"
+
+msgid "no facebook yet"
+msgstr "aucun message Facebook"
+
+msgid "no file selected"
+msgstr "aucun fichier sélectionné"
+
+msgid "No Image"
+msgstr "Pas d'image"
+
+msgid "no image"
+msgstr "pas d'image"
+
+msgid "no images found"
+msgstr "aucune image trouvée"
+
+msgid "no message"
+msgstr "aucun message"
+
+msgid "no page yet"
+msgstr "pas encore de page"
+
+msgid "No session ID specified"
+msgstr "Pas d'ID de session spécifié"
+
+msgid "No setup yet for this type of component"
+msgstr "Aucune configuration pour ce type de composant"
+
+msgid "no site yet"
+msgstr "pas encore de site"
+
+msgid "No test message was sent, please check your list"
+msgstr "Aucun message de test n'a été envoyé, merci de vérifier votre liste"
+
+msgid "no twitter yet"
+msgstr "aucun message Twitter"
+
+msgctxt ""
+msgid "No uploaded file to process"
+msgstr "Pas de fichier à traiter"
+
+msgid "not available functionality for this list"
+msgstr "cette fonctionnalité n'est pas disponible pour cette liste"
+
+msgid "Not implemented for this type of message"
+msgstr "Pas implémenté pour ce type de message"
+
+msgid "note was successfully canceled"
+msgstr "le message a été desactivé avec succès"
+
+msgid "note was successfully created"
+msgstr "le message a été créé"
+
+msgid "note was successfully deleted"
+msgstr "le message a été supprimé avec succès"
+
+msgid "note was successfully duplicated"
+msgstr "le message a été dupliqué avec succès"
+
+msgid "note was successfully updated"
+msgstr "le message a été mis à jour avec succès"
+
+msgid "notify on submission"
+msgstr "notifier lors d'une réponse"
+
+msgid "now"
+msgstr "maintenant"
+
+msgid "number"
+msgstr "nombre"
+
+msgid "Number"
+msgstr "Numéro"
+
+msgctxt ""
+msgid "number of campaigns"
+msgstr "nombre de campagnes"
+
+msgid "number of channels"
+msgstr "nombre de canaux"
+
+msgid "number of contacts"
+msgstr "nombre de contacts"
+
+msgid "number of different recipients"
+msgstr "nombre de destinataires distincts"
+
+msgid "number of selected contacts"
+msgstr "nombre de contacts sélectionnés"
+
+msgid "number of sent messages"
+msgstr "nombre de messages envoyés"
+
+msgid "number of uses"
+msgstr "nombre d'utilisations"
+
+msgid "offer"
+msgstr "offre"
+
+msgid "offline"
+msgstr "hors ligne"
+
+msgid "offline date"
+msgstr "date de mise hors ligne"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "ok"
+msgstr "délivrés"
+
+msgid "ok.export"
+msgstr "délivré"
+
+msgctxt ""
+msgid "on"
+msgstr "envoyés"
+
+msgid "on the page"
+msgstr "sur la page"
+
+msgid "on.export"
+msgstr "réception non confirmée"
+
+msgid "no.export"
+msgstr "inconnu"
+
+msgid "online date"
+msgstr "date de mise en ligne"
+
+msgid "opened ratio"
+msgstr "taux de d'ouverture"
+
+msgid "opened.export"
+msgstr "ouvreur"
+
+msgid "openers"
+msgstr "ouvreurs"
+
+msgid "opening ratio"
+msgstr "taux d'ouverture"
+
+msgid "openings"
+msgstr "ouvertures"
+
+msgid "opt in"
+msgstr "résactivé"
+
+msgid "opt out"
+msgstr "désactivé"
+
+msgid "optin selection"
+msgstr "activer la sélection"
+
+msgid "OptIn contacts"
+msgstr "Activer les contacts"
+
+msgid ""
+"Option you can use to define an order preference for your messages. It allow "
+"the product to use contacts data to send only one message to each contact. "
+"If channel one is SMS, channel two is Email, contacts that contains Email "
+"and SMS data will recieve only a SMS."
+msgstr ""
+"Option qui consiste à définir un ordre d’utilisation des canaux en fonction "
+"des coordonnées des contacts contenues dans la base de données de l’"
+"utilisateur. Si le champ du canal n°1 n’est pas renseigné, le message sera "
+"envoyé par le canal n°2, etc... Le type d'envoi « priorisé » correspond au « "
+"OU » car un même contact sera adressé par un canal OU un autre, mais jamais "
+"par 2 canaux à la fois. Pour définir l'ordre d'exécution, il vous suffit de "
+"réordonner par glisser/déplacer les onglets des canaux sur la gauche de "
+"l'écran, en mettant le plus prioritaire en haut."
+
+msgid ""
+"Option you can use to send your message with chosen channels, to all the "
+"contacts of your selected list."
+msgstr ""
+"Option qui consiste à diffuser un même message sur les différents canaux "
+"cochés par l’utilisateur. On parle de type d'envoi « combiné » à partir de 2 "
+"canaux utilisés, quels qu’ils soient. Le type d'envoi « combiné » correspond "
+"au « ET » car un même contact sera adressé au même moment par un canal ET un "
+"autre, à partir du moment où les données sont correctement complétées dans "
+"la base de données de l'utilisateur."
+
+msgid "options"
+msgstr "options"
+
+msgid "optout"
+msgstr "désabonnements"
+
+msgid "optout selection"
+msgstr "désactiver la sélection"
+
+msgid "Optout contacts"
+msgstr "Désactiver les contacts"
+
+msgid "optout.export"
+msgstr "désabonné"
+
+msgid "Or"
+msgstr "Ou"
+
+msgid "or edit the site directly in the editor"
+msgstr "ou éditer le site dans l'éditeur"
+
+msgid "origin"
+msgstr "origine"
+
+msgid "origin of visits"
+msgstr "provenance des visites"
+
+msgid "orphan deletion done"
+msgstr "suppression des orphelins effectuée"
+
+msgid "other"
+msgstr "autres"
+
+msgid "owner"
+msgstr "titulaire"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "page"
+msgstr "page"
+
+msgid "Page creation"
+msgstr "Création de page"
+
+msgid "Page informations"
+msgstr "Page d'information"
+
+msgid "Page label"
+msgstr "Libellé de la page"
+
+msgid "Page name"
+msgstr "Nom de la page"
+
+msgid "Page Not Found"
+msgstr "Page non trouvée"
+
+msgid "Page title"
+msgstr "Titre de la page"
+
+msgid "pages per visit"
+msgstr "pages vues par visite"
+
+msgid "paid image"
+msgstr "image payante"
+
+msgid "parameter"
+msgstr "paramètre"
+
+msgid "parameter added"
+msgstr "paramètre ajouté"
+
+msgid "Parameters"
+msgstr "Paramètres"
+
+msgid "parameters"
+msgstr "paramètres"
+
+msgid "partial view"
+msgstr "vue partielle"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "password"
+msgstr "mot de passe"
+
+msgid "percentage"
+msgstr "pourcentage"
+
+msgid "percentages are computed based on the number of sent messages"
+msgstr ""
+"les pourcentages sont calculés par rapport au nombre de messages délivrés"
+
+msgid "performance of campaigns"
+msgstr "performance des campagnes"
+
+msgid "performance ratio"
+msgstr "taux de délivrabilité"
+
+msgid "permanent errors (hard bounces)"
+msgstr "erreurs permanentes (hard bounces)"
+
+msgid "phone"
+msgstr "Téléphone Fixe"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "phone.Digitaleo"
+msgstr "02.56.03.67.00"
+
+msgid "please confirm before continuing"
+msgstr "merci de valider avant de continuer"
+
+msgid "please enter at least two chars"
+msgstr "veuillez saisir 2 caractères minimum"
+
+msgid "please fill one email adress per line"
+msgstr "merci de saisir une adresse email par ligne"
+
+msgid "please fill one mobile phone number per line"
+msgstr "merci de saisir un numéro de mobile par ligne"
+
+msgid "please select a contact file to import"
+msgstr "merci de sélectionner un fichier de contacts à importer"
+
+msgid "Please select a correct campaign identifiant"
+msgstr "Merci de sélectionner un identifiant de campagne valide"
+
+msgid "please select a file in zip, csv or excel format"
+msgstr "merci de selectionner un fichier au format zip, csv, txt ou Excel"
+
+msgid "please select a smaller file"
+msgstr "Merci de selectionner un fichier de taille plus faible"
+
+msgid "please type one email adress per line"
+msgstr "merci de saisir une adresse email par ligne"
+
+msgid "please type one mobile phone number per line"
+msgstr "merci de saisir un numéro de mobile par ligne"
+
+msgid "please type one email adress"
+msgstr "merci de saisir une adresse email"
+
+msgid "please type one mobile phone number"
+msgstr "merci de saisir un numéro de mobile"
+
+msgid "Post"
+msgstr "Publication"
+
+msgid "Post code"
+msgstr "Code postal"
+
+msgid "post code"
+msgstr "code postal"
+
+msgid "postal adress"
+msgstr "adresse postale"
+
+msgid "postCode"
+msgstr "code postal"
+
+msgid ""
+"present your offers and your point of sale visually with with a website "
+"optimized for mobile"
+msgstr ""
+"présentez visuellement vos offres et votre point de vente grâce à un site "
+"Internet optimisé pour les mobiles"
+
+msgid "Preview"
+msgstr "Aperçu"
+
+msgid "preview"
+msgstr "aperçu"
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "processing messages"
+msgstr "messages programmés"
+
+msgid "profile"
+msgstr "profil"
+
+msgid "publication date must be inferior to expiration date"
+msgstr "la date de publication doit être inferieure à la date d'expiration"
+
+msgid "publication end date"
+msgstr "fin de publication"
+
+msgid "publication start date"
+msgstr "début de publication"
+
+msgid "published"
+msgstr "en cours"
+
+msgid "QR code"
+msgstr "QR code"
+
+msgid "QR codes"
+msgstr "QR codes"
+
+msgid "Radio Button"
+msgstr "Bouton radio"
+
+msgid "reactivate the contract"
+msgstr "réactiver les envois de messages pour ce contrat"
+
+msgid "reactivity"
+msgstr "reactivité"
+
+msgid "reactivity ratio"
+msgstr "taux de réactivité"
+
+msgid "reactivity ratio = Number of clickers / Number of openers"
+msgstr "taux de réactivité = Nombre de cliqueurs / Nombre d'ouvreurs"
+
+msgid "recipient"
+msgstr "destinataire"
+
+msgid "reference"
+msgstr "Référence"
+
+msgid "regenerate password"
+msgstr "régénérer le mot de passe"
+
+msgid "remove comment"
+msgstr "retirer le mémo"
+
+msgid "Remove contacts without list"
+msgstr "Suppression des contacts sans liste"
+
+msgid "remove current image"
+msgstr "supprimer l'image courante"
+
+msgid "remove this rule"
+msgstr "supprimer cette règle"
+
+msgid "remove uploaded image"
+msgstr "Supprimer l'image téléchargée"
+
+msgid "Removing all contacts from list"
+msgstr "Retrait de tous les contacts de la liste"
+
+msgid "Removing all contacts search"
+msgstr "Retrait de tous les contacts de la recherche"
+
+msgid "Removing contacts from list"
+msgstr "Retrait des contacts de la liste"
+
+msgid "Removing the contact from list"
+msgstr "Retrait du contact de la liste"
+
+msgid "Rename.list"
+msgstr "Renommer la liste"
+
+msgid "rename.list"
+msgstr "renommer la liste"
+
+msgid "rename campaign"
+msgstr "renommer la campagne"
+
+msgid "rep.export"
+msgstr "répondu"
+
+msgid "Reply to"
+msgstr "Répondre à"
+
+msgid "Report an error"
+msgstr "Signaler une erreur"
+
+msgid "report@digitaleo.com"
+msgstr "report@digitaleo.com"
+
+msgid "reset"
+msgstr "effacer"
+
+msgid "Reset"
+msgstr "Effacer"
+
+msgid "reset custom style"
+msgstr "Supprimer toute la personnalisation"
+
+msgid "responses contact form"
+msgstr "formulaire de réponse d'un contact"
+
+msgid "responses to contact form"
+msgstr "réponses au formulaire de contact"
+
+msgid "responses to mobile site contact form"
+msgstr "réponses au formulaire de contact du smartpage"
+
+msgid "return"
+msgstr "retourner"
+
+msgid "retweets"
+msgstr "nombre de retweets"
+
+msgid "Reverse accent"
+msgstr "cote inversée"
+
+msgid "revoke selection"
+msgstr "retirer la sélection de la liste"
+
+msgctxt ""
+msgid "running"
+msgstr "en cours"
+
+msgid "running messages"
+msgstr "messages envoyés"
+
+msgid ""
+"running messages means they are sent but their delivery status has not been "
+"notified yet"
+msgstr ""
+"les messages envoyés contiennent les messages qui sont partis mais dont les "
+"accusés de réception ne sont pas revenus."
+
+msgid "sample text"
+msgstr "texte d'exemple"
+
+msgctxt ""
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Save (nom)"
+msgstr "Sauvegarde"
+
+msgid "save"
+msgstr "sauvegarder"
+
+msgid "save step"
+msgstr "sauvegarder l'étape"
+
+msgid "save this contact list test"
+msgstr "sauvegarder cette liste de contacts de test"
+
+msgid "save this step"
+msgstr "sauvegarde de l'étape"
+
+msgid "sb.export"
+msgstr "erreur temporaire (soft bounce)"
+
+msgid "sb.statuses"
+msgstr "erreurs temporaires"
+
+msgid "hb.statuses"
+msgstr "erreurs permanentes"
+
+msgid "scheduled campaign"
+msgstr "programmée"
+
+msgid "scheduled time"
+msgstr "date d'envoi"
+
+msgid "scheduling is required"
+msgstr "planification requise"
+
+msgid "search"
+msgstr "recherche"
+
+msgid "search a contact:"
+msgstr "rechercher un contact :"
+
+msgid "search campaign"
+msgstr "rechercher une campagne"
+
+msgid "Sector"
+msgstr "Secteur"
+
+msgid "Security error"
+msgstr "Erreur de sécurité"
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "select a channel and configure the campaign"
+msgstr "choisir un canal et configurer la campagne"
+
+msgid "select a channel and configure the campaign template"
+msgstr "choisir un canal et configurer le modèle de campagne"
+
+msgid "Select a css file you would like to import"
+msgstr "Sélectionnez un fichier .css à importer"
+
+msgid "select a file to import"
+msgstr "sélectionnez un fichier à importer"
+
+msgid "Select a HTML or a Zip file to import"
+msgstr "Sélectionnez un fichier HTML ou Zip à importer"
+
+msgid "select a list"
+msgstr "sélectionnez une liste"
+
+msgid "Select a page"
+msgstr "Choisissez une page"
+
+msgid "Select a structure file you would like to import"
+msgstr "Sélectionnez un fichier de structures à importer"
+
+msgid "select a zip/csv/excel file (Max file size is %sMB)"
+msgstr ""
+"sélectionner un fichier au format zip; csv; txt; excel (La taille du fichier "
+"ne peut dépasser %sMo)"
+
+msgid "Select all contact"
+msgstr "Sélectionner tous les contacts"
+
+msgid ""
+"Select an existing component to edit it or click on the + icon into the zone "
+"where you want to add a new one"
+msgstr ""
+"Sélectionnez un composant existant pour le modifier ou cliquez sur l'icône + "
+"dans la zone où vous souhaitez ajouter un nouveau"
+
+msgid "Select Box"
+msgstr "Liste déroulante"
+
+msgid "Select the image file to use"
+msgstr "Sélectionnez le fichier image à utiliser"
+
+msgid "selection deleted"
+msgstr "sélection supprimée"
+
+msgid "selection settings"
+msgstr "paramètres de la sélection"
+
+msgid "Sender"
+msgstr "Expéditeur"
+
+msgid "sendign performance"
+msgstr "performances d'envoi"
+
+msgid "sending date"
+msgstr "date d'envoi"
+
+msgid "sending details"
+msgstr "détails d'envoi"
+
+msgid "Sending identifier"
+msgstr "Envoi identifiants"
+
+msgid "sending performance"
+msgstr "performances d'envoi"
+
+msgid "sending statistics"
+msgstr "statistiques d'envoi"
+
+msgid "sending the file, please wait..."
+msgstr "envoi du fichier, merci de patienter..."
+
+msgid "sending type"
+msgstr "type d'envoi"
+
+msgid "sending types"
+msgstr "type d'envoi"
+
+msgid "sent date"
+msgstr "date d'envoi"
+
+msgid "session killed"
+msgstr "session tuée"
+
+msgid "Set the code to generate"
+msgstr "code barre à utiliser"
+
+msgid "Set the image url to use"
+msgstr "Précisez l'adresse de l'image à utiliser"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "share with"
+msgstr "partager à"
+
+msgid "shared with"
+msgstr "partagé à"
+
+msgid "show campaigns for"
+msgstr "voir les campagnes de"
+
+msgid "Simple characters"
+msgstr "Les caractères ci-dessous valent 1 position"
+
+msgctxt ""
+msgid "simple contract"
+msgstr "contrat simple"
+
+msgctxt ""
+msgid "site"
+msgstr "smartpage"
+
+msgid "Site online"
+msgstr "Site en ligne"
+
+msgid "SITE-FIELDS"
+msgstr "SITE-FIELDS"
+
+msgid "Sites list"
+msgstr "Sites Mobiles"
+
+msgid "size"
+msgstr "taille"
+
+msgid "small (S)"
+msgstr "petit (S)"
+
+msgctxt ""
+msgid "SMS"
+msgstr "SMS"
+
+msgid "sms"
+msgstr "SMS"
+
+msgid "Sms list"
+msgstr "SMS"
+
+msgctxt ""
+msgid "Specify a retriction in media tab"
+msgstr "Précisez un bridage dans l'onglet média"
+
+msgid "start date"
+msgstr "date de début"
+
+msgid "Start date"
+msgstr "Date de démarrage"
+
+msgctxt ""
+msgid "start date from"
+msgstr "Date de début à partir de"
+
+msgctxt ""
+msgid "start date until"
+msgstr "Date de début jusqu'à"
+
+msgid "starting"
+msgstr "du"
+
+msgid "state"
+msgstr "Etat"
+
+msgid "statistics"
+msgstr "statistiques"
+
+msgid "statistics for Email"
+msgstr "statistiques Email"
+
+msgid "statistics for Facebook"
+msgstr "statistiques Facebook"
+
+msgid "statistics for Mobile Site"
+msgstr "statistiques Smartpage"
+
+msgid "statistics for SMS"
+msgstr "statistiques SMS"
+
+msgid "results for the campaign template"
+msgstr "résultats du modèle de campagne"
+
+msgid "statistics for Twitter"
+msgstr "statistiques Twitter"
+
+msgid "statistics for Voice"
+msgstr "statistiques pour le canal push vocal"
+
+msgid "statistics for Voicemail"
+msgstr "Statistiques pour le canal message sur répondeur"
+
+msgid "stats empty for this media"
+msgstr "pas de statistiques pour ce média, la liste n'a pas été créée"
+
+msgid "status"
+msgstr "statut"
+
+msgid "status for message"
+msgstr "les statuts du message"
+
+msgid "step"
+msgstr "etape"
+
+msgid "step cost"
+msgstr "coût de l'étape"
+
+msgid "step details for campaign"
+msgstr "details d'étape pour la campagne"
+
+msgid "step execution date"
+msgstr "date d'envoi de l'étape"
+
+msgid "step id"
+msgstr "identifiant d'étape"
+
+msgid "Step is scheduled to be sent : no statistic available"
+msgstr "Envoi programmé : pas de statistiques disponibles"
+
+msgctxt ""
+msgid "step not found"
+msgstr "étape non trouvée"
+
+msgid "step status"
+msgstr "statut de l'étape"
+
+msgid "steps"
+msgstr "etapes"
+
+msgid "stopped"
+msgstr "terminée"
+
+msgid "stopped_while_running"
+msgstr "arrêtée en cours d'exécution"
+
+msgid "Street"
+msgstr "Rue"
+
+msgid "Structure"
+msgstr "Structure"
+
+msgid "structure"
+msgstr "structure"
+
+msgid "Structures"
+msgstr "Structures"
+
+msgid "Style configuration for a network"
+msgstr "Personnalisation du style pour le réseaux"
+
+msgid "Subject"
+msgstr "Objet"
+
+msgid "Submit"
+msgstr "Valider"
+
+msgid "submit"
+msgstr "valider"
+
+msgid "submit and next"
+msgstr "valider et suivant"
+
+msgid "substitution"
+msgstr "priorisé"
+
+msgid "Substitution mode"
+msgstr "Priorisé"
+
+msgid "Succes page"
+msgstr "Page de succès"
+
+msgid "summary"
+msgstr "récapitulatif"
+
+msgid "summary of campaigns"
+msgstr "résumé des campagnes"
+
+msgid "surname is a required data."
+msgstr "le nom des contacts est obligatoire."
+
+msgid "suspend the contract"
+msgstr "suspendre les envois de messages pour ce contrat"
+
+msgid "suspended"
+msgstr "suspendu"
+
+msgid "take off selection"
+msgstr "retirer de la sélection"
+
+msgid "Target link url"
+msgstr "Url cible du lien"
+
+msgid "Tel:"
+msgstr "Tél:"
+
+msgid "template"
+msgstr "modèle"
+
+msgid "Template statistics"
+msgstr "Voir les statistiques"
+
+msgid "template was successfully canceled"
+msgstr "le template a été désactivé avec succès"
+
+msgid "template was successfully duplicated"
+msgstr "Modèle dupliqué avec succès"
+
+msgid "template.confirmed"
+msgstr "en cours"
+
+msgid "template.editing"
+msgstr "en création"
+
+msgid "template.ended"
+msgstr "terminé"
+
+msgid "templates.confirmed"
+msgstr "en cours"
+
+msgid "templates.editing"
+msgstr "en création"
+
+msgid "templates.ended"
+msgstr "terminés"
+
+msgid "temporary errors (soft bounces)"
+msgstr "erreurs temporaires (soft bounces)"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "test the QR code for the mobile site being edited"
+msgstr "tester le QR code du site en cours de construction"
+
+msgid "test your message"
+msgstr "tester votre message"
+
+msgid "Tester votre message"
+msgstr "tester votre message"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "text"
+msgstr "texte"
+
+msgid "Text Area"
+msgstr "Zone de texte"
+
+msgid "Text Field"
+msgstr "Champ Texte"
+
+msgid "Thank you for selecting at least one contact"
+msgstr "Merci de sélectionner au moins un contact"
+
+msgid "Thank you for selecting at least one contact or contact list"
+msgstr "Merci de sélectionner au moins un contact ou une liste de contacts"
+
+msgid "Thank you for selecting at least one list"
+msgstr "Merci de sélectionner au moins une liste"
+
+msgid "Thank you for selecting at least two lists"
+msgstr "Merci de sélectionner au moins deux listes"
+
+msgid "Thank you indicate your choice : optin or optout"
+msgstr "Merci de préciser votre choix : activer ou désactiver"
+
+msgid "Thank you to provide a valid url"
+msgstr "Merci de fournir une adresse valide"
+
+msgid "your subject cannot be empty"
+msgstr "le champ sujet ne peut être vide"
+
+msgctxt ""
+msgid ""
+"The availability of the campaign template will be effective when the publish "
+"date is reached. Once made available, the affiliates list will be frozen"
+msgstr ""
+"La mise à disposition du modèle de campagne sera effective lorsque la date "
+"de début de validité sera atteinte. Une fois mise à disposition, la liste "
+"d'affiliés ne sera plus modifiable"
+
+msgid ""
+"The campaign template will be available when the publication start date is "
+"reached. After this confirmation, the selected group of affiliates can no "
+"longer be modified."
+msgstr ""
+"La mise à disposition du modèle de campagne sera effective lorsque la date "
+"de début de validité sera atteinte. Une fois le modèle mis à disposition, le "
+"groupe d'affiliés sélectionné pour le partage ne sera plus modifiable."
+
+msgid "the headers columns expected are :"
+msgstr "Les entêtes de colonnes attendues sont :"
+
+msgid "the contact on this page is selected"
+msgstr "contact de cette page est sélectionné"
+
+msgid ""
+"the contract is updated but the ecoSms associated account cannot be updated, "
+"please contact the support"
+msgstr ""
+"le contrat est mis à jour mais le compte ecoSms associé n'a pas pu être mis "
+"à jour, merci de contacter le support"
+
+msgid "the database"
+msgstr "la base de données"
+
+msgid ""
+"The following characters use two spaces, please leave sufficient space at "
+"the end of your text :"
+msgstr ""
+"Les caractères suivants comptent deux positions, il faut alors prévoir de la "
+"marge à la fin de votre texte :"
+
+msgid "The following characters will be modified during transmission :"
+msgstr "Les caractères suivants sont transformés lors de l'envoi :"
+
+msgid "the list"
+msgstr "la liste"
+
+msgid "the login/password entered was wrong, please try again"
+msgstr ""
+"La combinaison identifiant/mot de passe est incorrecte, merci d'essayer à "
+"nouveau."
+
+msgid "The message has been sent."
+msgstr "Le message a été envoyé"
+
+msgid ""
+"The message template will be available when the publication start date is "
+"reached. After this confirmation, the sharing adressee can no longer be "
+"modified."
+msgstr ""
+"La mise à disposition du message sera effective lorsque la date de début de "
+"validité sera atteinte. Une fois le message mis à disposition, le groupe "
+"d'affiliés sélectionné pour le partage ne sera plus modifiable."
+
+msgctxt ""
+msgid ""
+"the QR code below is for testing your mible site only. It is available for "
+"15 minutes.You can get the final QR code by clicking the Download button. "
+"This final QR code will be functional as soon as the execution date of for "
+"this step will be reached."
+msgstr ""
+"le QR code affiché ci-dessous sert uniquement à tester votre site et n'est "
+"valable que 15 minutes. Vous pouvez obtenir le QR code définitif en cliquant "
+"sur Télécharger. Ce QR code définitif sera fonctionnel dès que la date "
+"d'envoi de cette étape sera atteinte."
+
+msgctxt ""
+msgid ""
+"the QR code below is for testing your mible site only. It is available for "
+"15 minutes.You can get the final QR code by clicking the Download button. "
+"This final QR code will be functional as soon as the execution date of for "
+"this step will be reached."
+msgstr ""
+"le QR code affiché ci-dessous sert uniquement à tester votre site et n'est "
+"valable que 15 minutes. Vous pouvez obtenir le QR code définitif en cliquant "
+"sur Télécharger. Ce QR code définitif sera fonctionnel dès que la date "
+"d'envoi de cette étape sera atteinte."
+
+msgid ""
+"the QR code below is for testing your mobile site only. It is available for "
+"15 minutes.You can get the final QR code by clicking the 'Download' button. "
+"This final QR code will be functional as soon as the execution date of for "
+"this step will be reached."
+msgstr ""
+"le QR code ci-dessous vous permet de tester votre smartpage et il sera "
+"valable pendant 15 minutes. Vous pouvez le télécharger en cliquant sur le "
+"bouton 'Télécharger'. Le QR code final sera fonctionnel dès que la date "
+"d'envoi de l'étape sera atteinte."
+
+msgid ""
+"This final URL will be functional as soon as the execution date of for this "
+"step will be reached."
+msgstr ""
+"Ce lien définitif sera fonctionnel dès que la date d'envoi de cette étape "
+"sera atteinte."
+
+msgid "Final link to your Smartpage"
+msgstr "Lien définitif de votre Smartpage"
+
+msgid "the search"
+msgstr "la recherche"
+
+msgid "The site you are trying to view is no longer accessible"
+msgstr "Le site que vous voulez visualiser n'est plus accessible"
+
+msgctxt ""
+msgid "the step is deleted"
+msgstr "étape effacée"
+
+msgid "The step is deleted"
+msgstr "L'étape est supprimée"
+
+msgid "The test contact is not valid."
+msgstr "Le contact de test n'est pas valide"
+
+msgid "the user is updated"
+msgstr "l'utilisateur a été mis à jour"
+
+msgid "the user was successfully updated"
+msgstr "les données de l'utilisateur ont été mises à jour"
+
+msgid "this option is not compatible with the customization of the sender"
+msgstr ""
+"Cette option n'est pas compatible avec la personnalisation de l'expéditeur"
+
+msgid "this option is not compatible with the recovery of answers"
+msgstr "Cette option n'est pas compatible avec la récupération des réponses"
+
+msgid "This site may not be seen; please retry later"
+msgstr "Ce site n'est pas accessible; veuillez réessayer plus tard"
+
+msgid "threshold mail"
+msgstr "mail limit"
+
+msgid "threshold mail Html"
+msgstr "html du mail limit"
+
+msgid "threshold mail subject"
+msgstr "sujet du mail limit"
+
+msgid "threshold mail text"
+msgstr "text du mail limit"
+
+msgid "timezone"
+msgstr "timezone"
+
+msgid "To"
+msgstr "Destinataire"
+
+msgid "to"
+msgstr "destinataire"
+
+msgctxt ""
+msgid "To be removed of our broadcast list, you can"
+msgstr ""
+"Pour &ecirc;tre retir&eacute; de notre liste de diffusion, vous pouvez vous"
+
+msgid "Tweet"
+msgstr "Tweet"
+
+msgctxt ""
+msgid "twitter"
+msgstr "twitter"
+
+msgctxt ""
+msgid "twitter"
+msgstr "twitter"
+
+msgid "Twitter account"
+msgstr "le compte Twitter"
+
+msgid "Twitter list"
+msgstr "Twitter"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "type"
+msgstr "type"
+
+msgid "type.admin"
+msgstr "administrateur"
+
+msgid "type.demonstration"
+msgstr "demonstration"
+
+msgid "type.prospect"
+msgstr "prospect"
+
+msgid "type.subscriber"
+msgstr "abonné"
+
+msgid "type.test"
+msgstr "test"
+
+msgid "type.web"
+msgstr "web"
+
+msgid "unable to count contacts"
+msgstr "impossible de compter les contacts"
+
+msgid "unable to create note"
+msgstr "impossible de créer le message"
+
+msgid "unable to find your managed network"
+msgstr "impossible de trouver votre réseau associé"
+
+msgid "unable to update note"
+msgstr "impossible de mettre à jour le message"
+
+msgid "unavailable functionality"
+msgstr "fonctionnalité non disponible"
+
+msgid "undelivered messages"
+msgstr "messages non délivrés"
+
+msgid "undelivred"
+msgstr "non delivré"
+
+msgid "unknow error"
+msgstr "erreur inconnue"
+
+msgid "unlimited"
+msgstr "illimitée"
+
+msgctxt ""
+msgid "unsubscribe"
+msgstr "d&eacute;sinscrire"
+
+msgid "unsubscribers"
+msgstr "désabonnés"
+
+msgid "Up"
+msgstr "Haut"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "update date"
+msgstr "date de mise à jour"
+
+msgid "upload"
+msgstr "importer"
+
+msgid "Upload a file"
+msgstr "Importer un fichier"
+
+msgid "upload a file"
+msgstr "importer un fichier"
+
+msgid "upload an image"
+msgstr "importer une image"
+
+msgid "Upload configuration as INI file"
+msgstr "Télécharger la configuration en fichier INI"
+
+msgid "Upload done"
+msgstr "Téléchargement fait"
+
+msgid "Uploading"
+msgstr "Import"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "url destination of the code"
+msgstr "URL de destination du code"
+
+msgid "Use existing component"
+msgstr "Utiliser un composant existant"
+
+msgid "user"
+msgstr "utilisateur"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Username"
+msgstr "Identifiant"
+
+msgid "username"
+msgstr "identifiant"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "users deleted"
+msgstr "utilisateurs supprimés"
+
+msgctxt ""
+msgid "validate"
+msgstr "valider"
+
+msgid "Validate mobile site datas"
+msgstr "Valider les données du smartpage"
+
+msgid "validating the file, please wait..."
+msgstr "validation du fichier, veuillez patientez..."
+
+msgid "validating the file; please wait..."
+msgstr "validation du fichier; veuillez patientez..."
+
+msgid "Validation"
+msgstr "Validation"
+
+msgid "validity duration"
+msgstr "période de validité"
+
+msgid "validity end"
+msgstr "fin de validité"
+
+msgid "validity of your campaign template"
+msgstr "validité de votre modèle de campagne"
+
+msgid "validity start"
+msgstr "début de validité"
+
+msgid "value"
+msgstr "valeur"
+
+msgid "Value is required and can't be empty"
+msgstr "La valeur est requise et ne peut pas être vide"
+
+msgid "value required"
+msgstr "valeur obligatoire"
+
+msgctxt ""
+msgid "Values (comma separated)"
+msgstr "valeur (séparées par des virgules)"
+
+msgctxt ""
+msgid "Values (comma separated)"
+msgstr "Valeurs (séparées par des virgules)"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "version"
+msgstr "version"
+
+msgid "very large (XL)"
+msgstr "très grand (XL)"
+
+msgid "very small (XS)"
+msgstr "très petit (XS)"
+
+msgid "View"
+msgstr "Afficher"
+
+msgid "View affiliate campaigns"
+msgstr "Voir les campagnes de l'affilié"
+
+msgid "Visible"
+msgstr "Visible"
+
+msgid "visible"
+msgstr "visible"
+
+msgid "visit duration"
+msgstr "durée des visites"
+
+msgid "visit statistics"
+msgstr "statistiques de fréquentation"
+
+msgid "visited pages"
+msgstr "pages vues"
+
+msgid "visits"
+msgstr "visites"
+
+msgid "voice"
+msgstr "push vocal"
+
+msgid "vocal"
+msgstr "push vocal"
+
+msgid "VOICE"
+msgstr "PUSH VOCAL"
+
+msgid "W x H"
+msgstr "L x H"
+
+msgid "wait"
+msgstr "programmés"
+
+msgid "wait.export"
+msgstr "programmé"
+
+msgid "Warning"
+msgstr "Attention"
+
+msgid "warning"
+msgstr "attention"
+
+msgid "What is sending type ?"
+msgstr "Qu'est-ce que le type d'envoi ?"
+
+msgid "Width"
+msgstr "Largeur"
+
+msgid "yes"
+msgstr "oui"
+
+msgid "you can choose to collect or not the answers of your contacts"
+msgstr "Vous pouvez choisir de récupérer ou non les réponses de vos contacts"
+
+msgid ""
+"you can customize the sender name that will be displayed for your contacts "
+"by replacing the 5 digit number by your company's name"
+msgstr ""
+"Vous pouvez personnaliser le nom d'expéditeur qui s'affichera pour vos "
+"contacts en remplaçant le numéro d'expéditeur à 5 chiffres par le nom de "
+"votre société"
+
+msgid ""
+"You can reach %1$s on %2$s or by email at: <a href='mailto:%3$s'>%3$s</a>"
+msgstr ""
+"Vous pouvez contacter %1$s au %2$s ou par email à l'adresse <a "
+"href='mailto:%3$s'>%3$s</a>"
+
+msgid "You don't have the necessary credentials to access this resource"
+msgstr "Vous n'avez pas l'autorisation d'accéder à cette ressource"
+
+msgid "You don't have the right to access to the page : "
+msgstr "Vous n'avez pas l'autorisation d'accéder à la page :"
+
+msgid "You don't have the right to access to this page"
+msgstr "Vous n'avez pas l'autorisation d'accéder à cette page"
+
+msgid "You must select an attribute before"
+msgstr "Vous devez sélectionner un attribut"
+
+msgctxt ""
+msgid "your contract manage no network"
+msgstr "votre contrat ne gère aucun réseau"
+
+msgid "your library"
+msgstr "votre bibliothèque"
+
+msgid "your list has been created"
+msgstr "votre liste a été créée"
+
+msgid "Your mobile site is available for test:"
+msgstr "Votre smartpage est disponible pour test :"
+
+msgid "your selection is now optin"
+msgstr "votre sélection a été activée"
+
+msgid "your selection is now optout"
+msgstr "votre sélection a été désactivée"
+
+msgid "zip code"
+msgstr "code postal"
+
+msgid "zipcode"
+msgstr "Code postal"
+
+msgctxt ""
+msgid "Cannot open archive file"
+msgstr "Impossible d'ouvrir l'archive"
+
+msgctxt ""
+msgid "Cannot extract archive file, it must be valid"
+msgstr ""
+"Impossible d'extraire le contenu de l'archive, le fichier doit etre valide"
+
+msgctxt ""
+msgid "Cannot use a Zip archive which contain more than one html file"
+msgstr "Impossible de traiter une archive contenant plus d'un fichier HTML"
+
+msgctxt ""
+msgid "Cannot load content of temporary file"
+msgstr "Impossible d'acceder au repertoire temporaire"
+
+msgctxt ""
+msgid "Error uploading image into baseo library"
+msgstr "Impossible de charger les images dans Baseo"
+
+msgctxt ""
+msgid "No uploaded file to process"
+msgstr "Pas de fichier à traiter"
+
+msgctxt ""
+msgid "To be removed of our broadcast list, you can"
+msgstr ""
+"Pour &ecirc;tre retir&eacute; de notre liste de diffusion, vous pouvez vous"
+
+msgctxt ""
+msgid "Click here to unsubscribe"
+msgstr "Cliquez ici pour vous d&eacute;sinscrire"
+
+msgctxt ""
+msgid "unsubscribe"
+msgstr "d&eacute;sinscrire"
+
+msgid "new user for contract"
+msgstr "nouvel utilisateur pour le contrat"
+
+msgid "contract manager for network"
+msgstr "Contrat d'administration du réseau"
+
+msgctxt ""
+msgid "start date from"
+msgstr "Date de début à partir de"
+
+msgctxt ""
+msgid "start date until"
+msgstr "Date de début jusqu'à"
+
+msgid "affiliate main network"
+msgstr "réseau principal d'affiliation"
+
+msgid "affiliated to"
+msgstr "affiliés à"
+
+msgid "network manager"
+msgstr "administrateur de réseau"
+
+msgid "select networks"
+msgstr "sélectionnez les réseaux"
+
+msgctxt ""
+msgid "keep [ctrl] pressed for multiselect"
+msgstr "maintenez la touche [ctrl] pour une sélection multiple"
+
+msgctxt ""
+msgid "Specify a retriction in media tab"
+msgstr "Précisez un bridage dans l'onglet média"
+
+msgctxt ""
+msgid "number of campaigns"
+msgstr "nombre de campagnes"
+
+msgctxt ""
+msgid "channels"
+msgstr "canaux"
+
+msgctxt ""
+msgid "export affiliates"
+msgstr "exporter les affiliés"
+
+msgid "export all affiliates contacts"
+msgstr "exporter tous les contacts de mes affiliés"
+
+msgctxt ""
+msgid "My network"
+msgstr "Mon réseau"
+
+msgctxt ""
+msgid "my affiliates lists"
+msgstr "mes listes d'affiliés"
+
+msgctxt ""
+msgid "edit affiliates list"
+msgstr "éditer un groupe d'affiliés"
+
+msgctxt ""
+msgid "manage affiliates list"
+msgstr "gérer ses listes d'affiliés"
+
+msgctxt ""
+msgid "affiliates list"
+msgstr "liste d'affiliés"
+
+msgctxt ""
+msgid "list name"
+msgstr "nom de la liste"
+
+msgctxt ""
+msgid "list of affiliates deleted"
+msgstr "liste d'affiliés supprimée"
+
+msgctxt ""
+msgid "could not delete the list of affiliates"
+msgstr "impossible de supprimer la liste d'affiliés"
+
+msgctxt ""
+msgid "add affiliates list"
+msgstr "ajouter un groupe d'affiliés"
+
+msgctxt ""
+msgid "could not update list name"
+msgstr "impossible de mettre à jour le nom de la liste"
+
+msgctxt ""
+msgid "bad id"
+msgstr "mauvais ID"
+
+msgctxt ""
+msgid "could not update list"
+msgstr "impossible de mettre à jour la liste"
+
+msgctxt ""
+msgid "your contract manage no network"
+msgstr "votre contrat ne gère aucun réseau"
+
+msgctxt ""
+msgid "cannot create campaign template 1"
+msgstr "échec à la création du modèle de campagne (étape 1)"
+
+msgctxt ""
+msgid "cannot create campaign template 2 (step)"
+msgstr "échec à la création du modèle de campagne (étape 2)"
+
+msgctxt ""
+msgid "cannot display campaign template without a valid identifier"
+msgstr "l'identifiant de modèle de campagne n'est pas valide"
+
+msgctxt ""
+msgid "campaign template not found"
+msgstr " \"le modèle de campagne n'a pas été trouvé\""
+
+msgctxt ""
+msgid "cannot create step"
+msgstr "impossible de créer une étape"
+
+msgctxt ""
+msgid "cannot delete step without valid identifier"
+msgstr "impossible de supprimer une étape avec un identifiant invalide"
+
+msgctxt ""
+msgid "step not found"
+msgstr "étape non trouvée"
+
+msgctxt ""
+msgid "cannot delete step belonging to invalid template"
+msgstr "impossible d'effacer une étape depuis un modèle invalide"
+
+msgctxt ""
+msgid "cannot delete step if not in edit mode"
+msgstr "impossible d'effacer une étape en dehors du mode édition"
+
+msgctxt ""
+msgid "the step is deleted"
+msgstr "étape effacée"
+
+msgctxt ""
+msgid "cannot create campaign"
+msgstr "échec à la création de la campagne"
+
+msgctxt ""
+msgid "cannot create template"
+msgstr "échec à la création du modèle"
+
+msgctxt ""
+msgid "messages from the network"
+msgstr "messages du réseau"
+
+msgctxt ""
+msgid "my list"
+msgstr "ma liste"
+
+msgctxt ""
+msgid "available affiliates"
+msgstr "affiliés disponibles"
+
+msgctxt ""
+msgid "list name should not be empty"
+msgstr "le nom de la liste ne doit pas être vide"
+
+msgctxt ""
+msgid "done"
+msgstr "terminé"
+
+msgctxt ""
+msgid "list affiliates"
+msgstr "lister les affiliés"
+
+msgctxt ""
+msgid "legend"
+msgstr "légende"
+
+msgid "role"
+msgstr "rôle"
+
+msgctxt ""
+msgid "simple contract"
+msgstr "contrat simple"
+
+msgctxt ""
+msgid ""
+"The availability of the campaign template will be effective when the publish "
+"date is reached. Once made available, the affiliates list will be frozen"
+msgstr ""
+"La mise à disposition du modèle de campagne sera effective lorsque la date "
+"de début de validité sera atteinte. Une fois mise à disposition, la liste "
+"d'affiliés ne sera plus modifiable"
+
+msgctxt ""
+msgid "cannot export your selection"
+msgstr "impossible d'exporter votre sélection"
+
+msgid "campaign.type.name.standard"
+msgstr "campagne standard"
+
+msgid "campaign.type.description.standard"
+msgstr "Créer une campagne de marketing relationnel pour vos événements"
+
+msgid "campaign.type.name.network"
+msgstr "campagne réseau"
+
+msgid "campaign.type.description.network"
+msgstr "Créer une campagne à partir des modèles mis à disposition par le réseau"
+
+msgid "campaign.type.name.automatic"
+msgstr "campagne automatisée"
+
+msgid "campaign.type.description.automatic"
+msgstr ""
+"Créer une campagne automatisée pour souhaiter les anniversaires de vos "
+"clients, envoyer des rappels, des notifications programmées"
+
+msgid "contacts.list.creation.method.name.upload"
+msgstr "import de fichier"
+
+msgid "contacts.list.creation.method.description.upload"
+msgstr "créez une liste à partir d'un fichier que vous importez"
+
+msgid "contacts.list.creation.method.name.emptylist"
+msgstr "saisie manuelle"
+
+msgid "contacts.list.creation.method.description.emptylist"
+msgstr "créez une liste vide et insérez vos contacts manuellement"
+
+msgid "add a list"
+msgstr "ajouter une liste"
+
+msgid "rent a new list"
+msgstr "louer une nouvelle liste"
+
+msgid "my rented lists"
+msgstr "listes louées"
+
+msgid "rented lists"
+msgstr "listes louées"
+
+msgid "contacts lists"
+msgstr "listes de contacts"
+
+msgid "date created"
+msgstr "date de création"
+
+msgid "no contacts lists found"
+msgstr "aucune liste de contacts trouvée"
+
+msgid "no rented lists found"
+msgstr "aucune liste louée trouvée"
+
+msgid "choose campaign type"
+msgstr "choisissez le type de campagne"
+
+msgid "automatic.campaign"
+msgstr "campagne automatisée"
+
+msgid "automatic.options"
+msgstr "options"
+
+msgid "automatic.automation"
+msgstr "d'automatisation"
+
+msgid "automatic.options for automatic campaigns"
+msgstr "options campagnes automatisées"
+
+msgid "automatic.messages will be sent at"
+msgstr "les envois seront effectués à partir de"
+
+msgid "automatic.messages will be sent"
+msgstr "Envoyer les messages"
+
+msgid "automatic.to contacts based on date"
+msgstr "aux contacts à partir de la date"
+
+msgid "automatic.messages must be sent"
+msgstr "les envois doivent êtres réalisés"
+
+msgid "automatic.days before the date on the field"
+msgstr "jours avant la date du champ"
+
+msgid "automatic.sunday messages must be sent on saturday"
+msgstr "Les envois du dimanche doivent être décalés au samedi"
+
+msgid "automatic.the date on field"
+msgstr "la date du champ"
+
+msgid "automatic.must have the jj/mm or jj/mm/aaa format"
+msgstr "doit être au format jj/mm ou jj/mm/aaaa"
+
+msgid "automatic.one time"
+msgstr "une fois"
+
+msgid "automatic.every month"
+msgstr "tous les mois"
+
+msgid "automatic.every year"
+msgstr "tous les ans"
+
+msgid "automatic.sending hour"
+msgstr "heure d'envoi"
+
+msgid "automatic.cannot save campaign data"
+msgstr "impossible de sauvegarder les données de la campagne"
+
+msgid "automatic.hours"
+msgstr "heures"
+
+msgid "automatic.cannot save sending hour"
+msgstr "impossible de sauvegarder l'heure d'envoi"
+
+msgid "automatic.what is an automatic campaign"
+msgstr "qu'est-ce que une campagne automatisée"
+
+msgid "automatic.automatic campaigns"
+msgstr "campagnes automatisées"
+
+msgid "automatic.of the contact"
+msgstr "du contact"
+
+msgid "scheduling"
+msgstr "programmation"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "landline"
+msgstr "fixe"
+
+msgid "Insert a custom field"
+msgstr "Insérer un champ personnalisé"
+
+msgid "Channels data"
+msgstr "Données des canaux"
+
+msgctxt ""
+msgid "Link to mobile site"
+msgstr "Lien vers la Smartpage"
+
+msgid "CONTRACT-FIELDS"
+msgstr "Données du contrat"
+
+msgid "Customize TPOA"
+msgstr "Personnaliser les TPOA"
+
+msgid "add this TPOA"
+msgstr "ajouter ce TPOA"
+
+msgid "remove this TPOA"
+msgstr "supprimer le TPOA"
+
+msgctxt ""
+msgid "Are you sure to want to cancel the campaign template?"
+msgstr "Etes-vous sûr de vouloir désactiver le modèle de campagne ?"
+
+msgid "get the qrcode"
+msgstr "obtenir le QR code"
+
+msgid "get link / qrcode"
+msgstr "obtenir lien / qr code"
+
+msgctxt ""
+msgid "Link to mobile site"
+msgstr "Lien vers la Smartpage"
+
+msgid "the following message is automatically added at the end of the message:"
+msgstr "le message suivant sera automatiquement ajouté à la fin du message :"
+
+msgid "is added at the end of the message"
+msgstr "sera ajouté à la fin du message"
+
+msgid "My stats"
+msgstr "Mes statistiques"
+
+msgid "view statistics"
+msgstr "voir les statistiques"
+
+msgid "View statistics"
+msgstr "Voir les statistiques"
+
+msgid "campaigns restriction"
+msgstr "restriction des campagnes"
+
+msgid "Affiliate authorization"
+msgstr "Autorisations des affiliés"
+
+msgid "can add and delete channels"
+msgstr "ajouter et supprimer des canaux"
+
+msgid "can add and delete steps"
+msgstr "ajouter et supprimer des étapes"
+
+msgid "affiliates can add and delete channels"
+msgstr "les affiliés peuvent ajouter et supprimer des canaux"
+
+msgid "affiliates can add and delete steps"
+msgstr "les affiliés peuvent ajouter et supprimer des étapes"
+
+msgid "save as model"
+msgstr "enregistrer comme modèle"
+
+msgid "contractLogo"
+msgstr "Logo"
+
+msgid "contractSignature"
+msgstr "Signature"
+
+msgid "contractName"
+msgstr "Nom"
+
+msgid "contractPhone"
+msgstr "Téléphone"
+
+msgid "contractAddress"
+msgstr "Adresse"
+
+msgid "affiliates can update the subject"
+msgstr "les adhérents peuvent modifier l'objet"
+
+msgid "add new %s"
+msgstr "ajouter un nouveau %s"
+
+msgid "message stats"
+msgstr "statistiques du message"
+
+msgid "Message stats"
+msgstr "Statistiques du message"
+
+msgid "answered"
+msgstr "répondus"
+
+msgid "rep"
+msgstr "répondus"
+
+msgid "answers"
+msgstr "réponses"
+
+msgid "reason"
+msgstr "raison"
+
+msgid "media.available.0"
+msgstr "moyen de contact non défini"
+
+msgid "media.available.1"
+msgstr "moyen de contact utilisable, cliquer pour désactiver"
+
+msgid "media.available.-1"
+msgstr "moyen de contact désactivé"
+
+msgid "media.available.-2"
+msgstr "moyen de contact désactivé, cliquer pour réactiver"
+
+msgid "refreshing data, please wait"
+msgstr "rafraichissement des données, patientez"
+
+msgid "no contact means provided for this contact"
+msgstr "aucun moyen de contact disponible"
+
+msgid "contacts API error"
+msgstr "erreur API de contacts"
+
+msgid "impossible to cancel an ongoing campaign mailing"
+msgstr "impossible d'annuler une campagne en cours d'envoi"
+
+msgid "thanks for your understanding"
+msgstr "merci de votre compréhension"
+
+msgid ""
+"Have a coffe, your account is being updated.nThanks for your understanding."
+msgstr ""
+"Le temps d'un café, nous mettons à jour votre compte.nMerci de votre "
+"compréhension."
+
+msgid "reconnect"
+msgstr "Se reconnecter"
+
+msgid "Cannot save contact"
+msgstr "Impossible de sauvegarder le contact"
+
+msgid "forgot your password ?"
+msgstr "mot de passe oublié ?"
+
+msgid "unable to find a password"
+msgstr "impossible de trouver un mot de passe"
+
+msgid "wrong password"
+msgstr "mauvais mot de passe"
+
+msgid "link too old"
+msgstr "durée de validité du lien dépassée"
+
+msgid "send email"
+msgstr "envoyer un email"
+
+msgid "please enter your login"
+msgstr "veuillez saisir votre identifiant de connexion (login)"
+
+msgid "error while contacting user api"
+msgstr "erreur lors du contact au gestionnaire d'utilisateurs"
+
+msgctxt ""
+msgid "please enter a valid login"
+msgstr "veuillez vérifier votre login, il semble invalide"
+
+msgid "error while sending email to your address"
+msgstr "erreur lors de l'envoi d'un email à votre adresse"
+
+msgid ""
+"an email with a link to change your password has been sent to your email "
+"address"
+msgstr ""
+"un email avec un lien vous permettant de choisir votre mot de passe a été "
+"envoyé à votre adresse email"
+
+msgid "please check your email address"
+msgstr "veuillez consulter votre boite de réception email"
+
+msgid "unable to create temporary password"
+msgstr "impossible de créer un mot de passe temporaire"
+
+msgid ""
+"<b>Password security too weak</b><br><br>To create a secure password "
+":<br><br>- password's length should be at least 8 characters,<br>- password "
+"must contains uppercase and lowercase characters,<br>numbers and special "
+"characters."
+msgstr ""
+"<b>Mot de passe trop peu sécurisé</b><br><br>Pour sécuriser un mot de passe "
+":<br><br>- Il doit contenir au moins 8 caractères,<br>- Il doit être composé "
+"de lettres majuscules, <br>minuscules et de chiffres et d'un caractère "
+"spécial."
+
+msgid "password successfully updated !"
+msgstr "mot de passe mis à jour avec succès !"
+
+msgid "you are now connected with your new password."
+msgstr "vous êtes maintenant connecté avec votre nouveau mot de passe."
+
+msgid "unable to change password"
+msgstr "impossible de changer le mot de passe"
+
+msgid "wrong key"
+msgstr "clé incorrecte"
+
+msgid "emailed password:"
+msgstr "clé d'activation envoyée par email :"
+
+msgid "new password:"
+msgstr "nouveau mot de passe :"
+
+msgid "new password confirmation:"
+msgstr "confirmation du nouveau mot de passe :"
+
+msgid "change password"
+msgstr "changer le mot de passe"
+
+msgctxt ""
+msgid "please enter a valid login"
+msgstr "veuillez saisir un login valide"
+
+msgid "wrong user found"
+msgstr "mauvais utilisateur trouvé"
+
+msgid "unable to find your temporary password"
+msgstr "impossible de trouver votre mot de passe temporaire"
+
+msgid "passwords does not match"
+msgstr "les mots de passe saisis ne correspondent pas"
+
+msgid "please enter a new password"
+msgstr "veuillez saisir un nouveau mot de passe"
+
+msgid "does not record the size of the custom fields"
+msgstr "ne tient pas compte de la taille des champs personnalisés"
+
+msgid "calculate the length of custom fields"
+msgstr "calculer la longueur des champs personnalisés"
+
+msgid "calculate"
+msgstr "calculer"
+
+msgid "counter:"
+msgstr "compteur :"
+
+msgid "characters or"
+msgstr "caractères soit"
+
+msgid "character"
+msgstr "caractère"
+
+msgid "characters"
+msgstr "caractères"
+
+msgid "ignores the size of custom fields:"
+msgstr "ne tient pas compte de la taille des champs personnalisés :"
+
+msgctxt ""
+msgid "use"
+msgstr "utiliser"
+
+msgctxt ""
+msgid "template successfully created"
+msgstr "modèle crée avec succès"
+
+msgctxt ""
+msgid "template.confirm template removal"
+msgstr "confirmation de la suppresion du modèle"
+
+msgctxt ""
+msgid "template.are you sur you want to remove this template ?"
+msgstr "Etes-vous sûr de vouloir supprimer ce modèle ?"
+
+msgid "contact.importing contacts. You can continue to use Digitaleo."
+msgstr ""
+"l'import de contacts est en cours. Vous pouvez continuer à utiliser "
+"Digitaleo."
+
+msgid "contact.back to the contact list"
+msgstr "retour à la liste de contacts"
+
+msgid "import.list is importing"
+msgstr "liste en cours d'import"
+
+msgid "import.list is importing, progression"
+msgstr "liste en cours d'import, progression"
+
+msgid "contact.download import errors file"
+msgstr "télécharger le fichier d'erreurs d'import"
+
+msgid ""
+"At least one of those properties is required: email, phone, mobile, "
+"facebookId, twitterId"
+msgstr ""
+"Au moins l'un des champs suivants doit être renseigné : email, téléphone, "
+"mobile"
+
+msgid "email (%s) is not valid"
+msgstr "l'email saisi (%s) n'est pas valide"
+
+msgid "mobile (%s) is not valid (dialing code: %s)"
+msgstr "le numéro de mobile saisi (%s) n'est pas valide (numero de préfixe %s)"
+
+msgid "field %s (%s) is not valid"
+msgstr "le champ %s (%s) n'est pas valide"
+
+msgid "Parameter"
+msgstr "Erreur sur les champs"
+
+msgctxt ""
+msgid "use"
+msgstr "utiliser"
+
+msgctxt ""
+msgid "template successfully created"
+msgstr "modèle crée avec succès"
+
+msgctxt ""
+msgid "template.confirm template removal"
+msgstr "confirmation de la suppresion du modèle"
+
+msgctxt ""
+msgid "template.are you sur you want to remove this template ?"
+msgstr "Etes-vous sûr de vouloir supprimer ce modèle ?"
+
+msgid "Are you sur you want to remove this template ?"
+msgstr "Etes-vous sûr de vouloir supprimer ce modèle ?"
+
+msgid "Template deletion"
+msgstr "Suppression du modèle"
+
+msgid "Template changing"
+msgstr "Changement de modèle"
+
+msgid "among"
+msgstr "parmi"
+
+msgid "content.neutral"
+msgstr "modèles vierges"
+
+msgid "content.responsive"
+msgstr "modèles en responsive design"
+
+msgid "content.agencies"
+msgstr "agences"
+
+msgid "content.software"
+msgstr "editeurs de logiciel"
+
+msgid "content.automotive"
+msgstr "automobile"
+
+msgid "content.education"
+msgstr "enseignement"
+
+msgid "content.employment"
+msgstr "emploi"
+
+msgid "content.training"
+msgstr "formation"
+
+msgid "content.supermarket"
+msgstr "grande distribution"
+
+msgid "content.retail"
+msgstr "equipement de la personne"
+
+msgid "content.beauty"
+msgstr "beauté"
+
+msgid "content.health"
+msgstr "santé"
+
+msgid "content.hotel"
+msgstr "hôtellerie"
+
+msgid "content.food"
+msgstr "restauration"
+
+msgid "content.real estate"
+msgstr "immobilier"
+
+msgid "content.entertainment"
+msgstr "loisirs"
+
+msgid "content.holidays"
+msgstr "tourisme"
+
+msgid "content.services"
+msgstr "service"
+
+msgid "content.all templates"
+msgstr "tous les modèles"
+
+msgid "* comma separated"
+msgstr "* Séparés par virgule"
+
+msgid "Tags *"
+msgstr "Mots clés *"
+
+msgctxt ""
+msgid "template successfully created"
+msgstr "Modèle crée avec succès"
+
+msgid "content.mine"
+msgstr "modèles"
+
+msgctxt ""
+msgid "keywords"
+msgstr "mots clés"
+
+msgctxt ""
+msgid "use"
+msgstr "utiliser"
+
+msgctxt ""
+msgid "template successfully created"
+msgstr "modèle crée avec succès"
+
+msgctxt ""
+msgid "template.confirm template removal"
+msgstr "confirmation de la suppresion du modèle"
+
+msgctxt ""
+msgid "template.are you sur you want to remove this template ?"
+msgstr "Etes-vous sûr de vouloir supprimer ce modèle ?"
+
+msgid "no template found"
+msgstr "aucun template ne correspond à vos critères"
+
+msgid "Audio content"
+msgstr "Fichiers audio"
+
+msgid "Visual content"
+msgstr "Images"
+
+msgid "visual content"
+msgstr "images"
+
+msgid "Voice list"
+msgstr "Messages vocaux"
+
+msgid "Voicemail list"
+msgstr "Messages sur répondeur"
+
+msgid "media_sms"
+msgstr "sms"
+
+msgid "media_email"
+msgstr "email"
+
+msgid "media_voice"
+msgstr "push vocal"
+
+msgid "media_voicemail"
+msgstr "message repondeur"
+
+msgctxt ""
+msgid "after"
+msgstr "après"
+
+msgid "delivrability"
+msgstr "délivrabilité"
+
+msgid "opening"
+msgstr "ouverture"
+
+msgid "manual"
+msgstr "choix manuel"
+
+msgid "final campaign following"
+msgstr "envoi final selon"
+
+msgid "testing range"
+msgstr " \"plage de test\""
+
+msgid ""
+"the following Fotolia images will be puchased, they will be available in "
+"your library of content for use in your next campaigns."
+msgstr ""
+"les images suivantes de la banque d'images seront achetées et disponibles "
+"dans votre bibliothèque pour vos prochaines campagnes."
+
+msgid "cost of images"
+msgstr "coût des images"
+
+msgid ""
+"cannot confirm campaign, unable to purchase Fotolia images, please try again."
+msgstr ""
+"la campagne n'a pas pu être confirmée car certaines images n'ont pas pu être "
+"achetées. Merci de nous contacter."
+
+msgid "your campaign does not contain any message."
+msgstr "votre campagne ne contient pas de messages."
+
+msgid ""
+"Your browser does not allow the addition of favorites. However, you can "
+"manually save the following address :"
+msgstr ""
+"Votre navigateur ne permet pas l'ajout de favoris. Toutefois, vous pouvez "
+"enregistrer manuellement l'adresse suivante :"
+
+msgctxt ""
+msgid "specify a name for the new list"
+msgstr "spécifier un nom pour la nouvelle liste"
+
+msgctxt ""
+msgid "(optionnal) default name : List YYYY-MM-DD"
+msgstr "(optionnel) nom par défaut: List YYYY-MM-DD"
+
+msgid "recipients detail"
+msgstr "détail des destinataires"
+
+msgid "rename custom fields"
+msgstr "champs variables"
+
+msgid "Choose contact custom fields"
+msgstr "Sélection des champs persos pour les contacts"
+
+msgid "Connection problem ?"
+msgstr "Un problème de connexion ?"
+
+msgid ""
+"To reset your password, enter the user name you used to log in Digitaleo"
+msgstr ""
+"Pour réinitialiser votre mot de passe, saisissez le nom d'utilisateur que "
+"vous utilisez pour vous connecter à Digitaleo"
+
+msgid "Hello "
+msgstr "Bonjour "
+
+msgid ""
+"You are receiving this email because a change of password was requested for "
+"your access Digitaleo."
+msgstr ""
+"Vous recevez cet email car un changement de mot de passe a été demandé pour "
+"votre accès Digitaleo."
+
+msgid ""
+"If you are the source of the request, just click on the following link: "
+msgstr ""
+"Si vous êtes à l'origine de cette demande, il vous suffit de cliquer sur le "
+"lien suivant : "
+
+msgid "and educate the next activation key: "
+msgstr "et de renseigner la clé d'activation suivante : "
+
+msgid ""
+"You can then choose your new secure password to log on to the platform. The "
+"old password will be immediately invalidated."
+msgstr ""
+"Vous pourrez alors choisir votre nouveau mot de passe sécurisé pour vous "
+"connecter sur la plateforme. L'ancien mot de passe sera immédiatement "
+"invalidé."
+
+msgid ""
+"The procedure for changing the password is valid for an hour beyond, you "
+"must submit a new application."
+msgstr ""
+"La procédure de changement de mot de passe n'est valable qu'une heure, au "
+"delà, vous devrez soumettre une nouvelle demande."
+
+msgid ""
+"If you are not at the origin of this request, please do not take this into "
+"account. No changes have been made ​​on your account."
+msgstr ""
+"Si vous n'êtes pas à l'origine de cette demande, veuillez ne pas en tenir "
+"compte. Aucune modification n'a été effectuée sur votre compte."
+
+msgid "Sincerely,"
+msgstr "Cordialement,"
+
+msgctxt ""
+msgid "Digitaleo"
+msgstr "Digitaleo"
+
+msgid "Password Change Request Digitaleo"
+msgstr "Demande de modification de mot de passe Digitaleo"
+
+msgid "The link you are using is too old, please create a new one"
+msgstr "Le lien que vous utilisez est trop ancien, veuillez en creer un nouveau"
+
+msgctxt ""
+msgid "cannot send email for this login"
+msgstr ""
+"impossible d'envoyer un email pour ce compte, veuillez contacter le support "
+"svp"
+
+msgid "list of poi"
+msgstr "liste des points de vente"
+
+msgid "address search"
+msgstr "recherche par adresse"
+
+msgid "geoloc search"
+msgstr "recherche par géolocalisation"
+
+msgid "automatic geoloc"
+msgstr "automatiser la géolocalisation"
+
+msgid "error uploading file"
+msgstr "erreur d'import de fichier"
+
+msgid "file imported"
+msgstr "fichier importé"
+
+msgid "file not imported"
+msgstr "fichier pas importé"
+
+msgid "show detail"
+msgstr "afficher le détail"
+
+msgid "hide detail"
+msgstr "masquer le détail"
+
+msgid "poi imported"
+msgstr "points de vente importés"
+
+msgid "non-geolocalised POIs"
+msgstr "liste des points de vente non géolocalisés"
+
+msgid "name of the POI"
+msgstr "nom du point de vente"
+
+msgid "import ko"
+msgstr "liste non importée"
+
+msgid "Contacts not found"
+msgstr "Impossible de trouver les contacts"
+
+msgid "Cannot found this address"
+msgstr "Impossible de trouver l'adresse"
+
+msgid "No location specified"
+msgstr "Aucune adresse specifiée"
+
+msgid "Component not found"
+msgstr "Aucun composant de type Store Locator trouvé"
+
+msgctxt ""
+msgid "no voice yet"
+msgstr "pas encore de message vocal"
+
+msgctxt ""
+msgid "cannot send email for this login"
+msgstr "impossible d'envoyer un email pour ce compte"
+
+msgctxt ""
+msgid "no voice yet"
+msgstr "pas encore de message push vocal"
+
+msgid "imported"
+msgstr "importé"
+
+msgid "voice restriction"
+msgstr "bridage push vocal"
+
+msgid "sms cost"
+msgstr "coût du Sms"
+
+msgid "email cost"
+msgstr "coût de l'email"
+
+msgid "voiceMail cost"
+msgstr "coût du message sur répondeur"
+
+msgid "voice cost"
+msgstr "coût du message push vocal"
+
+msgid "voicemail restriction"
+msgstr "bridage message sur répondeur"
+
+msgid "voicemail-short"
+msgstr "répondeur"
+
+msgid "Order of communication media for your business"
+msgstr ""
+"Commandez des supports de communication pour votre/vos point(s) de vente"
+
+msgid "Liven up your Facebook page and interact with your fans"
+msgstr "Animez votre page Facebook et communiquez avec vos fans"
+
+msgid "Update your Twitter account and schedule your messages simply"
+msgstr ""
+"Mettez à jour votre compte Twitter et programmez vos messages simplement"
+
+msgid ""
+"Reach all your contacts equipped with a landline and broadcast your voice "
+"message"
+msgstr ""
+"Touchez tous vos contacts équipés en ligne fixe et diffusez votre message "
+"vocal"
+
+msgid ""
+"Leave your voice messages directly to your contacts without ringing their "
+"mobile"
+msgstr ""
+"Déposez vos messages directement sur le répondeur de vos contacts sans faire "
+"sonner leurs mobiles"
+
+msgid "voicemail"
+msgstr "message répondeur"
+
+msgid "VOICEMAIL"
+msgstr "MESSAGE REPONDEUR"
+
+msgid "no voicemail yet"
+msgstr "pas encore de message sur répondeur"
+
+msgid "contact reference"
+msgstr "référence du contact"
+
+msgid "cannot display contact details, acces denied"
+msgstr "impossible d'affiche les détails de contacts, accès refusé"
+
+msgid "all"
+msgstr "tous"
+
+msgid "all.clicksstatuses"
+msgstr "Tous les liens"
+
+msgid "opened"
+msgstr "ouverts"
+
+msgid "clicked"
+msgstr "cliqués"
+
+msgid "notopened"
+msgstr "non ouverts"
+
+msgid "notopened.export"
+msgstr "non ouvert"
+
+msgid "notclicked"
+msgstr "non cliqués"
+
+msgid "notclicked.export"
+msgstr "non cliqué"
+
+msgid "Field label"
+msgstr "Libellé du champ"
+
+msgctxt ""
+msgid "specify a name for the new list"
+msgstr "spécifier le nom de la nouvelle liste"
+
+msgctxt ""
+msgid "(optionnal) default name : List YYYY-MM-DD"
+msgstr "(optionnel) nom par défaut : AAAA-MM-JJ"
+
+msgctxt ""
+msgid "please fill a valid reply address"
+msgstr "veuillez saisir une adresse email de réponse valide"
+
+msgid "uniq visitors"
+msgstr "visiteurs uniques"
+
+msgid "uniq views"
+msgstr "vues uniques"
+
+msgid "direct entry"
+msgstr "entrées directes"
+
+msgid "page name not defined"
+msgstr "page sans nom"
+
+msgid "average time on page"
+msgstr "temps moyen sur la page"
+
+msgid "user settings"
+msgstr "equipement des visiteurs"
+
+msgid "search engines"
+msgstr "moteurs de recherche"
+
+msgid "unknown"
+msgstr "inconnu"
+
+msgid "OS"
+msgstr "Système d'exploitation"
+
+msgid "navigator"
+msgstr "navigateur"
+
+msgid "users country"
+msgstr "situation géographique"
+
+msgid "geoloc parameters"
+msgstr "paramètres de géolocalisation"
+
+msgid "results next to"
+msgstr "résultats à proximité de"
+
+msgid "my position"
+msgstr "ma position"
+
+msgid "display/hide map"
+msgstr "afficher/masquer le plan"
+
+msgid "files format"
+msgstr "format des fichiers"
+
+msgid "locator.import1"
+msgstr ""
+"Le fichier de points de vente doit être au format CSV ou Excel. Le format "
+"des colonnes du fichier doit être le suivant (la ligne d'en-tête est "
+"obligatoire):"
+
+msgid "locator.import2"
+msgstr ""
+"Nom | Email | Téléphone Fixe | Mobile | Fax | Adresse 1 | Adresse 2 | Code "
+"postal | Ville | Etat | Pays"
+
+msgid "locator.list is importing"
+msgstr ""
+"Le fichier des points de vente a bien été pris en compte. La géolocalisation "
+"des points de vente peut prendre plusieurs minutes."
+
+msgid "locator.info address search"
+msgstr ""
+"La recherche par adresse permet à l'utilisateur de rechercher les points de "
+"ventes autour d'une adresse saisie."
+
+msgid "locator.info geoloc search"
+msgstr ""
+"La recherche par géolocalisation permet à l'utilisateur de rechercher les "
+"points de ventes autour de sa position réelle sans qu'il ait besoin de la "
+"saisir."
+
+msgid "locator.info automatic geoloc"
+msgstr ""
+"L'activation de cette fonctionnalité demandera automatiquement à "
+"l'utilisateur s'il veut se faire géolocaliser."
+
+msgctxt ""
+msgid "please fill a valid reply address"
+msgstr "veuillez saisir une adresse email de réponse valide"
+
+msgid "clicks"
+msgstr "clics"
+
+msgid "sunday"
+msgstr "dimanche"
+
+msgid "monday"
+msgstr "lundi"
+
+msgid "tuesday"
+msgstr "mardi"
+
+msgid "wendesday"
+msgstr "mercredi"
+
+msgid "thursday"
+msgstr "jeudi"
+
+msgid "friday"
+msgstr "vendredi"
+
+msgid "saturday"
+msgstr "samedi"
+
+msgid "canceled"
+msgstr "annulée"
+
+msgctxt ""
+msgid "cancelled"
+msgstr "annulée"
+
+msgctxt ""
+msgid "interrupted"
+msgstr "interrompue"
+
+msgctxt ""
+msgid "please fill a valid reply address"
+msgstr "veuillez saisir une adresse email de réponse valide"
+
+msgid "Schedule stop date"
+msgstr "Date de fin"
+
+msgid ""
+"cannot confirm the campaign if the site end date is before the campaign "
+"start, please try again."
+msgstr ""
+"la campagne ne peut pas être confirmée, la date de mise hors ligne du site "
+"est antérieure au début de la campagne. Merci de modifier votre campagne."
+
+msgid "Confirmation date + 30D"
+msgstr "Date de confirmation + 30j"
+
+msgid "Your message contains invalid characters"
+msgstr "Votre message contient des caractères non valides"
+
+msgid "Please correct before continuing"
+msgstr "Merci de corriger avant de continuer"
+
+msgid "january"
+msgstr "janvier"
+
+msgid "february"
+msgstr "février"
+
+msgid "march"
+msgstr "mars"
+
+msgid "april"
+msgstr "avril"
+
+msgid "may"
+msgstr "mai"
+
+msgid "june"
+msgstr "juin"
+
+msgid "july"
+msgstr "juillet"
+
+msgid "august"
+msgstr "août"
+
+msgid "september"
+msgstr "septembre"
+
+msgid "october"
+msgstr "octobre"
+
+msgid "november"
+msgstr "novembre"
+
+msgid "december"
+msgstr "décembre"
+
+msgid ""
+"If you load a new template, changes to this SMS will be lost. Do you want to "
+"change your SMS template ?"
+msgstr ""
+"Si vous chargez un nouveau modèle, les modifications apportées à ce SMS "
+"seront perdues. Souhaitez-vous changer de modèle SMS ?"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Tablet"
+msgstr "Tablette"
+
+msgid "Computer"
+msgstr "Ordinateur"
+
+msgid "Rename page"
+msgstr "Renommer la page"
+
+msgid "Define as home page"
+msgstr "Définir comme page d'accueil"
+
+msgid "Display in menu"
+msgstr "Afficher dans le menu"
+
+msgid "Hide in menu"
+msgstr "Masquer dans le menu"
+
+msgid "Main background color"
+msgstr "Couleur d'arrière plan du site par défaut"
+
+msgid "Background color"
+msgstr "Couleur d'arrière plan"
+
+msgid "Main font color"
+msgstr "Couleur de la police du site par défaut"
+
+msgid "Font color"
+msgstr "Couleur du texte"
+
+msgid "Generate QRCode"
+msgstr "Obtenir le QR Code"
+
+msgid "Change end date"
+msgstr "Fin de validité"
+
+msgid "Test your message"
+msgstr "Tester"
+
+msgctxt ""
+msgid "Save as model"
+msgstr "Sauvegarder comme modèle"
+
+msgid "Add new page"
+msgstr "Ajouter une page"
+
+msgid "Delete page"
+msgstr "Supprimer la page"
+
+msgid "displaying QR code"
+msgstr "affichage du QR code"
+
+msgid "Comma separated"
+msgstr "Séparés par virgule"
+
+msgid "Template definition"
+msgstr "Définition du modèle"
+
+msgid "New page"
+msgstr "Nouvelle page"
+
+msgid "New page label"
+msgstr "Libellé de la page"
+
+msgid "Get responses"
+msgstr "Récupérer les réponses"
+
+msgid "getting responses"
+msgstr "récupération des réponses"
+
+msgid "Do not get responses"
+msgstr "Ne pas récupérer les réponses"
+
+msgid "activated:fem"
+msgstr "activée"
+
+msgid "deactivated:fem"
+msgstr "désactivée"
+
+msgid "Personalize sender"
+msgstr "Personnaliser l'expéditeur"
+
+msgid "character count"
+msgstr "compteur de caractères"
+
+msgid "Site parameters"
+msgstr "Paramètres du site"
+
+msgid "Page edition"
+msgstr "Edition de la page"
+
+msgid "Reading responses has been activated"
+msgstr "La récupération des réponses a été activée"
+
+msgid "Reading responses has been deactivated"
+msgstr "La récupération des réponses a été desactivée"
+
+msgid "Sender has been personalized"
+msgstr "L'expéditeur a été personnalisé"
+
+msgid "personalizing sender"
+msgstr "personnalisation de l'expéditeur"
+
+msgid "Personalizing sender has been deactivated"
+msgstr "La personnalisation de l'expéditeur a été desactivée"
+
+msgid "Scheduled end date correctly defined"
+msgstr "La date de fin de validité a été prise en compte"
+
+msgid "Page name correctly updated"
+msgstr "Le nom de la page a été mis à jour"
+
+msgid "Page correctly defined as home page"
+msgstr "La page a été defini comme page d'accueil"
+
+msgid "campaign name"
+msgstr "nom de la campagne"
+
+msgid "Error while finding user"
+msgstr "Erreur lors de la recherche de l'utilisateur"
+
+msgid "error while finding user"
+msgstr "erreur lors de la recherche de l'utilisateur"
+
+msgid ""
+"If you load a new model, changes to the SMS will be lost. Would you change "
+"the SMS model?"
+msgstr ""
+"Si vous chargez un nouveau modèle, les modifications apportées à ce SMS "
+"seront perdues. Souhaitez-vous changer de modèle SMS ?"
+
+msgid ""
+"Your relationship marketing platform Marketeo changes name and becomes "
+"Digitaleo"
+msgstr ""
+"Votre plateforme de marketing relationnel Marketeo change de nom et devient "
+"Digitaleo"
+
+msgid "404 Errorn Page not found"
+msgstr "Erreur 404n La page demandée n'existe pas"
+
+msgid "unsubscribe operation"
+msgstr "gestion désabonnement"
+
+msgid "enter email addresses and phone numbers you want to unsubscribe"
+msgstr ""
+"saisissez les adresses emails et numéros de téléphones que vous souhaitez "
+"désabonner"
+
+msgid "separated by commas or line breaks"
+msgstr "séparés par des virgules ou des sauts de ligne"
+
+#: %25s+donn%C3%A9es+de+contacts+d%C3%A9sactiv%C3%A9es
+msgid "%s contact data disactivated"
+msgstr "%s donnée de contact désactivée"
+
+msgctxt ""
+msgid "none"
+msgstr "aucune"
+
+msgid "your request has been treated"
+msgstr "votre demande a été prise en compte"
+
+msgid "please enter at least one contact"
+msgstr "veuillez saisir au moins un contact"
+
+msgid " €, excl routing"
+msgstr " €, hors frais de routage"
+
+msgid "<1k€"
+msgstr "<1k€"
+
+msgid ">=10k€ - <100K€"
+msgstr ">=10k€ - <100K€"
+
+msgid ">=1k€ - <10K€"
+msgstr ">=1k€ - <10K€"
+
+msgid "€ HT"
+msgstr "€ HT"
+
+msgid "100k€"
+msgstr "100k€"
+
+msgid "Refine targeting"
+msgstr "Affiner le ciblage"
+
+msgid "Age"
+msgstr "Age"
+
+msgid "auto"
+msgstr "automobile"
+
+msgid "B2B"
+msgstr "B2B"
+
+msgid "B2C"
+msgstr "B2C"
+
+msgid "BPg"
+msgstr "Base Particuliers"
+
+msgid "BPe"
+msgstr "Base Entreprises"
+
+msgid "Budget limitation"
+msgstr "Limiter le budget"
+
+msgid "businessVolume"
+msgstr "Chiffre d'affaire"
+
+msgid "cadre"
+msgstr "Cadre"
+
+msgid "cadre sup"
+msgstr "Cadre supérieur"
+
+msgctxt ""
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Categorie socio pro"
+msgstr "Categorie socio-professionelle"
+
+msgctxt ""
+msgid "city"
+msgstr "ville"
+
+msgctxt ""
+msgid "City"
+msgstr "Ville"
+
+msgid "Contacts"
+msgstr "Contacts"
+
+msgid "contacts for "
+msgstr "contacts pour"
+
+msgid "craftsman"
+msgstr "Artisant"
+
+msgid "CSP"
+msgstr "CSP"
+
+msgctxt ""
+msgid "email"
+msgstr "email"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email Cost"
+msgstr "Coût email"
+
+msgid "Email Number"
+msgstr "Nombre d'email"
+
+msgid "employé"
+msgstr "employé"
+
+msgid "female"
+msgstr "Femme"
+
+msgid "function"
+msgstr "fonction"
+
+msgid "GSS"
+msgstr "Grande surface"
+
+msgid "immo"
+msgstr "Immobilier"
+
+msgid "industry"
+msgstr "Secteur d'activité"
+
+msgctxt ""
+msgid "interest"
+msgstr "Centre d'intêret"
+
+msgctxt ""
+msgid "interest"
+msgstr "Centre intêret"
+
+msgid "List rental"
+msgstr "Location de liste"
+
+msgid "male"
+msgstr "Homme"
+
+msgctxt ""
+msgid "Name"
+msgstr "Nom"
+
+msgid "No budget limitation"
+msgstr "Pas de limitation de budget"
+
+msgid "Recalculate"
+msgstr "Recalculer"
+
+msgid "region1"
+msgstr "Région"
+
+msgid "region2"
+msgstr "Département"
+
+msgid "Rent Order"
+msgstr "Commande"
+
+msgid "Rent this list"
+msgstr "Louer la liste"
+
+msgid "Segment de population"
+msgstr "Segment de population"
+
+msgid "senior"
+msgstr "Senior"
+
+msgid "senior executive"
+msgstr "Dirigeant"
+
+msgid "sex"
+msgstr "Sex"
+
+msgctxt ""
+msgid "SMS"
+msgstr "SMS"
+
+msgid "SMS + Email"
+msgstr "SMS + Email"
+
+msgid "SMS Cost"
+msgstr "Coût SMS"
+
+msgid "SMS Number"
+msgstr "Nombre de SMS"
+
+msgid "Staff size"
+msgstr "Nombre d'employés"
+
+msgid "Taille"
+msgstr "Taille"
+
+msgid ""
+"i understood that this list will be available in the 'My Contacts' menu and "
+"will be used in a single campaign should be carried out before:"
+msgstr ""
+"J'ai compris que la liste sera disponible dans le menu <span>Mes "
+"contacts</span><br />J'ai compris que la liste sera utilisable dans <span>"
+"une seule campagne</span> qui devra être réalisée avant le "
+
+msgid "Those prices does not includes the message delivery of your campaign"
+msgstr "Ces prix n'incluent pas le coût d'envoi de votre campagne"
+
+msgid ""
+"The contact list will be available within 48 hours maximum worked after "
+"validation of the transaction"
+msgstr ""
+"La liste de contacts sera disponible sous 48h ouvrées maximum après "
+"validation de la transaction"
+
+msgid ""
+"Campaigns on leased lists typically offer a lower ROI on your own contacts "
+"database"
+msgstr ""
+"Les campagnes sur des listes louées offrent généralement un ROI plus faible "
+"que sur votre propre base de contacts"
+
+msgctxt ""
+msgid "validate"
+msgstr "Valider"
+
+msgid "I confirm that I wish to rent the list containing"
+msgstr "Je confirme que je souhaite louer la liste contenant"
+
+msgid "Your budget limitation"
+msgstr "Votre limitation"
+
+msgid "Zipcode"
+msgstr "Code postal"
+
+msgid "gender"
+msgstr "genre"
+
+msgid "farmer"
+msgstr "Agriculteurs exploitants"
+
+msgid "entrepreneur"
+msgstr "Artisans, commerçants et chefs d’entreprises"
+
+msgid "executive"
+msgstr "Cadres et Professions intellectuelles supérieures"
+
+msgid "intermediate"
+msgstr "Professions intermédiaires"
+
+msgid "employee"
+msgstr "Employés"
+
+msgid "worker"
+msgstr "Ouvriers"
+
+msgid "retired"
+msgstr "Retraités"
+
+msgid "unemployed"
+msgstr "Autres personnes sans activité professionnelle"
+
+msgid "We have found"
+msgstr "Nous avons trouvé"
+
+msgid "for"
+msgstr "pour"
+
+msgid "and"
+msgstr "et"
+
+msgid "Your targeting results"
+msgstr "Résultats de votre ciblage"
+
+msgid "Page visibility correctly changed"
+msgstr "L'affichage de la page a été modifié"
+
+msgid "Change link"
+msgstr "Modifier le lien"
+
+msgid "Facebook link updated"
+msgstr "Le lien Facebook a été mis à jour"
+
+msgid "Earlier"
+msgstr "Plus tôt"
+
+msgid "Cannot generate barcode with :"
+msgstr "Impossible de générer un code bar avec :"
+
+msgid "Email background color updated"
+msgstr "La couleur d'arrière plan a été modifiée"
+
+msgid "Email font color updated"
+msgstr "La couleur de la police plan a été modifiée"
+
+msgid "Site background color updated"
+msgstr "La couleur d'arrière plan a été modifiée"
+
+msgid "Expiration date"
+msgstr "Date d'expiration"
+
+msgid "Generate link"
+msgstr "Obtenir le lien"
+
+msgctxt ""
+msgid "export unsubscribed contacts by media"
+msgstr "exporter les contacts désabonnés par media"
+
+msgctxt ""
+msgid "export contacts"
+msgstr "exporter les contacts"
+
+msgid "Rating (from 0 to 100)"
+msgstr "note (de 0 à 100)"
+
+msgid "email invalid"
+msgstr "email invalide"
+
+msgid "Email sender updated"
+msgstr "Expéditeur mis à jour"
+
+msgid "Email reply updated"
+msgstr "Répondre à, mis à jour"
+
+msgid "Email subject updated"
+msgstr "Objet mis à jour"
+
+msgid "get a quote"
+msgstr "calculer le budget"
+
+msgid "select list"
+msgstr "choisissez une liste"
+
+msgctxt ""
+msgid "export unsubscribed contacts by media"
+msgstr "exporter les contacts désactivés par canal"
+
+msgctxt ""
+msgid "export contacts"
+msgstr "exporter les contacts"
+
+msgid "Submit and next"
+msgstr "Valider et suivant"
+
+msgid "remote-control"
+msgstr "accès à distance"
+
+msgid "remote-control-network"
+msgstr "accès à distance"
+
+msgid "allow Digitaleo access my account"
+msgstr "autoriser Digitaleo à accéder à mon compte"
+
+msgid "admin username:"
+msgstr "identifiant :"
+
+msgid "admin password:"
+msgstr "mot de passe :"
+
+msgid "contract:"
+msgstr "contrat :"
+
+msgid "user username:"
+msgstr "identifiant utilisateur :"
+
+msgid ""
+"the user login entered was wrong or remote access not allowed, please try "
+"again"
+msgstr ""
+"L'identifiant utilisateur est incorrect ou l'accès à distance non autorisé, "
+"merci d'essayer à nouveau."
+
+msgid "permission denied"
+msgstr "permission retirée"
+
+msgid "permission accorded"
+msgstr "permission accordée"
+
+msgid "remote access"
+msgstr "accès à distance"
+
+msgid "you are going to connect with the account:"
+msgstr "vous allez vous connecter avec le compte de :"
+
+msgid "parameter link is required"
+msgstr "fichier audio manquant"
+
+msgid ""
+"The following link allows you to test the mobile site you created. It is "
+"available for 15 minutes only"
+msgstr ""
+"Le lien suivant vous permet de tester votre création et n'est valable que "
+"pendant 15 minutes"
+
+msgid "contact.filter.optout"
+msgstr "Canaux désactivés"
+
+msgid "filter.media.sms"
+msgstr "SMS"
+
+msgid "filter.media.voice"
+msgstr "Push vocal"
+
+msgid "filter.media.voicemail"
+msgstr "Répondeur"
+
+msgid "filter.media.email"
+msgstr "Email"
+
+msgid "Record a vocal message"
+msgstr "Enregistrer un message vocal"
+
+msgid ""
+"You can record a new voice message by calling you automatically. Once you "
+"have finished recording, click the Submit button."
+msgstr ""
+"Vous avez la possibilité d'enregistrer un nouveau message vocal en vous "
+"faisant appeler automatiquement. Une fois votre enregistrement terminé, "
+"cliquez sur le bouton Valider."
+
+msgid "Your phone number"
+msgstr "Votre numéro de téléphone"
+
+msgid "Call-me"
+msgstr "Appelez-moi"
+
+msgid "Call me to record a message"
+msgstr "M'appeler pour enregistrer un message"
+
+msgid "Record your message"
+msgstr "Enregistrez votre message"
+
+msgid "please type one phone number"
+msgstr "merci de saisir un numéro de téléphone"
+
+msgid "your campaign will start"
+msgstr "votre campagne va démarrer"
+
+msgid "as soon as possible"
+msgstr "immédiatement"
+
+msgid "on %s at %s"
+msgstr "le %s à %s"
+
+msgid "running_info_tooltip"
+msgstr ""
+"Votre campagne est considérée comme active pendant quelques jours suivant "
+"l'envoi de vos messages (la durée dépend des canaux utilisés), le temps de "
+"collecter les statistiques nécessaires. Après cette période, la campagne "
+"passera en statut Terminé."
+
+msgid "running_status_confirmed"
+msgstr "confimée"
+
+msgid "running_status_active"
+msgstr "active"
+
+msgid "running_status_running"
+msgstr "en cours"
+
+msgid "running_status_pending"
+msgstr "en attente de paiement"
+
+msgid "Coming Soon"
+msgstr "Bientôt disponible"
+
+msgid "search for a"
+msgstr "rechercher un"
+
+msgid "delay sending SMS"
+msgstr "différer l'envoi du SMS"
+
+msgid "write your message here"
+msgstr "rédigez votre message"
+
+msgid "send"
+msgstr "envoyer"
+
+msgid "your message is required"
+msgstr "veuillez saisir un message"
+
+msgid "SMS template"
+msgstr "modèle de SMS"
+
+msgid "responses"
+msgstr "réponses"
+
+msgid "home-page"
+msgstr "page d'accueil"
+
+msgid "home-page-network"
+msgstr "page d'accueil"
+
+msgid "select your home page"
+msgstr "sélectionnez votre page d'accueil"
+
+msgid "saving"
+msgstr "sauvegarde en cours"
+
+msgctxt ""
+msgid "saved"
+msgstr "sauvegarde effectuée"
+
+msgid "first name, last name, mobile"
+msgstr "prénom, nom, mobile"
+
+msgid "all my notifications"
+msgstr "toutes mes notifications"
+
+msgid "notification-sms"
+msgstr "notification SMS"
+
+msgid "sms templates"
+msgstr "mes modèles de SMS"
+
+msgid "no results"
+msgstr "pas de résultat"
+
+msgid "sms template name"
+msgstr "nom de mon modèle SMS"
+
+msgctxt ""
+msgid "SMS Notification"
+msgstr "Notification SMS"
+
+msgid "Select your message to personalize"
+msgstr "Sélectionnez votre message à personnaliser"
+
+msgid "Customize the fields of your message"
+msgstr "Personnalisez les champs de votre message"
+
+msgid "Fill out your message by adding custom fields"
+msgstr "Complétez votre message en ajoutant des champs personnalisés"
+
+msgid "Add a field"
+msgstr "Ajouter un champ"
+
+msgid "targeting.missingparams"
+msgstr ""
+"Merci de renseigner votre secteur d'activité ainsi que votre raison sociale"
+
+msgid "targeting.corporatename"
+msgstr "Raison sociale"
+
+msgid "targeting.industryname"
+msgstr "Secteur d'activité"
+
+msgid "targeting.interest.teenager"
+msgstr "Ados"
+
+msgid "targeting.interest.food"
+msgstr "Alimentation/vin"
+
+msgid "targeting.interest.animals"
+msgstr "Animaux"
+
+msgid "targeting.interest.money"
+msgstr "Argent"
+
+msgid "targeting.interest.cars_motocycles"
+msgstr "Auto/Moto"
+
+msgid "targeting.interest.household_goods"
+msgstr "Equipement/Déco maison"
+
+msgid "targeting.interest.high_tech"
+msgstr "High Tech/Informatique"
+
+msgid "targeting.interest.garden"
+msgstr "Jardins"
+
+msgid "targeting.interest.lottery"
+msgstr "Loterie/jeux"
+
+msgid "targeting.interest.fashion"
+msgstr "Mode"
+
+msgid "targeting.interest.women_magazines"
+msgstr "Presse féminine"
+
+msgid "targeting.interest.man_magazines"
+msgstr "Presse masculine"
+
+msgid "targeting.interest.health"
+msgstr "Santé/bien être"
+
+msgid "targeting.interest.sport"
+msgstr "Sport"
+
+msgid "targeting.interest.travel"
+msgstr "Voyage/tourisme"
+
+msgid "targeting.interest"
+msgstr "Intérêts"
+
+msgid "You need to complete correctly the form to submit it please."
+msgstr "Vous devez remplir correctement le formulaire s'il vous plaît."
+
+msgid "CGS"
+msgstr "CGS"
+
+msgid "Help online"
+msgstr "Aide en ligne"
+
+msgid "Mandatory"
+msgstr "Champ obligatoire"
+
+msgid "Parameter name is required"
+msgstr "Merci de préciser un nom"
+
+msgid "digitaleo contact id"
+msgstr "identifiant de contact digitaleo"
+
+msgid "user id"
+msgstr "identifiant utilisateur"
+
+msgid "contract id"
+msgstr "identifiant de contrat"
+
+msgid "contract name"
+msgstr "Nom du contrat"
+
+msgid "Couponing"
+msgstr "Coupons"
+
+msgid "Responsive"
+msgstr "Responsive"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Forms"
+msgstr "Formulaires"
+
+msgid "Store Locator"
+msgstr "Points de vente"
+
+msgid "Gallery"
+msgstr "Galerie photos"
+
+msgid "Social Networks"
+msgstr "Réseaux sociaux"
+
+msgid "List on error"
+msgstr "Liste en erreur"
+
+msgid "list is used"
+msgstr "Liste en cours de traitement pour votre campagne"
+
+msgid "site mobile"
+msgstr "smartpage"
+
+msgctxt ""
+msgid "site"
+msgstr "smartpage"
+
+msgid "My documents"
+msgstr "Documents"
+
+msgid "my documents"
+msgstr "documents"
+
+msgid "we have detected that you are using an outdated browser."
+msgstr "nous avons détecté que vous utilisez un navigateur obsolète."
+
+msgid ""
+"to take advantage of the features offered by Digitaleo, we recommend that "
+"you use a modern browser."
+msgstr ""
+"pour profiter au mieux des fonctionnalités offertes par la plateforme "
+"Digitaleo, nous vous recommandons d'utiliser un navigateur récent."
+
+msgid "you can download the latest version of Chrome or Firefox browsers here"
+msgstr ""
+"vous pouvez télécharger gratuitement la dernière version des navigateurs "
+"Chrome ou Firefox en cliquant ici"
+
+msgid "download Google Chrome"
+msgstr "télécharger Google Chrome"
+
+msgctxt ""
+msgid "or"
+msgstr "ou"
+
+msgid "download Mozilla Firefox"
+msgstr "télécharger Mozilla Firefox"
+
+msgid "Database rental"
+msgstr "Location de données"
+
+msgid "Price"
+msgstr "Tarif"
+
+msgid ""
+"I confirm that I wish to rent the list containing 3 contacts for 1 € (excl "
+"routing)."
+msgstr ""
+"Je confirme que je souhaite louer la liste contenant  contacts pour  € (hors "
+"frais de routage)."
+
+msgid "Parameter Impossible to rent with a demonstration account"
+msgstr ""
+"La location de contacts n'est pas accessible avec un compte de démonstration."
+
+msgid "The contract has not enough credit to create this campaign"
+msgstr "Le contrat n'a pas suffisamment de crédit pour créer cette campagne"
+
+msgid ""
+"Sequencing defined for sms includes sending messages after 8PM, campaign "
+"cannot be confirmed. <br /><br />Please check your sequencing options."
+msgstr ""
+"Le séquencement défini pour le canal SMS implique l'envoi de messages après "
+"20h00, la campagne ne peut donc être validée.<br /><br />Merci de modifier "
+"les paramètres du séquencement."
+
+msgid ""
+"Sequencing defined for email includes sending messages after 8PM, campaign "
+"cannot be confirmed. <br /><br />Please check your sequencing options."
+msgstr ""
+"Le séquencement défini pour le canal email implique l'envoi de messages "
+"après 20h00, la campagne ne peut donc être validée.<br /><br />Merci de "
+"modifier les paramètres du séquencement."
+
+msgid ""
+"Sequencing defined for voice includes sending messages after 8PM, campaign "
+"cannot be confirmed. <br /><br />Please check your sequencing options."
+msgstr ""
+"Le séquencement défini pour le canal vocal implique l'envoi de messages "
+"après 20h00, la campagne ne peut donc être validée.<br /><br />Merci de "
+"modifier les paramètres du séquencement."
+
+msgid ""
+"Sequencing defined for voicemail includes sending messages after 8PM, "
+"campaign cannot be confirmed. <br /><br />Please check your sequencing "
+"options."
+msgstr ""
+"Le séquencement défini pour le canal messages sur répondeur implique l'envoi "
+"de messages après 20h00, la campagne ne peut donc être validée.<br /><br />"
+"Merci de modifier les paramètres du séquencement."
+
+msgctxt ""
+msgid "saved"
+msgstr "enregistré"
+
+msgid "sequencing options"
+msgstr "options de séquencement"
+
+msgid "sequencing my messages"
+msgstr "séquencer mes messages"
+
+msgid ""
+"make sure that the selected values ​​are compatible with a shipment during "
+"normal business hours delivery (8:00 a.m. to 8:00 p.m.)."
+msgstr ""
+"assurez-vous que les valeurs choisies soient compatibles avec un envoi "
+"pendant les heures habituelles d'envoi (08:00 - 20:00)."
+
+msgid "frequency"
+msgstr "fréquence"
+
+msgid "send by batch of"
+msgstr "effectuer les envois par lots de"
+
+msgid "send batch every"
+msgstr "espacer chaque envoi de"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid ""
+"you can sequence the delivery of your messages by defining a volume and a "
+"sending rate."
+msgstr ""
+"vous pouvez séquencer l'envoi de vos messages en définissant un volume et un "
+"rythme d'envoi."
+
+msgid "settings"
+msgstr "configuration"
+
+msgid "sequencing options saved"
+msgstr "options de séquencement enregistrées"
+
+msgid "%s messages every %s minutes"
+msgstr "%s messages toutes les %s minutes"
+
+msgid "sequencing.reset"
+msgstr "réinitialiser"
+
+msgid "Cannot load campaign"
+msgstr "Impossible de charger cette campagne"
+
+msgid "added on"
+msgstr "ajouté le"
+
+msgid "missing delivery status"
+msgstr "réception non confirmée"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "How can we help you?"
+msgstr "Comment pouvons-nous vous aider ?"
+
+msgid "Search in Help center"
+msgstr "Recherchez sur notre centre d'aide"
+
+msgid "Search in FAQ"
+msgstr "Recherche dans notre FAQ"
+
+msgid "or view a category"
+msgstr "ou consultez une catégorie"
+
+msgid "Manuals"
+msgstr "Guides d'utilisation"
+
+msgid "Frequently Asked Questions"
+msgstr "Questions fréquentes"
+
+msgid "Our best practices"
+msgstr "Nos bonnes pratiques"
+
+msgid "Our video tutorials"
+msgstr "Nos tutoriels en vidéos"
+
+msgid "To go further"
+msgstr "Pour aller plus loin"
+
+msgid "Modeles"
+msgstr "Modèles"
+
+msgid "No defined model"
+msgstr "Aucun modèle défini"
+
+msgid "Manage your models"
+msgstr "Gérer vos modèles"
+
+msgid "Your notifications"
+msgstr "Vos notifications"
+
+msgid "Display notification messages already sent"
+msgstr "Consulter les messages de notification déjà envoyés"
+
+msgid "You must enter a message and a mobile number to send a notification"
+msgstr ""
+"Vous devez saisir un message et un numéro de téléphone mobile pour envoyer "
+"une notification"
+
+msgid "Colors management"
+msgstr "Gestion des couleurs"
+
+msgid "Digitaleo use this solutions under Open licence :"
+msgstr "Digitaleo utilise les solutions suivantes sous licence libre :"
+
+msgid "Show the licence"
+msgstr "Afficher la licence"
+
+msgctxt ""
+msgid "sign in"
+msgstr "s'identifier"
+
+msgctxt ""
+msgid "sign up"
+msgstr "s'inscrire"
+
+msgctxt ""
+msgid "business name"
+msgstr "raison sociale"
+
+msgctxt ""
+msgid "error, please check your fields"
+msgstr "erreur, merci de vérifier votre saisie"
+
+msgctxt ""
+msgid "An email with your credentials has been sent to your address"
+msgstr "Un email contenant vos identifiants vous a été envoyé"
+
+msgctxt ""
+msgid "The max number of check attempts has been reached"
+msgstr "Le nombre maximum d'essais a été atteint."
+
+msgctxt ""
+msgid "This mobile is already validated"
+msgstr "Ce mobile a déjà été validé"
+
+msgctxt ""
+msgid "an sms has been sent to you"
+msgstr "un sms vous a été envoyé"
+
+msgctxt ""
+msgid "you will be redirected to the billing page"
+msgstr "vous allez être redirigé sur la page de facturation"
+
+msgctxt ""
+msgid "after payment"
+msgstr "après le paiement"
+
+msgid "Proceed to Checkout"
+msgstr "Procéder au paiement"
+
+msgid "activation code"
+msgstr "code d'activation"
+
+msgctxt ""
+msgid "Change password"
+msgstr "Changement de mot de passe"
+
+msgctxt ""
+msgid "Thank you enter your new password"
+msgstr "Merci de saisir votre nouveau mot de passe"
+
+msgctxt ""
+msgid "Reset your password"
+msgstr "Réinitialiser votre mot de passe"
+
+msgctxt ""
+msgid "profesional email"
+msgstr "email professionnel"
+
+msgctxt ""
+msgid "Create an account"
+msgstr "Créer un compte"
+
+msgctxt ""
+msgid ""
+"An email has been sent to you. <br>Click on the link and choose a new "
+"password"
+msgstr ""
+"Un email vient de vous être envoyé. <br>Cliquez sur le lien et choisissez un "
+"nouveau mot de passe"
+
+msgctxt ""
+msgid "error validating your mobile"
+msgstr "erreur lors de la validation de votre mobile"
+
+msgctxt ""
+msgid "code is incorrect, please retry"
+msgstr "le code saisi est incorrect, veuillez réessayer"
+
+msgid "if you did not recieve a code ?"
+msgstr "vous n'avez pas reçu de code ?"
+
+msgctxt ""
+msgid "is your mobile %s ?"
+msgstr "votre mobile est bien le %s ?"
+
+msgctxt ""
+msgid "check your informations"
+msgstr "vérifiez vos informations"
+
+msgid "invalid email address"
+msgstr "adresse email invalide"
+
+msgid "email address invalid : %s"
+msgstr "adresse email invalide : %s"
+
+msgid "change"
+msgstr "modifier"
+
+msgid "send a new code"
+msgstr "envoyer un autre code"
+
+msgid "activation code has been sent"
+msgstr "le code d'activation a bien été envoyé"
+
+msgid "given mobile number"
+msgstr "numéro de mobile renseigné"
+
+msgid "unable to send a new activation code"
+msgstr "impossible d'envoyer un nouveau code"
+
+msgid "finish checkout"
+msgstr "valider et payer"
+
+msgid "unable to find campaign"
+msgstr "impossible de trouver la campagne"
+
+msgid "use my Google account"
+msgstr "utiliser mon compte Google"
+
+msgid "connect with Google"
+msgstr "se connecter avec Google"
+
+msgid "invoice"
+msgstr "facture"
+
+msgid "invoices"
+msgstr "factures"
+
+msgid "my invoices"
+msgstr "mes factures"
+
+msgid "invoice number"
+msgstr "numéro de facture"
+
+msgctxt ""
+msgid "show more"
+msgstr "afficher plus"
+
+msgid "loading"
+msgstr "chargement"
+
+msgid "Invoices"
+msgstr "Factures"
+
+msgid "no bills to display"
+msgstr "aucune facture à afficher"
+
+msgid "unable to save campaign's option"
+msgstr "impossible de sauvegarder l'option de la campagne"
+
+msgid "campaign option saved"
+msgstr "option de la campagne enregistrée"
+
+msgid "receive a campaign report by email at day+"
+msgstr "recevoir un rapport de campagne par email à J+"
+
+msgid "The amount of your order is valued at"
+msgstr "Le montant de votre commande s'élève à"
+
+msgid "resume before payment"
+msgstr "résumé avant le paiement"
+
+msgid "by clicking on the buy link you will be redirected to the payment page"
+msgstr ""
+"en cliquant sur le bouton d'achat, vous serez redirigé vers l'interface de "
+"paiement"
+
+msgid "view and download your invoices"
+msgstr "consultez et téléchargez vos factures"
+
+msgid "amount"
+msgstr "montant"
+
+msgid "amount incl tax"
+msgstr "montant TTC"
+
+msgid "amount excl tax"
+msgstr "montant HT"
+
+msgid "campaign report"
+msgstr "rapport de campagne"
+
+msgid "minimum billing amount is %s €"
+msgstr "le montant minimum de facturation est de %s €"
+
+msgid "verify your informations"
+msgstr "vérification de vos informations"
+
+msgid "please fill in your informations to validate your account"
+msgstr "renseignez vos coordonnées afin de valider votre inscription"
+
+msgid "we will sent a validation code to your mobile"
+msgstr "vous allez recevoir un code de vérification par SMS"
+
+msgctxt ""
+msgid "Show sharing buttons to social networks"
+msgstr "Afficher des boutons de partage vers les réseaux sociaux"
+
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+
+msgid "Share on Twitter"
+msgstr "Partager sur Twitter"
+
+msgid "notify for"
+msgstr "Notification pour"
+
+msgid "the"
+msgstr "le"
+
+msgid "MM/dd/yyyy HH:mm"
+msgstr "dd/MM/yyyy HH:mm"
+
+msgid "message"
+msgstr "message"
+
+msgid "response"
+msgstr "réponse"
+
+msgid "Activity"
+msgstr "Activité"
+
+msgid "No notification yet"
+msgstr "Pas de notification récente"
+
+msgid "SMS notifications"
+msgstr "Notifications SMS - Suivi"
+
+msgid "Empty message"
+msgstr "Message vide"
+
+msgid "'STOP AU 36103' is added at the end, because you use the TPOA"
+msgstr ""
+"'STOP AU 36103' sera ajouté à la fin du message (14 caractères "
+"supplémentaires)"
+
+msgid "Notification failure"
+msgstr "Echec de la notification"
+
+msgid "Response received"
+msgstr "Réponse reçue"
+
+msgid "Short number"
+msgstr "N° court"
+
+msgid "Customizing the sender blocks receiving responses."
+msgstr "La personnalisation de l'expéditeur bloque la réception des réponses."
+
+msgctxt ""
+msgid "sign in"
+msgstr "s'identifier"
+
+msgctxt ""
+msgid "sign up"
+msgstr "s'inscrire"
+
+msgctxt ""
+msgid "business name"
+msgstr "raison sociale"
+
+msgctxt ""
+msgid "error, please check your fields"
+msgstr "erreur, merci de vérifier votre saisie"
+
+msgctxt ""
+msgid "An email with your credentials has been sent to your address"
+msgstr "Un email contenant vos identifiants vous a été envoyé"
+
+msgctxt ""
+msgid "The max number of check attempts has been reached"
+msgstr "Le nombre maximum d'essais a été atteint."
+
+msgctxt ""
+msgid "This mobile is already validated"
+msgstr "Ce mobile a déjà été validé"
+
+msgctxt ""
+msgid "an sms has been sent to you"
+msgstr "un sms vous a été envoyé"
+
+msgctxt ""
+msgid "you will be redirected to the billing page"
+msgstr "vous allez être redirigé sur la page de facturation"
+
+msgctxt ""
+msgid "after payment"
+msgstr "après le paiement"
+
+msgid "buy"
+msgstr "acheter"
+
+msgid "please type the code we sent to you:"
+msgstr "veuillez saisir le code que nous vous avons envoyé par SMS :"
+
+msgctxt ""
+msgid "Change password"
+msgstr "Changement de mot de passe"
+
+msgctxt ""
+msgid "Thank you enter your new password"
+msgstr "Merci de saisir votre nouveau mot de passe"
+
+msgctxt ""
+msgid "Reset your password"
+msgstr "Réinitialiser votre mot de passe"
+
+msgctxt ""
+msgid "profesional email"
+msgstr "email professionnel"
+
+msgctxt ""
+msgid "Create an account"
+msgstr "Créer un compte"
+
+msgctxt ""
+msgid ""
+"An email has been sent to you. <br>Click on the link and choose a new "
+"password"
+msgstr ""
+"Un email vient de vous être envoyé. <br>Cliquez sur le lien et choisissez un "
+"nouveau mot de passe"
+
+msgctxt ""
+msgid "error validating your mobile"
+msgstr "erreur lors de la validation de votre mobile"
+
+msgctxt ""
+msgid "code is incorrect, please retry"
+msgstr "le code saisi est incorrect, veuillez réessayer"
+
+msgid "you didn't recieve any sms?"
+msgstr "vous n'avez reçu aucun SMS ?"
+
+msgctxt ""
+msgid "is your mobile %s ?"
+msgstr "votre mobile est bien le %s ?"
+
+msgctxt ""
+msgid "check your informations"
+msgstr "vérifiez vos informations"
+
+msgid "ended"
+msgstr "terminée"
+
+msgctxt ""
+msgid "interrupted"
+msgstr "interrompue"
+
+msgctxt ""
+msgid "cancelled"
+msgstr "annulée"
+
+msgid "listCount"
+msgstr "nombre de contacts"
+
+msgid "nbSteps"
+msgstr "nombre d'étape"
+
+msgctxt ""
+msgid "SMS Notification"
+msgstr "Notification SMS"
+
+msgid "SMS models"
+msgstr "modèles SMS"
+
+msgid "SMS model name"
+msgstr "nom du modèle SMS"
+
+msgid "Customized"
+msgstr "Personnalisé"
+
+msgid "from-date"
+msgstr "De"
+
+msgid "to-date"
+msgstr "À"
+
+msgid "Today"
+msgstr "Aujourd'hui"
+
+msgid "Yesterday"
+msgstr "Hier"
+
+msgid "7 last days"
+msgstr "7 derniers jours"
+
+msgid "30 last days"
+msgstr "30 derniers jours"
+
+msgid "This month"
+msgstr "Ce mois"
+
+msgid "The last month"
+msgstr "Le mois dernier"
+
+msgid "dt-days"
+msgstr "['Dim','Lun','Mar','Mer','Jeu','Ven','Sam']"
+
+msgid "dt-months"
+msgstr ""
+"['janvier','février','mars','avril','mai','juin','juillet','août','septembre'"
+",'octobre','novembre','décembre']"
+
+msgid "Create your contact list"
+msgstr "Composez votre liste de contacts"
+
+msgid "Add a model"
+msgstr "Ajouter un modèle"
+
+msgid "New message"
+msgstr "Nouveau message"
+
+msgid "Notifications sended"
+msgstr "Notifications envoyées"
+
+msgid "display all your campaigns"
+msgstr "consultez l'ensemble de vos campagnes"
+
+msgid "display all your drafts"
+msgstr "consultez l'ensemble de vos brouillons"
+
+msgid "display all your campaigns templates"
+msgstr "consultez l'ensemble de vos modèles de campagnes"
+
+msgid "add a new campaign"
+msgstr "créez une campagne"
+
+msgid "standard campaign"
+msgstr "campagne standard"
+
+msgid "automatic campaign"
+msgstr "campagne automatisée"
+
+msgid "network campaign"
+msgstr "campagne réseau"
+
+msgid "drafts"
+msgstr "brouillons"
+
+msgid "automatic"
+msgstr "automatisée"
+
+msgid "standard"
+msgstr "standard"
+
+msgid "scheduled"
+msgstr "programmée"
+
+msgctxt ""
+msgid "running"
+msgstr "en cours"
+
+msgid "archived"
+msgstr "archivée"
+
+msgid "export"
+msgstr "exporter"
+
+msgid "pending"
+msgstr "a régler"
+
+msgid "pay now"
+msgstr "payer maintenant"
+
+msgid "export results"
+msgstr "exporter les résultats"
+
+msgid "campaign list"
+msgstr "liste de mes campagnes"
+
+msgid "no campaign to print"
+msgstr "aucune campagne à afficher"
+
+msgid "first sending date"
+msgstr "date du premier envoi"
+
+msgid "filter by date"
+msgstr "trier par date"
+
+msgid "see the results"
+msgstr "voir les résultats"
+
+msgid "stop this campaign"
+msgstr "stopper la campagne"
+
+msgid "cancel this campaign"
+msgstr "annuler la campagne"
+
+msgid "more campaigns"
+msgstr "plus de campagnes"
+
+msgid "more templates"
+msgstr "plus de modèles"
+
+msgid "more results"
+msgstr "plus de résultats"
+
+msgid "no more results"
+msgstr "plus de résultats"
+
+msgctxt ""
+msgid "campaign type"
+msgstr "type de campagne"
+
+msgid "modification"
+msgstr "modification"
+
+msgid "apply filters"
+msgstr "appliquer les filtres"
+
+msgid "reset filters"
+msgstr "supprimer les filtres"
+
+msgid "rename"
+msgstr "renommer"
+
+msgid "last modification"
+msgstr "dernière modification"
+
+msgid "triggered"
+msgstr "automatisée"
+
+msgid "edit your campaign"
+msgstr "editez votre campagne"
+
+msgid "campaign title"
+msgstr "titre de la campagne"
+
+msgctxt ""
+msgid "choose a contact list"
+msgstr "choisissez une liste de contacts"
+
+msgid "campaign summary"
+msgstr "résumé de votre campagne"
+
+msgid "choose your campaign type"
+msgstr "choisissez votre type de campagne"
+
+msgid "my campaign"
+msgstr "ma campagne"
+
+msgid "results"
+msgstr "résultats"
+
+msgid "Choose your campaign settings"
+msgstr "Choisissez les paramètres de votre campagne"
+
+msgid "edit campaign"
+msgstr "Editer"
+
+msgid "edit modele"
+msgstr "Editer le modèle"
+
+msgctxt ""
+msgid "edit contact"
+msgstr "Editer le contact"
+
+msgid "Send SMS in an instant"
+msgstr "Envoyez un SMS en un instant"
+
+msgid "Manage your database"
+msgstr "Gérez votre base de données"
+
+msgid "See all your activity"
+msgstr "Consultez l'ensemble de votre activité"
+
+msgid "sb"
+msgstr "erreurs temporaires"
+
+msgid "hb"
+msgstr "erreurs permanentes"
+
+msgid "print a quick overview of the status of your campaign"
+msgstr "affichez un aperçu rapide de l'état de votre campagne"
+
+msgid "campaign results"
+msgstr "résultats de la campagne"
+
+msgid "calculation in progress"
+msgstr "calcul en cours"
+
+msgid "no campaign in this period"
+msgstr "aucune campagne sur cette période"
+
+msgid "monitoring consumption"
+msgstr "suivi consommation"
+
+msgid "this can take a few minutes"
+msgstr "cela peut prendre quelques minutes"
+
+msgid "see details of your monthly consumption"
+msgstr "accéder au détail de votre consommation mensuelle"
+
+msgid "check to import or not to import the column"
+msgstr "cocher pour importer ou ne pas importer la colonne"
+
+msgid "do not import"
+msgstr "ne pas importer"
+
+msgid "radius"
+msgstr "rayon"
+
+msgid "within a radius of"
+msgstr "dans un rayon de"
+
+msgid "To use this option you should select only one city"
+msgstr ""
+"Pour utiliser cette option vous ne devez sélectionner qu'une seule ville"
+
+msgid "integers only"
+msgstr "chiffres entiers seulement"
+
+msgctxt ""
+msgid "this contacts has several answers"
+msgstr "ce contact a plusieurs réponses"
+
+msgid "Another session is alive, you are not allowed to have multiple session"
+msgstr "Vous ne pouvez pas avoir plusieurs sessions ouvertes simultanément"
+
+msgid "Kill other session"
+msgstr "Fermer les autres sessions actives"
+
+msgid "subject"
+msgstr "Objet"
+
+msgid "reply contact"
+msgstr "adresse de réponse"
+
+msgid "sender"
+msgstr "expediteur"
+
+msgid "numero of sender"
+msgstr "numéro d'expéditeur"
+
+msgctxt ""
+msgid "this contacts has several answers"
+msgstr "ce contact a plusieurs réponses"
+
+msgctxt ""
+msgid "authorized response"
+msgstr "reponse autorisé"
+
+msgid "Content editing"
+msgstr "Edition du contenu"
+
+msgctxt ""
+msgid "commentary"
+msgstr "commentaire"
+
+msgctxt ""
+msgid "authorized response"
+msgstr "reponse autorisé"
+
+msgid "Parameter Contract is wrongly configured for media twitter"
+msgstr "Les paramètres du contrat sont mal configurés pour le média Twitter"
+
+msgid "Parameter Contract is wrongly configured for media facebook"
+msgstr "Les paramètres du contrat sont mal configurés pour le média Facebook"
+
+msgctxt ""
+msgid "commentary"
+msgstr "commentaire"
+
+msgctxt ""
+msgid "authorized response"
+msgstr "réponse autorisée"
+
+msgid "sender name"
+msgstr "nom d'expéditeur"
+
+msgid "mail response"
+msgstr "adresse mail de réponse"
+
+msgid "important:"
+msgstr "important :"
+
+msgid "consumption monitoring"
+msgstr "suivi des consommations"
+
+msgid "export affiliate consumptions"
+msgstr "exporter les consommations des affiliés"
+
+msgid "rental mobile"
+msgstr "location de mobile"
+
+msgid "rental email"
+msgstr "location d'email"
+
+msgid "consumptions"
+msgstr "consommations"
+
+msgid "accountingCode"
+msgstr "code comptable"
+
+msgid "media"
+msgstr "type de consommation"
+
+msgctxt ""
+msgid "authorized response"
+msgstr "reponse autorisé"
+
+msgid "Your payment has been accepted"
+msgstr "Votre paiement a été accepté"
+
+msgid "Your payment has been canceled"
+msgstr "Votre paiement a été annulé"
+
+msgid "Your payment has been refused"
+msgstr "Votre paiement a été refusé"
+
+msgid "To resume your payment"
+msgstr "Pour reprendre votre paiement"
+
+msgid "To try again"
+msgstr "Pour faire un nouvel essai"
+
+msgid "A confirmation email has been sent"
+msgstr "Un email de confirmation vient de vous être envoyé"
+
+msgid ""
+"This email is already in use.<br />If you forgot your password, please click "
+"on 'Forgotten password ?' on the login page"
+msgstr ""
+"Un compte utilise déjà cet email.<br />Si vous avez oublié votre mot de "
+"passe, cliquez sur 'Mot de passe oublié ?' sur la page de connexion"
+
+msgid "welcome to the platform Digitaleo"
+msgstr "bienvenue sur la plateforme Digitaleo"
+
+msgid "thank you login to enjoy our services"
+msgstr "merci de vous identifier pour profiter pleinement de nos services"
+
+msgctxt ""
+msgid "or"
+msgstr "ou"
+
+msgid "connect"
+msgstr "se connecter"
+
+msgid "you already have an account"
+msgstr "vous avez déjà un compte"
+
+msgid "access the platform Digitaleo"
+msgstr "accéder à la plateforme Digitaleo"
+
+msgid "to give a new dimension to your multi-channel marketing, subscribe"
+msgstr ""
+"pour donner une nouvelle dimension à votre marketing multicanal, inscrivez "
+"vous"
+
+msgid "free and without obligation"
+msgstr "gratuitement et sans engagement"
+
+msgid "without obligation"
+msgstr "sans engagement"
+
+msgid "digitaleo is a multi-channel marketing solution"
+msgstr "digitaleo est une solution de marketing multicanal dédiée"
+
+msgid "for professionals"
+msgstr "aux professionnels"
+
+msgid "based in France, this offer is not directed to the particular"
+msgstr "basée en france, cette offre ne s'adresse pas aux particuliers"
+
+msgid "when creating an account I acknowledge having read and fully accept the"
+msgstr "en créant un compte je reconnais avoir lu et accepte sans réserve les"
+
+msgctxt ""
+msgid "campaign type"
+msgstr "type de campagne"
+
+msgid "contact list"
+msgstr "liste de contacts"
+
+msgid ""
+"an invoice will be sent by email and will be available in your account "
+"Digitaleo"
+msgstr ""
+"une facture vous sera envoyée par email et sera également disponible sur "
+"votre compte Digitaleo"
+
+msgid "I accept the "
+msgstr "j'accepte les"
+
+msgid "general conditions of sale"
+msgstr " conditions générales de vente"
+
+msgctxt ""
+msgid "immediate"
+msgstr "immédiat"
+
+msgid "cost"
+msgstr "coût"
+
+msgid "discount"
+msgstr "remise"
+
+msgid "Validate your command detail before payement"
+msgstr "Validez le détail de votre commande avant paiement"
+
+msgid "editable"
+msgstr "Autoriser les affiliés à éditer cet élément"
+
+msgid "edit footer"
+msgstr "Editer le pied de page"
+
+msgid "notification-sms-model"
+msgstr "notification SMS"
+
+msgid "everybody"
+msgstr "tout le reseau"
+
+msgid "do not share"
+msgstr "ne pas partager"
+
+msgid ""
+"you can not use this model because you do not have the senders name defined "
+"by your network. Thank you to contact support for more information"
+msgstr ""
+"vous ne pouvez pas utiliser ce modèle car vous ne disposez pas du nom "
+"d'expéditeur défini par votre réseau. Merci de contacter le support pour "
+"plus d'informations"
+
+msgid "Download in progress"
+msgstr "Chargement en cours"
+
+msgid "Choose file"
+msgstr "Choisir un fichier"
+
+msgid "use in new campaign"
+msgstr "utiliser dans une nouvelle campagne"
+
+msgid "edit content"
+msgstr "Editer le contenu"
+
+msgid "you can not use this model because you do not have the senders name"
+msgstr ""
+"vous ne pouvez pas utiliser ce modèle car vous ne disposez pas du nom "
+"d'expéditeur"
+
+msgid ""
+"defined by your network. Thank you to contact support for more information"
+msgstr ""
+"défini par votre réseau. Merci de contacter le support pour plus "
+"d'informations"
+
+msgid "custom-fields"
+msgstr "champs variables"
+
+msgid "contact list name format"
+msgstr "au format"
+
+msgid "number of lines to ignore"
+msgstr "nombre de lignes à ignorer"
+
+msgid "contacts import format"
+msgstr "Format d'import de contacts"
+
+msgctxt ""
+msgid "none"
+msgstr "aucune"
+
+msgid "save this import config"
+msgstr "Enregistrer cette configuration d'import"
+
+msgid "automatic.cannot save import config"
+msgstr "La configuration de cet import n'a pu être sauvegardée"
+
+msgid "automatic.cannot delete import config"
+msgstr "La configuration n'a pu être supprimée"
+
+msgid "automatic.cannot get import config"
+msgstr "La configuration n'a pu être chargée"
+
+msgid "Import contacts"
+msgstr "Import de contacts"
+
+msgid "validity period"
+msgstr "Période de validité"
+
+msgid "start of sharing period"
+msgstr "Début du partage"
+
+msgid "end of sharing period"
+msgstr "Fin du partage"
+
+msgid "content updated successfully"
+msgstr "contenu mis à jour avec succès"
+
+msgid "INVALID_PARAMETERS"
+msgstr "Données incorrectes"
+
+msgid "OUT_OF_BOUND_MIN"
+msgstr "La valeur ne doit pas être inférieure à %1$s"
+
+msgid "OUT_OF_BOUND_MAX"
+msgstr "La valeur ne doit pas être supérieure à %1$s"
+
+msgid "not shared"
+msgstr "non partagé"
+
+msgid ""
+"Your account is not eligible for the login system with Google. Thank you to "
+"log in by entering your username and password."
+msgstr ""
+"Votre compte n'est pas encore éligible au système de connexion avec Google. "
+"Merci de vous connecter en saisissant votre identifiant et votre mot de "
+"passe."
+
+msgid "campaign templates list"
+msgstr "liste des modèles de campagne"
+
+msgid "campaigns templates"
+msgstr "modèles de campagnes"
+
+msgid "disable the model"
+msgstr "désactiver le modèle"
+
+msgid "File Import Options"
+msgstr "Options d'import de fichiers"
+
+msgid "modify name type custom fields"
+msgstr ""
+"Vous avez la possibilité de modifier le nom et le type de vos champs "
+"variables en contactant le support"
+
+msgid "email for SMS responses"
+msgstr "Email pour les réponses SMS"
+
+msgid "select a type"
+msgstr "Sélectionner un type"
+
+msgid "personnal.fields.type.texte"
+msgstr "texte"
+
+msgid "personnal.fields.type.date"
+msgstr "date"
+
+msgid "personnal.fields.type.time"
+msgstr "heure"
+
+msgid "title of the field"
+msgstr "intitulé du champ"
+
+msgid "custom fields"
+msgstr "champs personnalisés"
+
+msgid "type of the field"
+msgstr "type du champ"
+
+msgid ""
+"Parameter There is no contact available for renting for SMS media with the "
+"chosen criteria"
+msgstr ""
+"Il n'y a aucun contact de disponible pour le média SMS avec les crtières "
+"sélectionnés"
+
+msgid "Add variable fields to your notifications"
+msgstr "Ajoutez des champs variables à vos notifications"
+
+msgid "Add page"
+msgstr "Ajouter une page"
+
+msgid "Color management"
+msgstr "Gestion des couleurs"
+
+msgctxt ""
+msgid "choose a contact list"
+msgstr "choisir une liste de contacts"
+
+msgid "sync google account"
+msgstr "synchronisation du compte google"
+
+msgid "thank you login to sync your Google account"
+msgstr "merci de vous identifier pour synchroniser votre compte Google"
+
+msgid ""
+"to link your Google account to your account Digitaleo, thank you to enter "
+"your password"
+msgstr ""
+"pour associer votre compte Google à votre compte Digitaleo, merci de saisir "
+"vos identifiants"
+
+msgid "we will not ask you more your login next time."
+msgstr "nous ne vous redemanderons plus vos identifiants la prochaine fois."
+
+msgid "logout the user already connected"
+msgstr "déconnecter l'utilisateur déjà connecté"
+
+msgid "and gives you %d free emails to use during the next %d months"
+msgstr "et vous donne droit à %d emails gratuits à utiliser dans les %d mois"
+
+msgid "search by name, list or comment"
+msgstr "recherche par nom, liste ou mémo"
+
+msgid "search by name or comment"
+msgstr "recherche par nom ou mémo"
+
+msgid "search by name, description or tags"
+msgstr "recherche par nom, desciription ou étiquette"
+
+msgid "cannot confirm campaign on sunday"
+msgstr ""
+"L'envoi de messages commerciaux le dimanche est interdit par la "
+"réglementation, merci de modifier la date de votre envoi"
+
+msgid "create your marketing campaign"
+msgstr "créez votre campagne marketing"
+
+msgid "see our rates"
+msgstr "consulter nos tarifs"
+
+msgid "discover the platform"
+msgstr "découvrez la plateforme"
+
+msgid "free"
+msgstr "gratuitement"
+
+msgid "optout reason"
+msgstr "raison de désabonnement"
+
+msgid "click here"
+msgstr "cliquez ici"
+
+msgid "created"
+msgstr "en cours"
+
+msgid "ignored:\"ignorée\""
 msgstr ""
 
+msgid "list of my drafts"
+msgstr "liste de mes brouillons"
 
+msgid "Premium function"
+msgstr "Fonction Premium"
+
+msgid "This feature is for Premium users"
+msgstr "Cette fonction est réservée aux utilisateurs Premium"
+
+msgid "To benefit, simply contact our sales department"
+msgstr ""
+"Pour en profiter, il vous suffit de prendre contact avec notre service "
+"commercial"
+
+msgctxt ""
+msgid "on"
+msgstr "au"
+
+msgid "or by mail"
+msgstr "ou par email"
+
+msgctxt ""
+msgid "Save as model"
+msgstr "Sauvegarder comme modèle"
+
+msgid "answer"
+msgstr "répondre"
+
+msgid "resend"
+msgstr "renvoyer"
+
+msgid "Special characters"
+msgstr "Les caractères spéciaux"
+
+msgid "List of special characters and their characteristics"
+msgstr "Liste des caractères spéciaux et leurs spécificités"
+
+msgid "The following characters use two spaces"
+msgstr "Les caractères suivants comptent deux positions"
+
+msgid "Please leave sufficient space at the end of your text"
+msgstr "Il faut alors prévoir de la marge à la fin de votre texte"
+
+msgid "Confirm sending?"
+msgstr "Confirmer l'envoi ?"
+
+msgid "You have not completed all the customizable fields"
+msgstr "Vous n'avez pas complété tous les champs personnalisables"
+
+msgid "You confirm still sending the message?"
+msgstr "Validez-vous quand même l'envoi du message ?"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "New SMS model"
+msgstr "Nouveau modèle SMS"
+
+msgid "Enter the model information"
+msgstr "Saisissez les informations du modèle"
+
+msgid "Mandatory field"
+msgstr "Champs obligatoire"
+
+msgid "Send anyway"
+msgstr "Envoyer quand même"
+
+msgid "choose a template"
+msgstr "choisir un template"
+
+msgid "Credits"
+msgstr "Crédits"
+
+msgid "enter the name of the sender"
+msgstr "saisissez le nom de l'expéditeur"
+
+msgid "enter the reply email address"
+msgstr "saisissez le mail de réponse"
+
+msgid "enter your subject here"
+msgstr "entrez votre objet ici"
+
+msgid "new message"
+msgstr "nouveau message"
+
+msgid "edit message"
+msgstr "editer le message"
+
+msgid "duplicate message"
+msgstr "dupliquer le message"
+
+msgid "disable message"
+msgstr "désactiver le message"
+
+msgid "delete message"
+msgstr "supprimer le message"
+
+msgid "my network"
+msgstr "mon réseau"
+
+msgid "Open/Close lateral menu"
+msgstr "Ouvrir/Fermer le menu"
+
+msgctxt ""
+msgid "import plv template"
+msgstr "Import de modèle PLV"
+
+msgid "share"
+msgstr "partage"
+
+msgid "Campaign (Beta)"
+msgstr "Campagnes (Beta)"
+
+msgid "Plv templates"
+msgstr "Template plv"
+
+msgid "templates lists"
+msgstr "listes des modèles"
+
+msgctxt ""
+msgid "import plv template"
+msgstr "import de modèles plv"
+
+msgid "Manage steps"
+msgstr "Gérer les étapes"
+
+msgid "Add step"
+msgstr "Ajouter une étape"
+
+msgid "Add channel"
+msgstr "Ajouter un canal"
+
+msgid "Continue"
+msgstr "Confirmer"
+
+msgid "Budget"
+msgstr "Coût"
+
+msgid "Comments"
+msgstr "Mémo"
+
+msgid "Custom sender"
+msgstr "Personnaliser l'expéditeur"
+
+msgid "Save as template"
+msgstr "Sauvegarder comme modèle"
+
+msgid "Sequence messages"
+msgstr "Séquencer mes messages"
+
+msgid "Manage colors"
+msgstr "Gérer les couleurs"
+
+msgid "Choose audio file"
+msgstr "Choisir le fichier audio"
+
+msgid "Record voicemail"
+msgstr "Enregistrer un message vocal"
+
+msgctxt ""
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Background color;Couleur du fond\""
+msgstr ""
+
+msgid "Font color;Couleur de la police\""
+msgstr ""
+
+msgid "Close;Fermer\""
+msgstr ""
+
+msgid "Sequencing options;Option de séquencement\""
+msgstr ""
+
+msgid "Reset;Réinitialiser\""
+msgstr ""
+
+msgid "Get short url;Obtenir le lien court\""
+msgstr ""
+
+msgid "Validate;Valider\""
+msgstr ""
+
+msgctxt ""
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Dont share"
+msgstr "Ne pas partager"
+
+msgid "All the network"
+msgstr "Tout le reseau"
+
+msgid "Site preview"
+msgstr "Prévisualisation du site"
+
+msgid "choose image"
+msgstr "choisir une image"
+
+msgid "quantity"
+msgstr "quantité"
+
+msgid "title"
+msgstr "titre"
+
+msgid "create page"
+msgstr "créer une page"
+
+msgid "days"
+msgstr "jours"
+
+msgid "day"
+msgstr "jour"
+
+msgid "Receive an email campaign report in"
+msgstr "Recevoir un rapport de campagne par email dans"
+
+msgid "Pages options"
+msgstr "Options des pages"
+
+msgid "Links options"
+msgstr "Options des liens"
+
+msgid "Get short url"
+msgstr "Récupérer le lien court"
+
+msgid "Short code perso"
+msgstr "Personnalisation du lien court (facultatif)"
+
+msgid "select your delivery addresses"
+msgstr "selectionnez vos adresses de livraisons"
+
+msgid "refresh"
+msgstr "actualiser"
+
+msgid "choose audio file"
+msgstr "choisir un fichier audio"
+
+msgid "Click on the step to switch on"
+msgstr "Cliquer sur l'étape pour la selectionner"
+
+msgid "units"
+msgstr "quantité"
+
+msgid "unit cost"
+msgstr "prix unitaire"
+
+msgid "is added at the end, because you use the TPOA"
+msgstr "est ajouté à la fin, parce que vous utilisez le TPOA"
+
+msgid "Number of characters used"
+msgstr "Nombre de caractères utilisés"
+
+msgid "illegal character"
+msgstr "caractère non autorisé"
+
+msgid "Contact custom fields"
+msgstr "Les champs personnalisés de contact"
+
+msgid "represent up"
+msgstr "représentent jusqu'à"
+
+msgid "Sequencing of messages"
+msgstr "Séquencement des messages"
+
+msgid "Share template"
+msgstr "Partager le modèle"
+
+msgid "download PDF"
+msgstr "télécharger le PDF"
+
+msgid "configure your order"
+msgstr "configurer votre commande"
+
+msgid "Campaign model validation"
+msgstr "Validation du modèle de campagne"
+
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+msgid "Search"
+msgstr "Recherche"
+
+msgid "My components"
+msgstr "Mes composants"
+
+msgid "Email preview"
+msgstr "Aperçu de l'email"
+
+msgid "Test message"
+msgstr "Tester le message"
+
+msgid "Fill in your details to test your messages"
+msgstr "Renseigner vos coordonnées pour tester votre message"
+
+msgid "Memo"
+msgstr "Mémo"
+
+msgid "Select your template or import your content"
+msgstr "Sélectionnez votre modèle ou importez votre contenu"
+
+msgid "New email"
+msgstr "Nouvel email"
+
+msgid "Search a template"
+msgstr "Rechercher un modèle"
+
+msgid "change template"
+msgstr "changer de modèle"
+
+msgid "diffusion parameters"
+msgstr "Paramètres de diffusion"
+
+msgid "delivery warning"
+msgstr ""
+"Un délai indicatif de 72 heures est nécessaire entre la confirmation de la "
+"campagne et l'expédition des supports de communication"
+
+msgid "Select poi list"
+msgstr "Sélectionnez la liste de points de vente"
+
+msgid "available until"
+msgstr "valable jusqu'au"
+
+msgid "select a campaign template"
+msgstr "choisir un modèle de campagne"
+
+msgid "new locations list"
+msgstr "nouvelle liste de points de vente"
+
+msgid "create a new locations list"
+msgstr "créez une nouvelle liste de points de vente"
+
+msgctxt ""
+msgid "show more"
+msgstr "montrer plus"
+
+msgid "create new location"
+msgstr "créer un point de vente"
+
+msgid "add to locations list"
+msgstr "ajouté à la liste"
+
+msgid "Locations"
+msgstr "Points de vente"
+
+msgctxt ""
+msgid "locations"
+msgstr "points de vente"
+
+msgid "add location"
+msgstr "ajouter un point de vente"
+
+msgid "manage your locations lists"
+msgstr "gérer vos listes de points de vente"
+
+msgid "locations lists"
+msgstr "listes de points de vente"
+
+msgctxt ""
+msgid "locations"
+msgstr "points de vente"
+
+msgctxt ""
+msgid "upload a new list"
+msgstr "importer une nouvelle liste"
+
+msgctxt ""
+msgid "show details"
+msgstr "voir les détails"
+
+msgctxt ""
+msgid "hide details"
+msgstr "cacher les détails"
+
+msgctxt ""
+msgid "upload a new list"
+msgstr "importer une nouvelle liste"
+
+msgid "locations count"
+msgstr "nombre de points de vente"
+
+msgid "locations list name"
+msgstr "nom de la liste"
+
+msgid "location city"
+msgstr "ville"
+
+msgid "location address"
+msgstr "adresse"
+
+msgid "location zip code"
+msgstr "code postal"
+
+msgid "location reference"
+msgstr "référénce"
+
+msgid "edit location"
+msgstr "editer le point de vente"
+
+msgid "new location"
+msgstr "nouveau point de vente"
+
+msgid "preparing stats"
+msgstr "statistiques en préparation"
+
+msgid "import locations list"
+msgstr "importer une liste de points de vente"
+
+msgid "localisation not set"
+msgstr "en cours de localisation"
+
+msgid "localisation failed"
+msgstr "adresse non trouvée"
+
+msgid "localisation ok"
+msgstr "localisé"
+
+msgid ""
+"By default, your SmartPage is valid for 30 days from the validation of your "
+"campaign. You can extend this period up to 6 months"
+msgstr ""
+"Par défaut, votre Smartpage est valide pendant 30 jours à compter de la "
+"validation de votre campagne. Vous pouvez prolonger cette période jusqu'à 6 "
+"mois"
+
+msgid "Video component"
+msgstr "Module vidéo"
+
+msgid "Map component"
+msgstr "Module carte"
+
+msgid "Form component"
+msgstr "Module formulaire"
+
+msgid "At form validation, display the page"
+msgstr "A la validation du formulaire, afficher la page"
+
+msgid "Wording of the validation button"
+msgstr "Libellé du bouton de validation"
+
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+msgid "Social component"
+msgstr "Module social"
+
+msgctxt ""
+msgid "Show sharing buttons to social networks"
+msgstr "Afficher des boutons de partage vers les réseaux sociaux"
+
+msgid "Automation parameters"
+msgstr "Paramètres d'automatisation"
+
+msgid "statistics for Plv"
+msgstr "Statistiques du support de communication"
+
+msgid "select template"
+msgstr "choix du modèle"
+
+msgid "select file"
+msgstr "choix du fichier"
+
+msgid "No name custom sender has been defined"
+msgstr "Aucun nom d'expéditeur personnalisé n'a été défini"
+
+msgid "Select the list of store locator"
+msgstr "Sélectionnez la liste de points de vente"
+
+msgid "are you sure you want to remove the message"
+msgstr "etes-vous sûr de confirmer la suppression du message"
+
+msgid "are you sure you want to remove the step"
+msgstr "etes-vous sûr de confirmer la suppression de l'étape"
+
+msgid "programmed"
+msgstr "programmé le"
+
+msgctxt ""
+msgid "hide details"
+msgstr "masquer les détails"
+
+msgctxt ""
+msgid "show details"
+msgstr "afficher les détails"
+
+msgid "combined"
+msgstr "combiné"
+
+msgid "priorised"
+msgstr "priorisé"
+
+msgid "Online Marketing Platform"
+msgstr "Plateforme marketing en ligne"
+
+msgid "Simply Manage</span><br>your Marketing campaigns"
+msgstr "Gérez facilement vos</span><br>campagnes SMS et Emails"
+
+msgid "An online platform<br>to communicate and build customer loyalty"
+msgstr "Une plateforme en ligne<br>pour communiquer et fidéliser vos clients"
+
+msgid "Send your SMS"
+msgstr "Envoyez vos SMS"
+
+msgid "Manage your Email"
+msgstr "Gérez vos emailings"
+
+msgid ""
+"Digitaleo helps your company to better communicate/ retain relationship with "
+"your customers through real time or automated SMS campaigns. Build or "
+"Download your contact-list, Edit your marketing templates and target the "
+"sender or the recipient."
+msgstr ""
+"La plateforme Digitaleo vous permet d'envoyer des SMS en masse ou en "
+"individuel à vos clients pour communiquer et les fidéliser. Créez ou "
+"téléchargez vos listes de contacts puis rédigez votre message avant de "
+"l'envoyer. Vous avez la possibilité d'enregistrer vos modèles et "
+"personnaliser l'expéditeur ou le destinataire."
+
+msgid ""
+"Simply Create and send your marketing emails throught the Digitaleo Saas "
+"platform. Choose your model through existing or personnalized templates then "
+"target your audience. An automated report is then created to analyse the "
+"campaign results."
+msgstr ""
+"Créez et envoyez vos emails très simplement depuis la plateforme Digitaleo. "
+"Choisissez un modèle existant et personnalisez-le avant de l'envoyer à votre "
+"liste de contacts. Il ne vous reste plus qu'à analyser votre campagne grâce "
+"à un rapport détaillé envoyé automatiquement (nombre d’ouvertures, nombre de "
+"clics etc.)."
+
+msgid "Fast and without commitment,<br>choose your optimized option"
+msgstr "Rapide et sans engagement,<br>choisissez l'offre qui vous convient"
+
+msgid "With subscription"
+msgstr "Avec abonnement"
+
+msgid "Without subscription"
+msgstr "Sans abonnement"
+
+msgid "Offer : 2 emails free for 1 SMS"
+msgstr "1 SMS acheté = 2 emails offerts"
+
+msgid "Many channels : SMS, email, voice,<br>SmartPage, touch pads..."
+msgstr ""
+"De nombreux canaux : SMS, email, vocal,<br>smartpage, tablettes tactiles..."
+
+msgid "month"
+msgstr "mois"
+
+msgid ""
+"+2700 customers <span class='small'>already</span> trusted <span "
+"class='small'>our platform</span>"
+msgstr ""
+"<span class='small'>Plus de</span> 2700 clients <span class='small'>nous "
+"font&nbsp;</span><span class='small'>déjà</span> confiance"
+
+msgid ""
+"Thank you for chosing our <b>communication platform</b>.<br>Please find "
+"below the main things to learn about our tool."
+msgstr ""
+"Vous venez de créer votre compte sur la <b>plateforme de marketing "
+"Digitaleo</b> <br>et nous vous en remercions.<br><br>Nous vous présentons "
+"ici les points principaux à connaître <br>pour utiliser au mieux notre "
+"plateforme."
+
+msgctxt ""
+msgid "from"
+msgstr "à partir de"
+
+msgctxt ""
+msgid "more"
+msgstr "en savoir plus"
+
+msgid ""
+"To be valid, your password should be at least 8 characters.<br>It should "
+"ideally consist of letters, numbers and characters special .<br>If your "
+"first attempt is not successful, try to place the characters in a different "
+"order."
+msgstr ""
+"Pour être valide, votre mot de passe doit comporter au minimum 8 "
+"caractères.<br>Il doit se composer idéalement de lettres, de chiffres et de "
+"caractères spéciaux.<br>\n"
+"Si votre premier essai n'est pas concluant, essayer de placer les caractères "
+"dans un ordre différent."
+
+msgid "Remember to press the # key on your phone to accept your recording."
+msgstr ""
+"Pensez à appuyer sur la touche # de votre téléphone pour valider votre "
+"enregistrement."
+
+msgid "We're human after all :)"
+msgstr "Nous sommes humain après tout :)"
+
+msgid "before"
+msgstr "avant"
+
+msgctxt ""
+msgid "after"
+msgstr "après"
+
+msgid "automatic.days"
+msgstr "jours"
+
+msgid "the date on the field"
+msgstr "la date du champ"
+
+msgid "bills"
+msgstr "facturations"
+
+msgctxt ""
+msgid "need some help ?"
+msgstr "besoin d'aide ?"
+
+msgid "modules %s of your email"
+msgstr "modules %s de votre email"
+
+msgid "modules %s of your smartpage"
+msgstr "modules %s de votre smartpage"
+
+msgid "generic %s modules"
+msgstr "modules %s génériques"
+
+msgctxt ""
+msgid "need some help ?"
+msgstr "besoin d'aide ?"
+
+msgid "automatic.day"
+msgstr "jour"
+
+msgid "automatic.sunday messages must be sent on monday"
+msgstr "les envois du dimanche doivent être décalés au lundi"
+
+msgid ""
+"You must refresh the preview of your plv message, fields data are not "
+"synched with the image"
+msgstr ""
+"Vous devez rafraichir l'aperçu de votre support de communication, les "
+"données du formulaire ne sont pas synchronisées avec celle de l'image"
+
+msgid ""
+"following informations are very important, they will not be available after "
+"closing this window."
+msgstr ""
+"les informations suivantes sont très importantes, elles ne seront pas "
+"disponibles après avoir fermé cette fenêtre."
+
+msgid "please note your client secret and client Id very carefully"
+msgstr "veuillez noter précieusement votre client secret et votre client Id"
+
+msgid "manage my applications"
+msgstr "gérer mes applications"
+
+msgid "add an application"
+msgstr "ajouter une application"
+
+msgid "are you sure you want to remove this application ?"
+msgstr "etes vous sûr de vouloir supprimer cette application ?"
+
+msgid "you can find documentation about applications usage here"
+msgstr "vous pouvez trouver de la documentation à propos des applications ici"
+
+msgid "applications list"
+msgstr "liste des applications"
+
+msgid "you can manage up to %s applications at a time"
+msgstr "vous pouvez gérer jusqu'à %s applications à la fois"
+
+msgid "you can't add more applications"
+msgstr "vous ne pouvez plus ajouter d'applications"
+
+msgid "date updated"
+msgstr "date de mise à jour"
+
+msgid "application description"
+msgstr "description de l'application"
+
+msgid "application label"
+msgstr "libellé de l'application"
+
+msgid "update preview"
+msgstr "mettre à jour l'aperçu"
+
+msgid "update preview in progress"
+msgstr "mise à jour de l'aperçu en cours"
+
+msgid "region1 unrecognized"
+msgstr "région non reconnue"
+
+msgid "region2 unrecognized"
+msgstr "département non reconnu"
+
+msgid "campaign to send at once"
+msgstr " \"La campagne est à envoyer une seule fois\""
+
+msgid "Required!"
+msgstr "Champ obligatoire!"
+
+msgid "Not valid number!"
+msgstr "Nombre invalide!"
+
+msgid "send type"
+msgstr "Type d'envoi"
+
+msgid "automatic.must be a number between 0 and 99"
+msgstr " Le nombre de jours doit être compris entre 0 et 99"
+
+msgid "Failed to sent message"
+msgstr "Echec de l'envoi du message"
+
+msgid "messages has been sent"
+msgstr "messages ont été envoyés"
+
+msgid "message has been sent"
+msgstr "message a été envoyé"
+
+msgid "plv does not contains any command line"
+msgstr "le support de communication doit contenir des adresses de livraison"
+
+msgid "your %s is not compatible with the addition of editable modules"
+msgstr "votre %s n'est pas compatible avec l'ajout de modules éditables"
+
+msgid ""
+"You have been disconnected from the platform,%s thank you to identify you "
+"again"
+msgstr ""
+"Vous avez été déconnecté de la plateforme,%s merci de vous identifier à "
+"nouveau"
+
+msgid "My account"
+msgstr "Mon compte"
+
+msgid "None selected list"
+msgstr "Aucune liste sélectionnée"
+
+msgid "PDF generation in progress.%s Please refresh the page"
+msgstr "Génération du PDF en cours.%s Merci de recharger la page"
+
+msgid ""
+"when using region AND department filters, results will return all "
+"enterprises established in the selected region OR from the selected "
+"department."
+msgstr ""
+"lorsque les filtres régions ET départements sont utilisés simultanément, les "
+"résultats seront composés d'entreprises situées dans l'une ou l'autre de ces "
+"zones."
+
+msgid "Invalid subject"
+msgstr "Sujet invalide"
+
+msgid "Invalid reply to"
+msgstr "Le champ Répondre à est invalide"
+
+msgid "Invalid sms text"
+msgstr "Le texte du sms est invalide"
+
+msgid "targeting.COMPUTERS_AND_ELECTRONICS"
+msgstr "informatique et électronique"
+
+msgid "targeting.TRANSPORT_AND_LOGISTICS"
+msgstr "transports et logistique"
+
+msgid "targeting.BANKING_AND_INSURANCE"
+msgstr "banque et assurance"
+
+msgid "targeting.PROPERTY"
+msgstr "immobilier"
+
+msgid "targeting.TELECOM"
+msgstr "télécommunications"
+
+msgid "targeting.SOCIAL_AND_MEDICAL_ACTION"
+msgstr "santé et action sociale"
+
+msgid "targeting.EDUCATION"
+msgstr "enseignement"
+
+msgid "targeting.WHOLESALE"
+msgstr "commerce de gros"
+
+msgid "targeting.BUSINESS_SERVICES"
+msgstr "services aux entreprises"
+
+msgid "targeting.PUBLIC_SECTOR"
+msgstr "secteur public"
+
+msgid "targeting.FOOD_PROCESSING"
+msgstr "agroalimentaire"
+
+msgid "targeting.INDUSTRY"
+msgstr "industries"
+
+msgid "targeting.MEDIA_PUBLISHING_AND_COMMUNICATION"
+msgstr "média, édition et communication"
+
+msgid "targeting.AUTOMOBILE"
+msgstr "automobile"
+
+msgid "targeting.TOURISM_AND_RECREATION"
+msgstr "tourisme et loisirs"
+
+msgid "targeting.ASSOCIATIONS_AND_UNIONS"
+msgstr "associations et syndicats"
+
+msgid "targeting.SERVICES_TO_INDIVIDUALS"
+msgstr "services aux particuliers"
+
+msgid "targeting.BUILDING_AND_CONSTRUCTION_MATERIALS"
+msgstr "batiment et matériaux de construction"
+
+msgid "targeting.ENERGY"
+msgstr "energie"
+
+msgid "targeting.RETAIL_TRADE"
+msgstr "commerce de détail"
+
+msgid "targeting.SERVICE_ADMINISTRATIVE"
+msgstr "administratif et financier"
+
+msgid "targeting.SERVICE_TRADE"
+msgstr "commercial"
+
+msgid "targeting.SERVICE_PURCHASING"
+msgstr "achats"
+
+msgid "targeting.SERVICE_HEAD_OFFICE"
+msgstr "direction générale"
+
+msgid "targeting.SERVICE_MARKETING"
+msgstr "marketing"
+
+msgid "targeting.SERVICE_LOGISTICS"
+msgstr "logistique"
+
+msgid "targeting.SERVICE_IT"
+msgstr "informatique"
+
+msgid "targeting.SERVICE_RH"
+msgstr "ressources humaines"
+
+msgid "Your Smartpage Link"
+msgstr "Adresse de votre Smartpage"
+
+msgid "The final address of your Smartpage is as follows"
+msgstr "L'adresse définitive de votre Smartpage est la suivante"
+
+msgid ""
+"You can customize the address of your SmartPage to fit most recognizable"
+msgstr ""
+"Vous pouvez personnaliser l'adresse de votre Smartpage pour la rendre plus "
+"reconnaissable"
+
+msgid "Check availability"
+msgstr "Vérifier la disponibilité"
+
+msgid "Test adress"
+msgstr "Adresse de test"
+
+msgid ""
+"If you just want to test your Smartpage, you can use the following link for "
+"15 minutes"
+msgstr ""
+"Si vous voulez juste tester votre Smartpage, vous pouvez utiliser le lien "
+"suivant pendant 15 minutes"
+
+msgid "Parameter code is not available"
+msgstr "Code indisponible"
