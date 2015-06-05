@@ -1,0 +1,4867 @@
+#. extracted from en.csv
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-05 11:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+
+msgid " or edit the site directly in the editor "
+msgstr " or edit the site directly in the editor "
+
+msgid "100% smartphone"
+msgstr "100% smartphone"
+
+msgid "140 characters maximum"
+msgstr "140 characters maximum"
+
+msgid "160 characters for the first SMS, 153 for the next ones"
+msgstr "160 characters for the first text message, 153 for the next ones"
+
+msgid "A user has post a reply on the site '%s' the %s"
+msgstr "A user has post a reply on the site '%s' the %s"
+
+msgid "A user of your site submitted the following information"
+msgstr "A user of your site submitted the following information"
+
+msgid "Action not recognized..."
+msgstr "Action not recognized..."
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add an new component"
+msgstr "Add an new component"
+
+msgid "All contacts optin"
+msgstr "All contacts optin"
+
+msgid "All contacts optout"
+msgstr "All contacts optout"
+
+msgid "Already done"
+msgstr "Already done"
+
+msgid "An error has occurred"
+msgstr "An error has occurred"
+
+msgid ""
+"An error occurred on the server when deleting contacts. Thank you notify us "
+"of this error"
+msgstr ""
+"An error occurred on the server when deleting contacts. Thank you notify us "
+"of this error"
+
+msgid "An error was occured"
+msgstr "An error was occured"
+
+msgid "And"
+msgstr "And"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Are you sure to want to create a new list with the selected contact ?"
+msgstr "Are you sure to want to create a new list with the selected contact ?"
+
+msgid "Are you sure to want to delete this?"
+msgstr "Are you sure to want to delete this?"
+
+msgid "Are you sure to want to export the current contact list ?"
+msgstr "Are you sure to want to export the current contact list ?"
+
+msgid "Are you sure to want to export the selected contact ?"
+msgstr "Are you sure to want to export the selected contact ?"
+
+msgid "Are you sure to want to export your search results ?"
+msgstr "Are you sure to want to export your search results ?"
+
+msgid "Are you sure you want to delete this content ?"
+msgstr "Are you sure you want to delete this content ?"
+
+msgid "Attributes"
+msgstr "Attributes"
+
+msgid "Available custom fields..."
+msgstr "Available custom fields..."
+
+msgid "Bar code"
+msgstr "Bar code"
+
+msgid "Broadcast"
+msgstr "Broadcast"
+
+msgid "Button label"
+msgstr "Button label"
+
+msgid "CONTACT-FIELDS"
+msgstr "CONTACT-FIELDS"
+
+msgid "CSS content"
+msgstr "CSS content"
+
+msgid "CSV separator"
+msgstr "CSV separator"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Cannot delete a message without a valide identifier"
+msgstr "Cannot delete a message without a valide identifier"
+
+msgid "Cannot delete network with invalid identifier."
+msgstr "Cannot delete network with invalid identifier."
+
+msgid "Cannot edit step with invalid campaign"
+msgstr "Cannot edit step with invalid campaign"
+
+msgid "Cannot edit step with invalid identifier"
+msgstr "Cannot edit step with invalid identifier"
+
+msgid "Cannot found this message"
+msgstr "Cannot found this message"
+
+msgid "Cannot load this tab"
+msgstr "Cannot load this tab"
+
+msgid "Channel"
+msgstr "Channel"
+
+msgid "Characters number"
+msgstr "Characters number"
+
+msgid "City"
+msgstr "City"
+
+msgid "Clear selection"
+msgstr "Clear selection"
+
+msgid "Clic on the left part to display zone parameter"
+msgstr "Clic on the left part to display zone parameter"
+
+msgid "Click on the left pane to display parameters"
+msgstr "Click on the left pane to display parameters"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Code/Url"
+msgstr "Code/Url"
+
+msgid "Confirm"
+msgstr "Confirm"
+
+msgid "Confirm deletion of all contacts search"
+msgstr "Confirm deletion of all contacts search"
+
+msgid "Confirm deletion of selected contacts"
+msgstr "Confirm deletion of selected contacts"
+
+msgid "Confirm deletion of the selected contact"
+msgstr "Confirm deletion of the selected contact"
+
+msgid "Confirm removal of contacts from list"
+msgstr "Confirm removal of contacts from list"
+
+msgid "Confirm removal the contact from list"
+msgstr "Confirm removal the contact from list"
+
+msgid "Confirm remove contacts without list"
+msgstr "Confirm remove contacts without list"
+
+msgid "Confirm the deletion of all the contacts in the database"
+msgstr "Confirm the deletion of all the contacts in the database"
+
+msgid "Confirm the optin of selected contact"
+msgstr "Confirm the optin of selected contact"
+
+msgid "Confirm the optin of all the contacts in the list"
+msgstr "Confirm the optin of all the contacts in the list"
+
+msgid "Confirm the optin of all the contacts search"
+msgstr "Confirm the optin of all the contacts search"
+
+msgid "Confirm the optin of the selected contact"
+msgstr "Confirm the optin of the selected contact"
+
+msgid "Confirm the optout of selected contact"
+msgstr "Confirm the optout of selected contact"
+
+msgid "Confirm the optout of all the contacts in the list"
+msgstr "Confirm the optout of all the contacts in the list"
+
+msgid "Confirm the optout of all the contacts search"
+msgstr "Confirm the optout of all the contacts search"
+
+msgid "Confirm the optout of the selected contact"
+msgstr "Confirm the optout of the selected contact"
+
+msgid "Confirm the removal of all contacts in the list"
+msgstr "Confirm the removal of all contacts in the list"
+
+msgid "Confirm the removal of all contacts search"
+msgstr "Confirm the removal of all contacts search"
+
+msgid "Contact export"
+msgstr "Contact export"
+
+msgid "Contact optin"
+msgstr "Contact optin"
+
+msgid "Contact optout"
+msgstr "Contact optout"
+
+msgid "Contacts optin"
+msgstr "Contacts optin"
+
+msgid "Contacts optout"
+msgstr "Contacts optout"
+
+msgid "Content"
+msgstr "Content"
+
+msgid "Contracts"
+msgstr "Contracts"
+
+msgid "Contract"
+msgstr "Contract"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Default value"
+msgstr "Default value"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete campaign"
+msgstr "Delete campaign"
+
+msgid "Delete content"
+msgstr "Delete content"
+
+msgid "Delete contract"
+msgstr "Delete contract"
+
+msgid "Delete network"
+msgstr "Delete network"
+
+msgid "Deleting all contacts"
+msgstr "Deleting all contacts"
+
+msgid "Deleting all contacts search"
+msgstr "Deleting all contacts search"
+
+msgid "Deletion of contact"
+msgstr "Deletion of contact"
+
+msgid "Digitaleo"
+msgstr "Digitaleo"
+
+msgid "Digitaleo Blog"
+msgstr "Digitaleo Blog"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Duplicate campaign"
+msgstr "Duplicate campaign"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Edit a component"
+msgstr "Edit a component"
+
+msgid "Edit campaign"
+msgstr "Edit campaign"
+
+msgid "Edit contract"
+msgstr "Edit contract"
+
+msgid "Edit network"
+msgstr "Edit network"
+
+msgid "Edit step"
+msgstr "Edit step"
+
+msgid "new step"
+msgstr "new step"
+
+msgid "Edition"
+msgstr "Edition"
+
+msgid "Email list"
+msgstr "Email list"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "End date"
+msgstr "End date"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error : invalid file extension"
+msgstr "Error : invalid file extension"
+
+msgid "Excel file"
+msgstr "Excel file"
+
+msgid "Existing component"
+msgstr "Existing component"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Facebook account"
+msgstr "Facebook account"
+
+msgid "Facebook list"
+msgstr "Facebook list"
+
+msgid "Failure page"
+msgstr "Failure page"
+
+msgid "Field code"
+msgstr "Field code"
+
+msgid "File not uploaded"
+msgstr "File not uploaded"
+
+msgid "Form results"
+msgstr "Form results"
+
+msgid "Free search (network name)"
+msgstr "Free search (network name)"
+
+msgid "Full screen"
+msgstr "Full screen"
+
+msgid "Generate"
+msgstr "Generate"
+
+msgid "Geolocation"
+msgstr "Geolocation"
+
+msgid "Géolocalisation"
+msgstr "Géolocalisation"
+
+msgid "Height"
+msgstr "Height"
+
+msgid "Hidden Field"
+msgstr "Hidden Field"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Home page"
+msgstr "Home page"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Image from URL"
+msgstr "Image from URL"
+
+msgid "Import failed"
+msgstr "Import failed"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Informations"
+msgstr "Informations"
+
+msgid "Insert link to mobile site"
+msgstr "Insert link to mobile site"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Legal mentions"
+msgstr "Legal mentions"
+
+msgid "Lines number"
+msgstr "Lines number"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Link to smartpage"
+msgstr "Link to Smartpage"
+
+msgid "Load message from archive"
+msgstr "Load message from archive"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Look"
+msgstr "Look"
+
+msgid "Look & feel"
+msgstr "Look & feel"
+
+msgid "Manage list"
+msgstr "Manage list"
+
+msgid "Marketeo"
+msgstr "Marketeo"
+
+msgid "Message successfuly deleted"
+msgstr "Message successfuly deleted"
+
+msgid "Mobile:"
+msgstr "Mobile:"
+
+msgid "Mobisiteo"
+msgstr "Mobisiteo"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Modules"
+msgstr "Modules"
+
+msgid "My Campaigns"
+msgstr "My Campaigns"
+
+msgid "My Contacts"
+msgstr "My Contacts"
+
+msgid "My budget"
+msgstr "My budget"
+
+msgid "My communication"
+msgstr "My communication"
+
+msgid "My content"
+msgstr "My content"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Network"
+msgstr "Network"
+
+msgid "Network frontoffice style"
+msgstr "Network frontoffice style"
+
+msgid "Networks"
+msgstr "Networks"
+
+msgid "New campaign"
+msgstr "New campaign"
+
+msgid "New component"
+msgstr "New component"
+
+msgid "New field"
+msgstr "New field"
+
+msgid "New list"
+msgstr "New list"
+
+msgid "New user"
+msgstr "New user"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "No Image"
+msgstr "No Image"
+
+msgid "No contact found"
+msgstr "No contact found"
+
+msgid "No image"
+msgstr "No image"
+
+msgid "No setup yet for this type of component"
+msgstr "No setup yet for this type of component"
+
+msgid "No test message was sent, please check your list"
+msgstr "No test message was sent, please check your list"
+
+msgid "Not implemented for this type of message"
+msgstr "Not implemented for this type of message"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OptIn contacts"
+msgstr "OptIn contacts"
+
+msgid "Optout contacts"
+msgstr "Optout contacts"
+
+msgid "Or"
+msgstr "Or"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Page Not Found"
+msgstr "Page Not Found"
+
+msgid "Page creation"
+msgstr "Page creation"
+
+msgid "Page informations"
+msgstr "Page informations"
+
+msgid "Page label"
+msgstr "Page label"
+
+msgid "Page name"
+msgstr "Page name"
+
+msgid "Page title"
+msgstr "Page title"
+
+msgid "Parameters"
+msgstr "Parameters"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Password:"
+msgstr "Password:"
+
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgid "Please select a correct campaign identifiant"
+msgstr "Please select a correct campaign identifiant"
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Post code"
+msgstr "Post code"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "QR codes"
+msgstr "QR codes"
+
+msgid "Radio Button"
+msgstr "Radio Button"
+
+msgid "Remove contacts without list"
+msgstr "Remove contacts without list"
+
+msgid "Removing all contacts from list"
+msgstr "Removing all contacts from list"
+
+msgid "Removing all contacts search"
+msgstr "Removing all contacts search"
+
+msgid "Removing contacts from list"
+msgstr "Removing contacts from list"
+
+msgid "Removing the contact from list"
+msgstr "Removing the contact from list"
+
+msgid "Rename.list"
+msgstr "Rename.list"
+
+msgid "Reply to"
+msgstr "Reply to"
+
+msgid "Report an error"
+msgstr "Report an error"
+
+msgid "SITE-FIELDS"
+msgstr "SITE-FIELDS"
+
+msgid "SMS"
+msgstr "text message"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Security error"
+msgstr "Security error"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Select Box"
+msgstr "Select Box"
+
+msgid "Select a css file you would like to import"
+msgstr "Select a css file you would like to import"
+
+msgid "Select a page"
+msgstr "Select a page"
+
+msgid "Select a structure file you would like to import"
+msgstr "Select a structure file you would like to import"
+
+msgid "Select all contact"
+msgstr "Select all contact"
+
+msgid ""
+"Select an existing component to edit it or click on the + icon into the zone "
+"where you want to add a new one"
+msgstr ""
+"Select an existing component to edit it or click on the + icon into the zone "
+"where you want to add a new one"
+
+msgid "Select the image file to use"
+msgstr "Select the image file to use"
+
+msgid "Sender"
+msgstr "Sender"
+
+msgid "Set the code to generate"
+msgstr "Set the code to generate"
+
+msgid "Set the image url to use"
+msgstr "Set the image url to use"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Site online"
+msgstr "Site online"
+
+msgid "Sites list"
+msgstr "Sites list"
+
+msgid "Sms list"
+msgstr "Text message list"
+
+msgid "Start date"
+msgstr "Start date"
+
+msgid "Street"
+msgstr "Street"
+
+msgid "Structure"
+msgstr "Structure"
+
+msgid "Structures"
+msgstr "Structures"
+
+msgid "Style configuration for a network"
+msgstr "Style configuration for a network"
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Succes page"
+msgstr "Succes page"
+
+msgid "Target link url"
+msgstr "Target link url"
+
+msgid "Tel:"
+msgstr "Tel:"
+
+msgid "Text"
+msgstr "Text"
+
+msgctxt ""
+msgid "Text Area"
+msgstr "Text Area"
+
+msgid "Text Field"
+msgstr "Text Field"
+
+msgid "Thank you to provide a valid url"
+msgstr "Thank you to provide a valid url"
+
+msgid "The message has been sent."
+msgstr "The message has been sent."
+
+msgid "The site you are trying to view is no longer accessible"
+msgstr "The site you are trying to view is no longer accessible"
+
+msgid "The step is deleted"
+msgstr "The step is deleted"
+
+msgid "The test contact is not valid."
+msgstr "The test contact is not valid."
+
+msgid "This site may not be seen; please retry later"
+msgstr "This site may not be seen; please retry later"
+
+msgid "To"
+msgstr "To"
+
+msgid "Tweet"
+msgstr "Tweet"
+
+msgid "Twitter account"
+msgstr "Twitter account"
+
+msgid "Twitter list"
+msgstr "Twitter list"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Up"
+msgstr "Up"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Upload a file"
+msgstr "Upload a file"
+
+msgid "Upload configuration as INI file"
+msgstr "Upload configuration as INI file"
+
+msgid "Upload done"
+msgstr "Upload done"
+
+msgid "Upload in progress, please be patient..."
+msgstr "Upload in progress, please be patient..."
+
+msgid "Upload in progress; please be patient..."
+msgstr "Upload in progress; please be patient..."
+
+msgid "Uploading"
+msgstr "Uploading"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Use existing component"
+msgstr "Use existing component"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Username:"
+msgstr "Username:"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Validate mobile site datas"
+msgstr "Validate mobile site datas"
+
+msgid "Value is required and can't be empty"
+msgstr "Value is required and can't be empty"
+
+msgid "Values (comma separated)"
+msgstr "Values (comma separated)"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "View"
+msgstr "View"
+
+msgid "Visible"
+msgstr "Visible"
+
+msgctxt ""
+msgid "Warning"
+msgstr "Warning"
+
+msgid "Width"
+msgstr "Width"
+
+msgid ""
+"You can reach %1$s on %2$s or by e-mail at: <a href='mailto:%3$s'>%3$s</a>"
+msgstr ""
+"You can reach %1$s on %2$s or by e-mail at: <a href='mailto:%3$s'>%3$s</a>"
+
+msgid "You don't have the necessary credentials to access this resource"
+msgstr "You don't have the necessary credentials to access this resource"
+
+msgid "You don't have the right to access to the page : "
+msgstr "You don't have the right to access to the page : "
+
+msgid "You must select an attribute before"
+msgstr "You must select an attribute before"
+
+msgid "Your mobile site is available for test:"
+msgstr "Your mobile site is available for test:"
+
+msgctxt ""
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "access url"
+msgstr "access url"
+
+msgid "accounting code"
+msgstr "accounting code"
+
+msgid "actions"
+msgstr "actions"
+
+msgid "actives only"
+msgstr "actives only"
+
+msgid "add"
+msgstr "add"
+
+msgid "add a contact"
+msgstr "add a contact"
+
+msgid "add a new campaign by clicking on"
+msgstr "add a new campaign by clicking on"
+
+msgid "add a new message by clicking on"
+msgstr "add a new message by clicking on"
+
+msgid "add a new rule"
+msgstr "add a new rule"
+
+msgid "add a new site by clicking on"
+msgstr "add a new site by clicking on"
+
+msgid "add channel"
+msgstr "add channel"
+
+msgid "add comment"
+msgstr "add comment"
+
+msgid "add contract"
+msgstr "add contract"
+
+msgid "add network"
+msgstr "add network"
+
+msgid "select a network"
+msgstr "select a network"
+
+msgid "affiliation networks"
+msgstr "affiliation networks"
+
+msgid "add new facebook"
+msgstr "add new facebook"
+
+msgid "add new look"
+msgstr "add new look"
+
+msgid "add new site"
+msgstr "add new site"
+
+msgid "add new structure"
+msgstr "add new structure"
+
+msgid "add new twitter"
+msgstr "add new twitter"
+
+msgid "add step"
+msgstr "add step"
+
+msgid "add to selection"
+msgstr "add to selection"
+
+msgid "add user"
+msgstr "add user"
+
+msgid "add your contacts"
+msgstr "add your contacts"
+
+msgid "added-page-label"
+msgstr "added-page-label"
+
+msgid "address"
+msgstr "address"
+
+msgid "address1"
+msgstr "address1"
+
+msgid "address2"
+msgstr "address2"
+
+msgid "advice for affiliates"
+msgstr "advice for affiliates"
+
+msgctxt ""
+msgid "all contracts"
+msgstr "all contracts"
+
+msgid "all medias"
+msgstr "all medias"
+
+msgid "all my campaigns"
+msgstr "all my campaigns"
+
+msgid "all my contact lists"
+msgstr "all my contact lists"
+
+msgid "all my contacts"
+msgstr "all my contacts"
+
+msgid "all statuses"
+msgstr "all statuses"
+
+msgctxt ""
+msgid "all users"
+msgstr "all users"
+
+msgid "apply"
+msgstr "apply"
+
+msgid "approximate cost of message"
+msgstr "approximate cost of message"
+
+msgid "are you sure to want to delete this contract?"
+msgstr "are you sure to want to delete this contract?"
+
+msgid "are you sure to want to delete this element?"
+msgstr "are you sure to want to delete this element?"
+
+msgid "are you sure to want to delete this message"
+msgstr "are you sure to want to delete this message"
+
+msgid "are you sure to want to delete this user?"
+msgstr "are you sure to want to delete this user?"
+
+msgid "are you sure you want to cancel this campaign ?"
+msgstr "are you sure you want to cancel this campaign ?"
+
+msgid "associate your Facebook account to Digitaleo"
+msgstr "associate your Facebook account to Digitaleo"
+
+msgid "associate your Twitter account to Digitaleo"
+msgstr "associate your Twitter account to Digitaleo"
+
+msgctxt ""
+msgid "back"
+msgstr "back"
+
+msgid "back to campaign"
+msgstr "back to campaign"
+
+msgid "back to campaign list"
+msgstr "back to campaign list"
+
+msgid "begin to import your contacts"
+msgstr "begin to import your contacts"
+
+msgid "bienvenue, "
+msgstr "welcome, "
+
+msgid "birthDate"
+msgstr "birthDate"
+
+msgid "bounce rate"
+msgstr "bounce rate"
+
+msgid "broadcast"
+msgstr "broadcast"
+
+msgid "budget"
+msgstr "budget"
+
+msgid "calendar.hour"
+msgstr "calendar.hour"
+
+msgid "calendar.minute"
+msgstr "calendar.minute"
+
+msgid "calendar.time"
+msgstr "calendar.time"
+
+msgid "campaign"
+msgstr "campaign"
+
+msgid "campaign deleted"
+msgstr "campaign deleted"
+
+msgid "campaign details"
+msgstr "campaign details"
+
+msgid "campaign not found"
+msgstr "campaign not found"
+
+msgid "campaign was successfully duplicated"
+msgstr "campaign was successfully duplicated"
+
+msgid "cancel"
+msgstr "cancel"
+
+msgid "cannot add a message wihtout a valid media type."
+msgstr "cannot add a message wihtout a valid media type."
+
+msgid "cannot add a message wihtout a valid step identifier."
+msgstr "cannot add a message wihtout a valid step identifier."
+
+msgid "cannot add message"
+msgstr "cannot add message"
+
+msgid "cannot associate your selection into a list"
+msgstr "cannot associate your selection into a list"
+
+msgid "cannot confirm campaign"
+msgstr "cannot confirm campaign"
+
+msgid "cannot confirm campaign with invalid identifier"
+msgstr "cannot confirm campaign with invalid identifier"
+
+msgid "cannot confirm campaign, invalid contact list for PUSH channel"
+msgstr "cannot confirm campaign, invalid contact list for PUSH channel"
+
+msgid "cannot confirm campaign, invalid contact list"
+msgstr "cannot confirm campaign, invalid contact list"
+
+msgid "cannot confirm campaign, invalid user"
+msgstr "cannot confirm campaign, invalid user"
+
+msgid "cannot confirm campaign, invalid campaign name"
+msgstr "cannot confirm campaign, invalid campaign name"
+
+msgid "cannot confirm campaign, invalid steps"
+msgstr "cannot confirm campaign, invalid steps"
+
+msgid "cannot confirm campaign, invalid execution date"
+msgstr "cannot confirm campaign, invalid execution date"
+
+msgid "cannot confirm campaign, invalid execution dates of steps"
+msgstr "cannot confirm campaign, invalid execution dates of steps"
+
+msgid "cannot confirm campaign, invalid number of steps"
+msgstr "cannot confirm campaign, invalid number of steps"
+
+msgid "cannot confirm campaign, status is not editing"
+msgstr "cannot confirm campaign, status is not editing"
+
+msgid "cannot confirm campaign; invalid contact list for PUSH channel"
+msgstr "cannot confirm campaign; invalid contact list for PUSH channel"
+
+msgid "cannot confirm campaign; invalid execution dates of steps"
+msgstr "cannot confirm campaign; invalid execution dates of steps"
+
+msgid "cannot confirm campaign, no countact found"
+msgstr "cannot confirm campaign, no countact found"
+
+msgid "cannot confirm campaign; invalid number of steps"
+msgstr "cannot confirm campaign; invalid number of steps"
+
+msgid "cannot confirm campaign, invalid email subject for step"
+msgstr "cannot confirm campaign, invalid email subject for step"
+
+msgid "cannot confirm campaign, invalid email subject for steps"
+msgstr "cannot confirm campaign, invalid email subject for steps"
+
+msgid "cannot confirm campaign, contact list is demo type"
+msgstr ""
+"ou can't confirm your campaign with a demo contact list.<br/><br/>Please use "
+"another contact list to confirm your campaign."
+
+msgid "cannot create a new contact"
+msgstr "cannot create a new contact"
+
+msgid "cannot create a new list"
+msgstr "cannot create a new list"
+
+msgid "cannot create a new list without a valid selection"
+msgstr "cannot create a new list without a valid selection"
+
+msgctxt ""
+msgid "cannot create campaign"
+msgstr "cannot create campaign"
+
+msgid "cannot delete campaign"
+msgstr "cannot delete campaign"
+
+msgid "cannot delete campaign with invalid identifier"
+msgstr "cannot delete campaign with invalid identifier"
+
+msgid "cannot cancel campaign, no campaign found"
+msgstr "cannot cancel campaign, no campaign found"
+
+msgid "cannot cancel campaign with invalid identifier"
+msgstr "cannot cancel campaign with invalid identifier"
+
+msgid "Cannot cancel campaign with status : %s."
+msgstr "Cannot cancel campaign with status : %s."
+
+msgid "cannot delete orphan contact"
+msgstr "cannot delete orphan contact"
+
+msgid "cannot delete your selection"
+msgstr "cannot delete your selection"
+
+msgid "cannot display campaign"
+msgstr "cannot display campaign"
+
+msgid "cannot display campaign without a valid identifier"
+msgstr "cannot display campaign without a valid identifier"
+
+msgid "cannot display contact with invalid identifiers"
+msgstr "cannot display contact with invalid identifiers"
+
+msgid "cannot display details"
+msgstr "cannot display details"
+
+msgid "cannot display details with invalid identifiers"
+msgstr "cannot display details with invalid identifiers"
+
+msgid "cannot duplicate campaign with invalid identifier"
+msgstr "cannot duplicate campaign with invalid identifier"
+
+msgid "cannot read data in this file"
+msgstr "cannot read data in this file"
+
+msgid "cannot save campaign"
+msgstr "cannot save campaign"
+
+msgid "cannot update the list name"
+msgstr "cannot update the list name"
+
+msgid "channel"
+msgstr "channel"
+
+msgid "characters number"
+msgstr "characters number"
+
+msgid "choose on which facebook page you wish to post."
+msgstr "choose on which facebook page you wish to post."
+
+msgid "city"
+msgstr "city"
+
+msgid "civility"
+msgstr "civility"
+
+msgid "clear"
+msgstr "clear"
+
+msgid "clicked ratio"
+msgstr "clicked ratio"
+
+msgid "clickers"
+msgstr "clickers"
+
+msgid "client code"
+msgstr "client code"
+
+msgid "closed"
+msgstr "closed"
+
+msgid "code"
+msgstr "code"
+
+msgid "color #1"
+msgstr "color #1"
+
+msgid "color #2"
+msgstr "color #2"
+
+msgid "comment"
+msgstr "comment"
+
+msgid "comments"
+msgstr "comments"
+
+msgid ""
+"communicate with you contacts via email in order to present your visual an "
+"personalised offer"
+msgstr ""
+"communicate with you contacts via email in order to present your visual an "
+"personalised offer"
+
+msgid "company"
+msgstr "company"
+
+msgid "company code"
+msgstr "company code"
+
+msgid "complete view"
+msgstr "complete view"
+
+msgid "confirm"
+msgstr "confirm"
+
+msgid "confirm campaign"
+msgstr "confirm campaign"
+
+msgid "confirm delete list"
+msgstr "confirm delete list"
+
+msgid "confirm delete step"
+msgstr "confirm delete step"
+
+msgid "confirm confirm campaign"
+msgstr "confirm confirm campaign"
+
+msgid "cannot confirm campaign, at least one invalid step"
+msgstr "cannot confirm campaign, at least one invalid step"
+
+msgid "confirmed"
+msgstr "confirmed"
+
+msgid "contact"
+msgstr "contact"
+
+msgid "contact coordinates"
+msgstr "contact coordinates"
+
+#: contacts+import%C3%A9s
+msgid "contact imported"
+msgstr "contact imported"
+
+msgid "contact info"
+msgstr "contact info"
+
+msgid "contact list name"
+msgstr "contact list name"
+
+msgid "contact name"
+msgstr "contact name"
+
+msgid "contact(s)"
+msgstr "contact(s)"
+
+msgid "contact.filter"
+msgstr "filter"
+
+msgid "contact.media.status-1"
+msgstr "contact.media.status-1"
+
+msgid "contact.media.status-2"
+msgstr "contact.media.status-2"
+
+msgid "contact.media.status-3"
+msgstr "contact.media.status-3"
+
+msgid "contact.media.status0"
+msgstr "contact.media.status0"
+
+msgid "contact.media.status1"
+msgstr "contact.media.status1"
+
+msgctxt ""
+msgid "contact.warning"
+msgstr "contact.warning"
+
+msgid "contacts"
+msgstr "contacts"
+
+msgid "contacts not found"
+msgstr "contacts not found"
+
+msgid "contacts on this page are selected"
+msgstr "contacts on this page are selected"
+
+msgid "contacts will be merged with the following criterias :"
+msgstr "contacts will be merged with the following criterias :"
+
+msgid "content"
+msgstr "content"
+
+msgid "content title"
+msgstr "content title"
+
+msgid "continue"
+msgstr "continue"
+
+msgid "contract"
+msgstr "contract"
+
+msgid "contract code"
+msgstr "contract code"
+
+msgid "contract deleted"
+msgstr "contract deleted"
+
+msgid "contract details"
+msgstr "contract details"
+
+msgid "contract manager"
+msgstr "contract manager"
+
+msgid "contracts deleted"
+msgstr "contracts deleted"
+
+msgid "country"
+msgstr "country"
+
+msgid "create a campaign"
+msgstr "create a campaign"
+
+msgid "create a list"
+msgstr "create a list"
+
+msgid "create a new campaign"
+msgstr "create a new campaign"
+
+msgid "create a new contact list"
+msgstr "create a new contact list"
+
+msgid "create a new contact list and create campaign"
+msgstr "create a new contact list and create campaign"
+
+msgid "create bar code"
+msgstr "create bar code"
+
+msgid "create list"
+msgstr "create list"
+
+msgid "create new list"
+msgstr "create new list"
+
+msgid "create new list with selection"
+msgstr "create new list with selection"
+
+msgid "create new page"
+msgstr "create new page"
+
+msgid "create your content"
+msgstr "create your content"
+
+msgid "creation date"
+msgstr "creation date"
+
+msgid "creator"
+msgstr "creator"
+
+msgid "css file"
+msgstr "css file"
+
+msgid "customer code"
+msgstr "customer code"
+
+msgid "database.action"
+msgstr "database.action"
+
+msgid "date"
+msgstr "date"
+
+msgid "delete"
+msgstr "delete"
+
+msgid "delete Facebook / Digitaleo association"
+msgstr "delete Facebook / Digitaleo association"
+
+msgid "delete Twitter / Digitaleo association"
+msgstr "delete Twitter / Digitaleo association"
+
+msgid "delete all selected lists"
+msgstr "delete all selected lists"
+
+msgid "delete contact"
+msgstr "delete contact"
+
+msgid "delete current selection"
+msgstr "delete current selection"
+
+msgid "delete list"
+msgstr "delete list"
+
+msgid "delete lists"
+msgstr "delete lists"
+
+msgid "delete step"
+msgstr "delete step"
+
+msgctxt ""
+msgid "Delete step"
+msgstr "Delete step"
+
+msgid "delete this step"
+msgstr "delete this step"
+
+msgid "delivered"
+msgstr "delivered"
+
+msgid "delivered messages"
+msgstr "delivered messages"
+
+msgctxt ""
+msgid "description"
+msgstr "description"
+
+msgid "designation"
+msgstr "designation"
+
+msgid "designation:"
+msgstr "designation:"
+
+msgid "details for list"
+msgstr "details for list"
+
+msgid "details of the campaign"
+msgstr "details of the campaign"
+
+msgid "displayed"
+msgstr "displayed"
+
+msgid "do you want deleted all lists selected?"
+msgstr "do you want deleted all lists selected?"
+
+msgid "download example file"
+msgstr "download example file"
+
+msgid "download the final QR code"
+msgstr "download the final QR code"
+
+msgid "duplicate"
+msgstr "duplicate"
+
+msgid "easily communicate via SMS with your customers whenever you want"
+msgstr ""
+"easily communicate via text message with your customers whenever you want"
+
+msgid "ecoSMS key"
+msgstr "ecoSMS key"
+
+msgid "edit"
+msgstr "edit"
+
+msgid "edit contact"
+msgstr "edit contact"
+
+msgid "edit contract"
+msgstr "edit contract"
+
+msgid "edit network"
+msgstr "edit network"
+
+msgid "edit or test"
+msgstr "edit or test"
+
+msgid "edit the SMS"
+msgstr "edit the text message"
+
+msgid "edit user"
+msgstr "edit user"
+
+msgid "edit your media channels bellow"
+msgstr "edit your media channels bellow"
+
+msgid "editing"
+msgstr "editing"
+
+msgid "editor"
+msgstr "editor"
+
+msgid "email"
+msgstr "email"
+
+msgid "en"
+msgstr "en"
+
+msgid "end date"
+msgstr "end date"
+
+msgid "entity"
+msgstr "entity"
+
+msgctxt ""
+msgid "error: your list has not been created"
+msgstr "error: your list has not been created"
+
+msgid "export"
+msgstr "export"
+
+msgid "export contact"
+msgstr "export contact"
+
+msgctxt ""
+msgid "facebook"
+msgstr "facebook"
+
+msgid "facebook pages"
+msgstr "facebook pages"
+
+msgid "fax"
+msgstr "fax"
+
+msgid "field01"
+msgstr "field01"
+
+msgid "field02"
+msgstr "field02"
+
+msgid "field03"
+msgstr "field03"
+
+msgid "field04"
+msgstr "field04"
+
+msgid "field05"
+msgstr "field05"
+
+msgid "field06"
+msgstr "field06"
+
+msgid "field07"
+msgstr "field07"
+
+msgid "field08"
+msgstr "field08"
+
+msgid "field09"
+msgstr "field09"
+
+msgid "field10"
+msgstr "field10"
+
+msgid "field11"
+msgstr "field11"
+
+msgid "field12"
+msgstr "field12"
+
+msgid "field13"
+msgstr "field13"
+
+msgid "field14"
+msgstr "field14"
+
+msgid "field15"
+msgstr "field15"
+
+msgid "file"
+msgstr "file"
+
+msgid "file name"
+msgstr "file name"
+
+msgid "file upload failed; please retry"
+msgstr "file upload failed; please retry"
+
+msgid "file's datas will be imported. Check content."
+msgstr "file's datas will be imported. Check content."
+
+msgid "filename"
+msgstr "filename"
+
+msgid "filter"
+msgstr "filter"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "filter by"
+msgstr "filter by"
+
+msgid "filter.contains"
+msgstr "contains"
+
+msgid "filter.desc.filterAnd"
+msgstr "And"
+
+msgid "filter.desc.filterOr"
+msgstr "Or"
+
+msgid "filter.display_all"
+msgstr "display all"
+
+msgid "filter.empty"
+msgstr "is empty"
+
+msgid "filter.equals"
+msgstr "equals"
+
+msgid "filter.not_equals"
+msgstr "not equals"
+
+msgctxt ""
+msgid "filter.notempty"
+msgstr "not empty"
+
+msgid "filter.optout"
+msgstr "optout"
+
+msgctxt ""
+msgid "filter.reset"
+msgstr "reset"
+
+msgid "filter.delete"
+msgstr "delete filters"
+
+msgid "filter.search"
+msgstr "search"
+
+msgid "filters"
+msgstr "filters"
+
+msgid "firstName"
+msgstr "firstName"
+
+msgid "firstname"
+msgstr "firstname"
+
+msgid "followers"
+msgstr "followers"
+
+msgid "form response"
+msgstr "form response"
+
+msgid "forms"
+msgstr "forms"
+
+msgid "found contact(s)"
+msgstr "found contact(s)"
+
+msgid "free search (contract name; city; ...)"
+msgstr "free search (contract name; city; ...)"
+
+msgid "free search(name; firstname; login; email)"
+msgstr "free search(name; firstname; login; email)"
+
+msgid "from..."
+msgstr "from..."
+
+msgid "generate"
+msgstr "generate"
+
+msgid "generate QR code"
+msgstr "generate QR code"
+
+msgid "geoloc.circlr.rayon"
+msgstr "geoloc.circlr.rayon"
+
+msgid "geoloc.clear.map"
+msgstr "geoloc.clear.map"
+
+msgid "geoloc.create.polygon"
+msgstr "geoloc.create.polygon"
+
+msgid "geoloc.remove.polygon"
+msgstr "geoloc.remove.polygon"
+
+msgid "geoloc.select.circle"
+msgstr "geoloc.select.circle"
+
+msgid "geolocation"
+msgstr "geolocation"
+
+msgid "global component"
+msgstr "global component"
+
+msgid "header line"
+msgstr "header line"
+
+msgid "hidden"
+msgstr "hidden"
+
+msgid "history of email openings"
+msgstr "history of email openings"
+
+msgid "history of mobile site visits"
+msgstr "history of mobile site visits"
+
+msgid "home page"
+msgstr "home page"
+
+msgid "id"
+msgstr "id"
+
+msgid "image preview"
+msgstr "image preview"
+
+msgid "immediate"
+msgstr "immediate"
+
+msgid "import the first line of file"
+msgstr "import the first line of file"
+
+msgid "importation in progress"
+msgstr "importation in progress"
+
+msgid "importation results"
+msgstr "importation results"
+
+msgid "importing in progress, please be patient..."
+msgstr "importing in progress, please be patient..."
+
+msgid "inactives"
+msgstr "inactives"
+
+msgid "indicator"
+msgstr "indicator"
+
+msgid "industry templates"
+msgstr "industry templates"
+
+msgid "information"
+msgstr "information"
+
+msgid "information about your SMS campaign"
+msgstr "Information about your SMS campaign"
+
+msgid "invalid company, cannot display settings"
+msgstr "invalid company, cannot display settings"
+
+msgid "invalid company; cannot display settings"
+msgstr "invalid company; cannot display settings"
+
+#: contacts+invalides
+msgid "invalid contact"
+msgstr "invalid contact"
+
+msgid "invalid password"
+msgstr "invalid password"
+
+msgid "is associated with your Digitaleo account"
+msgstr "is associated with your Digitaleo account"
+
+msgid "item"
+msgstr "item"
+
+msgid "items"
+msgstr "items"
+
+msgid "keywords"
+msgstr "keywords"
+
+msgid "ko"
+msgstr "ko"
+
+msgid "label"
+msgstr "label"
+
+msgid "large (L)"
+msgstr "large (L)"
+
+msgid "lastName"
+msgstr "lastName"
+
+msgid "lastname"
+msgstr "lastname"
+
+msgctxt ""
+msgid "legal.mentions.text"
+msgstr ""
+"This entire site is covered by French and international legislation on "
+"copyright and intellectual property. All reproduction rights are reserved, "
+"including downloadable documents, iconographic and photographic "
+"representations. Reproduction of all or part of this site on any medium is "
+"strictly prohibited without written authorization from the company "
+"Digitaleo. All trademarks in this site are registered with the specialized "
+"agencies, on behalf of Digitaleo."
+
+msgid "likes"
+msgstr "likes"
+
+#: lignes+trouv%C3%A9es
+msgid "line found"
+msgstr "line found"
+
+msgid "list"
+msgstr "list"
+
+msgid "list deleted"
+msgstr "list deleted"
+
+msgid "list of Facebook messages"
+msgstr "list of Facebook messages"
+
+msgid "list of Mobile Site messages"
+msgstr "list of Mobile Site messages"
+
+msgid "list of Twitter messages"
+msgstr "list of Twitter messages"
+
+msgid "list of contacts"
+msgstr "list of contacts"
+
+msgid "list of contracts"
+msgstr "list of contracts"
+
+msgid "type.admin"
+msgstr "type.admin"
+
+msgid "type.demonstration"
+msgstr "type.demonstration"
+
+msgid "type.prospect"
+msgstr "type.prospect"
+
+msgid "type.subscriber"
+msgstr "type.subscriber"
+
+msgid "type.test"
+msgstr "type.test"
+
+msgid "type.web"
+msgstr "type.web"
+
+msgid "list of looks"
+msgstr "list of looks"
+
+msgid "list of networks"
+msgstr "list of networks"
+
+msgid "list of selected contact(s)"
+msgstr "list of selected contact(s)"
+
+msgid "list of structures"
+msgstr "list of structures"
+
+msgid "list of users"
+msgstr "list of users"
+
+msgid "lists name"
+msgstr "lists name"
+
+msgid "lists of contacts"
+msgstr "lists of contacts"
+
+msgid "lists of networks"
+msgstr "lists of networks"
+
+msgid "live from Blog"
+msgstr "live from Blog"
+
+msgid "locale"
+msgstr "locale"
+
+msgid "login unavailable"
+msgstr "login unavailable"
+
+msgid "logout"
+msgstr "logout"
+
+msgid "Add to favorites"
+msgstr "Add to favorites"
+
+msgid "look"
+msgstr "look"
+
+msgid "mail.Digitaleo"
+msgstr "mail.Digitaleo"
+
+msgid "manage"
+msgstr "manage"
+
+msgid "manually create new list"
+msgstr "manually create new list"
+
+msgid ""
+"measure customer satisfaction immediately following a service and improve "
+"your reputation"
+msgstr ""
+"measure customer satisfaction immediately following a service and improve "
+"your reputation"
+
+msgid "media library"
+msgstr "media library"
+
+msgid "medium (M)"
+msgstr "medium (M)"
+
+msgid "merge all selected lists"
+msgstr "merge all selected lists"
+
+msgid "message performance"
+msgstr "message performance"
+
+msgid "message preview"
+msgstr "message preview"
+
+msgid "message status"
+msgstr "message status"
+
+msgid "message(s) has been sent"
+msgstr "message(s) has been sent"
+
+msgid "messages"
+msgstr "messages"
+
+msgid "messengeo key"
+msgstr "messengeo key"
+
+msgid "mobile"
+msgstr "mobile"
+
+msgid "mobile site"
+msgstr "smartpage"
+
+msgid "mobile website"
+msgstr "mobile website"
+
+msgid "mode"
+msgstr "mode"
+
+msgid "modify or test your channel"
+msgstr "modify or test your channel"
+
+msgid "more"
+msgstr "more"
+
+msgid "more content"
+msgstr "more content"
+
+msgid "more details"
+msgstr "more details"
+
+msgid "most visited pages"
+msgstr "most visited pages"
+
+msgid "multicanal"
+msgstr "combine"
+
+msgctxt ""
+msgid "Multichannel mode"
+msgstr "combine"
+
+msgid "my campaigns"
+msgstr "my campaigns"
+
+msgid "my contact"
+msgstr "my contact"
+
+msgid "my contact database"
+msgstr "my contact database"
+
+msgid "my contacts"
+msgstr "my contacts"
+
+msgid "my contacts distribution per channel"
+msgstr "my contacts distribution per channel"
+
+msgid "my contents"
+msgstr "my contents"
+
+msgid "my dashboard"
+msgstr "my dashboard"
+
+msgid "my lists"
+msgstr "my lists"
+
+msgid "my network campaigns"
+msgstr "my network campaigns"
+
+msgid "my performance ratio"
+msgstr "my performance ratio"
+
+msgid "my previous campaigns"
+msgstr "my previous campaigns"
+
+msgid "my previous contact lists"
+msgstr "my previous contact lists"
+
+msgid "my resources"
+msgstr "my resources"
+
+msgid "my templates"
+msgstr "my templates"
+
+msgid "name"
+msgstr "name"
+
+msgid "name list (optional)"
+msgstr "name list (optional)"
+
+msgid "name your campaign"
+msgstr "name your campaign"
+
+msgid "need help?"
+msgstr "need help?"
+
+msgid "network"
+msgstr "network"
+
+msgid "network deleted"
+msgstr "network deleted"
+
+msgid "network details"
+msgstr "network details"
+
+msgid "network not deleted"
+msgstr "network not deleted"
+
+msgid "new campaign"
+msgstr "new campaign"
+
+msgid "new contract"
+msgstr "new contract"
+
+msgid "new label"
+msgstr "new label"
+
+msgid "new list"
+msgstr "new list"
+
+msgid "new list name"
+msgstr "new list name"
+
+msgid "new network"
+msgstr "new network"
+
+msgid "new page"
+msgstr "new page"
+
+msgid "new user"
+msgstr "new user"
+
+msgid "new-home-page-label"
+msgstr "new-home-page-label"
+
+msgid "news"
+msgstr "news"
+
+msgid "next dispatch date"
+msgstr "next dispatch date"
+
+msgid "no"
+msgstr "no"
+
+msgid "no available information"
+msgstr "no available information"
+
+msgid "no campaign"
+msgstr "no campaign"
+
+msgid "no component yet"
+msgstr "no component yet"
+
+msgid "no contact"
+msgstr "no contact"
+
+msgid "no contacts list"
+msgstr "no contacts list"
+
+msgid "no data"
+msgstr "no data"
+
+msgid "no facebook yet"
+msgstr "no facebook yet"
+
+msgid "no image"
+msgstr "no image"
+
+msgid "no page yet"
+msgstr "no page yet"
+
+msgid "no site yet"
+msgstr "no site yet"
+
+msgid "no twitter yet"
+msgstr "no twitter yet"
+
+msgid "not available functionality for this list"
+msgstr "not available functionality for this list"
+
+msgid "notify on submission"
+msgstr "notify on submission"
+
+msgid "now"
+msgstr "now"
+
+msgid "number"
+msgstr "number"
+
+msgid "number of affiliates"
+msgstr "number of affiliates"
+
+msgid "number of channels"
+msgstr "number of channels"
+
+msgid "number of contacts"
+msgstr "number of contacts"
+
+msgid "number of different recipients"
+msgstr "number of different recipients"
+
+msgid "number of selected contacts"
+msgstr "number of selected contacts"
+
+msgid "number of sent messages"
+msgstr "number of sent messages"
+
+msgid "offline date"
+msgstr "offline date"
+
+msgid "ok"
+msgstr "ok"
+
+msgid "on"
+msgstr "on"
+
+msgid "on the page"
+msgstr "on the page"
+
+msgid "online date"
+msgstr "online date"
+
+msgid "opened ratio"
+msgstr "opened ratio"
+
+msgid "openers"
+msgstr "openers"
+
+msgid "opening ratio"
+msgstr "opening ratio"
+
+msgid "openings"
+msgstr "openings"
+
+msgid "optin contact"
+msgstr "optin contact"
+
+msgid "options"
+msgstr "options"
+
+msgid "optout"
+msgstr "optout"
+
+msgid "optout contact"
+msgstr "optout contact"
+
+msgid "or edit the site directly in the editor"
+msgstr "or edit the site directly in the editor"
+
+msgid "origin of visits"
+msgstr "origin of visits"
+
+msgid "orphan deletion done"
+msgstr "orphan deletion done"
+
+msgid "other"
+msgstr "other"
+
+msgid "owner"
+msgstr "owner"
+
+msgid "page"
+msgstr "page"
+
+msgid "pages per visit"
+msgstr "pages per visit"
+
+msgid "paid image"
+msgstr "paid image"
+
+msgid "parameter"
+msgstr "parameter"
+
+msgid "parameters"
+msgstr "parameters"
+
+msgid "partial view"
+msgstr "partial view"
+
+msgid "password"
+msgstr "password"
+
+msgid "password:"
+msgstr "password:"
+
+msgid "percentage"
+msgstr "percentage"
+
+msgid "performance ratio"
+msgstr "delivrability"
+
+msgid "permanent errors (hard bounces)"
+msgstr "permanent errors (hard bounces)"
+
+msgid "phone"
+msgstr "phone"
+
+msgid "phone.Digitaleo"
+msgstr "phone.Digitaleo"
+
+msgid "please enter at least two chars"
+msgstr "please enter at least two chars"
+
+msgid "please type one email adress per line"
+msgstr "please type one email adress per line"
+
+msgid "please type one mobile phone number per line"
+msgstr "please type one mobile phone number per line"
+
+msgid "post code"
+msgstr "post code"
+
+msgid "postCode"
+msgstr "postCode"
+
+msgid "postal adress"
+msgstr "postal adress"
+
+msgid ""
+"present your offers and your point of sale visually with with a website "
+"optimized for mobile"
+msgstr ""
+"present your offers and your point of sale visually with with a website "
+"optimized for mobile"
+
+msgid "preview"
+msgstr "preview"
+
+msgid "processing messages"
+msgstr "processing messages"
+
+msgid "profile"
+msgstr "profile"
+
+msgid "reactivity"
+msgstr "reactivity"
+
+msgid "reference"
+msgstr "reference"
+
+msgid "regenerate password"
+msgstr "regenerate password"
+
+msgid "remove comment"
+msgstr "remove comment"
+
+msgid "remove current image"
+msgstr "remove current image"
+
+msgid "remove this rule"
+msgstr "remove this rule"
+
+msgid "remove uploaded image"
+msgstr "remove uploaded image"
+
+msgid "rename.list"
+msgstr "rename.list"
+
+msgid "report@digitaleo.com"
+msgstr "report@digitaleo.com"
+
+msgid "reset"
+msgstr "reset"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "reset custom style"
+msgstr "reset custom style"
+
+msgid "responses contact form"
+msgstr "responses contact form"
+
+msgid "responses to contact form"
+msgstr "responses to contact form"
+
+msgid "responses to mobile site contact form"
+msgstr "responses to mobile site contact form"
+
+msgid "return"
+msgstr "return"
+
+msgid "retweets"
+msgstr "retweets"
+
+msgid "revoke contact"
+msgstr "revoke contact"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "running"
+msgstr "running"
+
+msgid "running messages"
+msgstr "running messages"
+
+msgid "sample text"
+msgstr "sample text"
+
+msgid "save"
+msgstr "save"
+
+msgid "save step"
+msgstr "save step"
+
+msgid "save this contact list test"
+msgstr "save this contact list test"
+
+msgid "save this step"
+msgstr "save this step"
+
+msgid "scheduled"
+msgstr "scheduled"
+
+msgid "scheduled time"
+msgstr "scheduled time"
+
+msgid "scheduling is required"
+msgstr "scheduling is required"
+
+msgid "search"
+msgstr "search"
+
+msgid "search a contact:"
+msgstr "search a contact:"
+
+msgid "search campaign"
+msgstr "search campaign"
+
+msgid "select a channel and configure the campaign"
+msgstr "select a channel and configure the campaign"
+
+msgid "select a file to import"
+msgstr "select a file to import"
+
+msgid "select a zip/csv/excel file (Max file size is %sMB)"
+msgstr "select a zip/csv/txt/excel file (Max file size is %sMB)"
+
+msgid "selection deleted"
+msgstr "selection deleted"
+
+msgid "selection settings"
+msgstr "selection settings"
+
+msgid "sendign performance"
+msgstr "sendign performance"
+
+msgid "sending date"
+msgstr "sending date"
+
+msgid "sending performance"
+msgstr "sending performance"
+
+msgid "sending the file, please wait..."
+msgstr "sending the file, please wait..."
+
+msgid "sending type"
+msgstr "sending type"
+
+msgid "sending types"
+msgstr "sending types"
+
+msgid "sent date"
+msgstr "sent date"
+
+msgctxt ""
+msgid "site"
+msgstr "site"
+
+msgid "size"
+msgstr "size"
+
+msgid "small (S)"
+msgstr "small (S)"
+
+msgid "sms"
+msgstr "text message"
+
+msgid "state"
+msgstr "state"
+
+msgid "statistics"
+msgstr "statistics"
+
+msgid "statistics for Email"
+msgstr "statistics for Email"
+
+msgid "statistics for Facebook"
+msgstr "statistics for Facebook"
+
+msgid "statistics for Mobile Site"
+msgstr "statistics for Mobile Site"
+
+msgid "statistics for SMS"
+msgstr "statistics for text message"
+
+msgid "statistics for Twitter"
+msgstr "statistics for Twitter"
+
+msgid "status"
+msgstr "status"
+
+msgid "step"
+msgstr "step"
+
+msgid "step cost"
+msgstr "step cost"
+
+msgid "step details for campaign"
+msgstr "step details for campaign"
+
+msgctxt ""
+msgid "step execution date"
+msgstr "step execution date"
+
+msgid "steps"
+msgstr "steps"
+
+msgid "stopped"
+msgstr "stopped"
+
+msgid "stopped_while_running"
+msgstr "stopped_while_running"
+
+msgid "structure"
+msgstr "structure"
+
+msgid "submit"
+msgstr "submit"
+
+msgid "submit and next"
+msgstr "submit and next"
+
+msgid "substitution"
+msgstr "priority mode"
+
+msgctxt ""
+msgid "Substitution mode"
+msgstr "priority mode"
+
+msgid "summary"
+msgstr "summary"
+
+msgid "surname is a required data."
+msgstr "surname is a required data."
+
+msgid "take off selection"
+msgstr "take off selection"
+
+msgid "temporary errors (soft bounces)"
+msgstr "temporary errors (soft bounces)"
+
+msgid "test the QR code for the mobile site being edited"
+msgstr "test the QR code for the mobile site being edited"
+
+msgid "test your message"
+msgstr "test your message"
+
+msgid "text"
+msgstr "text"
+
+msgctxt ""
+msgid ""
+"the QR code below is for testing your mible site only. It is available for "
+"15 minutes.You can get the final QR code by clicking the Download button. "
+"This final QR code will be functional as soon as the execution date of for "
+"this step will be reached."
+msgstr ""
+"the QR code below is for testing your mible site only. It is available for "
+"15 minutes.You can get the final QR code by clicking the Download button. "
+"This final QR code will be functional as soon as the execution date of for "
+"this step will be reached."
+
+msgctxt ""
+msgid ""
+"the QR code below is for testing your mible site only. It is available for "
+"15 minutes.You can get the final QR code by clicking the Download button. "
+"This final QR code will be functional as soon as the execution date of for "
+"this step will be reached."
+msgstr ""
+"the QR code below is for testing your mible site only. It is available for "
+"15 minutes.You can get the final QR code by clicking the Download button. "
+"This final QR code will be functional as soon as the execution date of for "
+"this step will be reached."
+
+msgid "the columns format for this file should be :"
+msgstr "the columns format for this file should be :"
+
+msgid "the contact on this page is selected"
+msgstr "the contact on this page is selected"
+
+msgid "the database"
+msgstr "the database"
+
+msgid "images bank"
+msgstr "images bank"
+
+msgid "the list"
+msgstr "the list"
+
+msgid "the login/password entered was wrong, please try again"
+msgstr "the login/password entered was wrong, please try again"
+
+msgid "the search"
+msgstr "the search"
+
+msgid "the user is updated"
+msgstr "the user is updated"
+
+msgid "the user was successfully updated"
+msgstr "the user was successfully updated"
+
+msgid "this option is not compatible with the customization of the sender"
+msgstr "This option is not compatible with the customization of the sender"
+
+msgid "this option is not compatible with the recovery of answers"
+msgstr "This option is not compatible with the recovery of answers"
+
+msgid "timezone"
+msgstr "timezone"
+
+msgctxt ""
+msgid "twitter"
+msgstr "twitter"
+
+msgctxt ""
+msgid "type"
+msgstr "type"
+
+msgid "unable to count contacts"
+msgstr "unable to count contacts"
+
+msgid "unavailable functionality"
+msgstr "unavailable functionality"
+
+msgid "undelivered messages"
+msgstr "undelivered messages"
+
+msgid "undelivred"
+msgstr "undelivred"
+
+msgid "unsubscribers"
+msgstr "unsubscribers"
+
+msgctxt ""
+msgid "update date"
+msgstr "update date"
+
+msgid "upload"
+msgstr "upload"
+
+msgid "upload a file"
+msgstr "upload a file"
+
+msgid "upload an image"
+msgstr "upload an image"
+
+msgid "url destination of the code"
+msgstr "url destination of the code"
+
+msgctxt ""
+msgid "user"
+msgstr "user"
+
+msgid "user deleted"
+msgstr "user deleted"
+
+msgid "user login"
+msgstr "user login"
+
+msgid "username:"
+msgstr "username:"
+
+msgid "users deleted"
+msgstr "users deleted"
+
+msgid "validating the file, please wait..."
+msgstr "validating the file, please wait..."
+
+msgid "value"
+msgstr "value"
+
+msgid "version"
+msgstr "version"
+
+msgid "very large (XL)"
+msgstr "very large (XL)"
+
+msgid "very small (XS)"
+msgstr "very small (XS)"
+
+msgid "visible"
+msgstr "visible"
+
+msgid "visit duration"
+msgstr "visit duration"
+
+msgid "visit statistics"
+msgstr "visit statistics"
+
+msgid "visited pages"
+msgstr "visited pages"
+
+msgid "visits"
+msgstr "visits"
+
+msgid "vocal"
+msgstr "voice"
+
+msgid "wait"
+msgstr "wait"
+
+msgid "warning"
+msgstr "warning"
+
+msgid "yes"
+msgstr "yes"
+
+msgid "you can choose to collect or not the answers of your contacts"
+msgstr "You can choose to collect or not the answers of your contacts"
+
+msgid ""
+"you can customize the sender name that will be displayed for your contacts "
+"by replacing the 5 digit number by your company's name"
+msgstr ""
+"You can customize the sender name that will be displayed for your contacts "
+"by replacing the 5 digit number by your company's name"
+
+msgid "your library"
+msgstr "your library"
+
+msgid "your list has been created"
+msgstr "your list has been created"
+
+msgctxt ""
+msgid "error: your list has not been created"
+msgstr "error: your list has not been created"
+
+msgctxt ""
+msgid "contact.warning"
+msgstr "warning"
+
+msgctxt ""
+msgid "Text Area"
+msgstr "Text Area"
+
+msgctxt ""
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "execution date"
+msgstr "execution date"
+
+msgid "execution date from"
+msgstr "execution date from"
+
+msgid "execution date until"
+msgstr "execution date until"
+
+msgid "campaign id"
+msgstr "campaign id"
+
+msgid "step id"
+msgstr "step id"
+
+msgctxt ""
+msgid "all users"
+msgstr "all users"
+
+msgctxt ""
+msgid "all contracts"
+msgstr "all contracts"
+
+msgctxt ""
+msgid "step execution date"
+msgstr "step execution date"
+
+msgid "start date"
+msgstr "start date"
+
+msgctxt ""
+msgid "user"
+msgstr "user"
+
+msgid "Campaigns"
+msgstr "Campaigns"
+
+msgid "List campaigns"
+msgstr "List campaigns"
+
+msgid "List messages"
+msgstr "List messages"
+
+msgid "zip code"
+msgstr "zip code"
+
+msgid "zipcode"
+msgstr "zipcode"
+
+msgid "please select a contact file to import"
+msgstr "please select a contact file to import"
+
+msgid "no file selected"
+msgstr "no file selected"
+
+#: désactivés
+msgid "opt out"
+msgstr "opt out"
+
+#: résactivés
+msgid "opt in"
+msgstr "opt in"
+
+msgid "Thank you for selecting at least one contact or contact list"
+msgstr "Thank you for selecting at least one contact or contact list"
+
+msgid "Thank you indicate your choice : optin or optout"
+msgstr "Thank you indicate your choice : optin or optout"
+
+msgid "detail of message distribution of type"
+msgstr "detail of message distribution of type"
+
+msgid "status for message"
+msgstr "status for message"
+
+msgid "all status"
+msgstr "all status"
+
+msgid "link name"
+msgstr "link name"
+
+msgid "reactivity ratio"
+msgstr "reactivity ratio"
+
+msgid "reactivity ratio = Number of clickers / Number of openers"
+msgstr "reactivity ratio = Number of clickers / Number of openers"
+
+msgid "percentages are computed based on the number of sent messages"
+msgstr "percentages are computed based on the number of sent messages"
+
+msgid "click details"
+msgstr "click details"
+
+msgid "dates"
+msgstr "dates"
+
+msgid "available soon"
+msgstr "available soon"
+
+msgid "Cannot open archive file"
+msgstr "Cannot open archive file"
+
+msgid "Cannot extract archive file, it must be valid"
+msgstr "Cannot extract archive file, it must be valid"
+
+msgid "Cannot use a Zip archive which contain more than one html file"
+msgstr "Cannot use a Zip archive which contain more than one html file"
+
+msgid ""
+"Cannot load content of temporary file:\"Impossible d'acceder au repertoire "
+"temporaire\""
+msgstr ""
+
+msgid "Error uploading image into baseo library"
+msgstr "Error uploading image into baseo library"
+
+msgid "No uploaded file to process"
+msgstr "No uploaded file to process"
+
+msgid "To be removed of our broadcast list, you can"
+msgstr "To be removed of our broadcast list, you can"
+
+msgid "Click here to unsubscribe"
+msgstr "Click here to unsubscribe"
+
+msgid "unsubscribe"
+msgstr "unsubscribe"
+
+msgid "import a file"
+msgstr "import a file"
+
+msgid "Select a HTML or a Zip file to import"
+msgstr "Select a HTML or a Zip file to import"
+
+msgid "sending details"
+msgstr "sending details"
+
+msgid "new user for contract"
+msgstr "new user for contract"
+
+msgid "contract manager for network"
+msgstr "contract manager for network"
+
+msgid "cannot optin your selection"
+msgstr "cannot optin your selection"
+
+msgid "cannot optout your selection"
+msgstr "cannot optout your selection"
+
+msgid "your selection is now optin"
+msgstr "your selection is now optin"
+
+msgid "your selection is now optout"
+msgstr "your selection is now optout"
+
+msgid "estimate"
+msgstr "estimate"
+
+msgid "list of restrictions type"
+msgstr "list of restrictions type"
+
+msgctxt ""
+msgid "type"
+msgstr "type"
+
+msgctxt ""
+msgid "description"
+msgstr "description"
+
+msgid "from"
+msgstr "from"
+
+msgid "to"
+msgstr "to"
+
+msgid "threshold limit"
+msgstr "threshold limit"
+
+msgid "threshold mail"
+msgstr "threshold mail"
+
+msgid "threshold mail subject"
+msgstr "threshold mail subject"
+
+msgid "threshold mail text"
+msgstr "threshold mail text"
+
+msgid "threshold mail Html"
+msgstr "threshold mail Html"
+
+msgid "empty mail"
+msgstr "empty mail"
+
+msgid "empty mail subject"
+msgstr "empty mail subject"
+
+msgid "empty mail text"
+msgstr "empty mail text"
+
+msgid "empty mail Html"
+msgstr "empty mail Html"
+
+msgid "new restriction type"
+msgstr "new restriction type"
+
+msgid "edit restriction type"
+msgstr "edit restriction type"
+
+msgid "restriction type"
+msgstr "restriction type"
+
+msgid "add restriction type"
+msgstr "add restriction type"
+
+msgid "created date"
+msgstr "created date"
+
+msgctxt ""
+msgid "update date"
+msgstr "update date"
+
+msgid "email alerte"
+msgstr "email alerte"
+
+msgctxt ""
+msgid "site"
+msgstr "site"
+
+msgctxt ""
+msgid "twitter"
+msgstr "twitter"
+
+msgctxt ""
+msgid "facebook"
+msgstr "facebook"
+
+msgid "Campaign stats"
+msgstr "Campaign stats"
+
+msgid "libraries"
+msgstr "libraries"
+
+msgid "library.personal"
+msgstr "personal library"
+
+msgid "library.manager"
+msgstr "manager"
+
+msgid "Fast creation"
+msgstr "Fast creation"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "User"
+msgstr "User"
+
+msgid "Validation"
+msgstr "Validation"
+
+msgid "Sector"
+msgstr "Sector"
+
+msgid "Company"
+msgstr "Company"
+
+msgid "First name"
+msgstr "First name"
+
+msgid "Mobile phone"
+msgstr "Mobile phone"
+
+msgid "Sending identifier"
+msgstr "Sending identifier"
+
+msgid "Direct access to the product"
+msgstr "Direct access to the product"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "at least, one contact mean must be specified"
+msgstr "at least, one contact mean must be specified"
+
+msgid "account has been created"
+msgstr "account has been created"
+
+msgid "account was not created"
+msgstr "account was not created"
+
+msgid "offline"
+msgstr "offline"
+
+msgid "contact added"
+msgstr "contact added"
+
+msgid "contact updated"
+msgstr "contact updated"
+
+msgid "build_in_progress"
+msgstr "build_in_progress"
+
+msgid "build_done"
+msgstr "build_done"
+
+msgid "campaign cancelled"
+msgstr "campaign cancelled"
+
+msgid "Contract has been saved with success"
+msgstr "Contract has been saved with success"
+
+msgid "Error : Parameter reset format is invalid"
+msgstr "Error : Parameter reset format is invalid"
+
+msgid "Error : Some fields must not be empty"
+msgstr "Error : Some fields must not be empty"
+
+msgid "Error : please select a media"
+msgstr "Error : please select a media"
+
+msgid "email alert"
+msgstr "email alert"
+
+msgid "custom value"
+msgstr "custom value"
+
+msgid "suspended"
+msgstr "suspended"
+
+msgid "date expired"
+msgstr "date expired"
+
+msgid ""
+"the QR code below is for testing your mobile site only. It is available for "
+"15 minutes.You can get the final QR code by clicking the 'Download' button. "
+"This final QR code will be functional as soon as the execution date of for "
+"this step will be reached."
+msgstr ""
+"the QR code below is for testing your mobile site only. It is available for "
+"15 minutes.You can get the final QR code by clicking the 'Download' button. "
+"This final QR code will be functional as soon as the execution date of for "
+"this step will be reached."
+
+msgid "unknow error"
+msgstr "unknow error"
+
+msgid "an unexpected error has occured"
+msgstr "an unexpected error has occured"
+
+msgid "incorrect extension"
+msgstr "incorrect extension"
+
+msgid "please select a file in zip, csv or excel format"
+msgstr "please select a file in zip, csv, txt or Excel format"
+
+msgid "incorrect filesize"
+msgstr "incorrect filesize"
+
+msgid "please select a smaller file"
+msgstr "please select a smaller file"
+
+msgid "latest network campaigns"
+msgstr "latest network campaigns"
+
+msgid "affiliate"
+msgstr "affiliate"
+
+msgctxt ""
+msgid "channels"
+msgstr "channels"
+
+msgid "all network campaigns"
+msgstr "all network campaigns"
+
+msgid "Create a new campaign with this list"
+msgstr "Create a new campaign with this list"
+
+msgid "headers haven't been successfully recognized."
+msgstr "headers haven't been successfully recognized."
+
+msgid "column name awaited"
+msgstr "column name awaited"
+
+msgid "column name found"
+msgstr "column name found"
+
+msgid "display errors"
+msgstr "display errors"
+
+msgid "affiliate main network"
+msgstr "affiliate main network"
+
+msgid "affiliated to"
+msgstr "affiliated to"
+
+msgid "network manager"
+msgstr "network manager"
+
+msgid "add note"
+msgstr "add note"
+
+msgid "starting"
+msgstr "starting"
+
+msgid "ending"
+msgstr "ending"
+
+msgid "value required"
+msgstr "value required"
+
+msgid "cannot display note"
+msgstr "cannot display note"
+
+msgid "unable to create note"
+msgstr "unable to create note"
+
+msgid "note was successfully created"
+msgstr "note was successfully created"
+
+msgid "unable to update note"
+msgstr "unable to update note"
+
+msgid "note was successfully updated"
+msgstr "note was successfully updated"
+
+msgid "select networks"
+msgstr "select networks"
+
+msgid "keep [ctrl] pressed for multiselect"
+msgstr "keep [ctrl] pressed for multiselect"
+
+msgid "Specify a retriction in media tab"
+msgstr "Specify a retriction in media tab"
+
+msgid "my network messages"
+msgstr "my network messages"
+
+msgid "no message"
+msgstr "no message"
+
+msgid "cannot duplicate note"
+msgstr "cannot duplicate note"
+
+msgid "note was successfully duplicated"
+msgstr "note was successfully duplicated"
+
+msgid "publication date must be inferior to expiration date"
+msgstr "publication date must be inferior to expiration date"
+
+msgid "create a new note"
+msgstr "create a new note"
+
+msgid "cancel note"
+msgstr "cancel note"
+
+msgid "cannot cancel note"
+msgstr "cannot cancel note"
+
+msgid "note was successfully deleted"
+msgstr "note was successfully deleted"
+
+msgid "note was successfully canceled"
+msgstr "note was successfully canceled"
+
+msgid "Edit note"
+msgstr "Edit note"
+
+msgid "Duplicate note"
+msgstr "Duplicate note"
+
+msgid "Delete note"
+msgstr "Delete note"
+
+msgid "Cancel note"
+msgstr "Cancel note"
+
+msgid "expired"
+msgstr "expired"
+
+msgid "published"
+msgstr "published"
+
+msgid "number of campaigns"
+msgstr "number of campaigns"
+
+msgctxt ""
+msgid "channels"
+msgstr "channels"
+
+msgid "My network"
+msgstr "My network"
+
+msgid "my affiliates groups"
+msgstr "my affiliates groups"
+
+msgid "Edit affiliates group"
+msgstr "Edit affiliates group"
+
+msgid "edit affiliates group"
+msgstr "edit affiliates group"
+
+msgid "delete affiliates group"
+msgstr "delete affiliates group"
+
+msgid "affiliates group"
+msgstr "affiliates group"
+
+msgid "group name"
+msgstr "group name"
+
+msgid "affiliates group deleted"
+msgstr "affiliates group deleted"
+
+msgid "could not delete the affiliates group"
+msgstr "could not delete the affiliates group"
+
+msgid "add affiliates group"
+msgstr "add affiliates group"
+
+msgid "group affiliates"
+msgstr "group affiliates"
+
+msgid "origin"
+msgstr "origin"
+
+msgid "Channels"
+msgstr "Channels"
+
+msgid "No contact geolocated"
+msgstr "No contact geolocated"
+
+msgid "could not update list name"
+msgstr "could not update list name"
+
+msgid "bad id"
+msgstr "bad id"
+
+msgid "could not update list"
+msgstr "could not update list"
+
+msgid "validate"
+msgstr "validate"
+
+msgid "Step is scheduled to be sent : no statistic available"
+msgstr "Step is scheduled to be sent : no statistic available"
+
+msgid ""
+"Running messages means they are sent but their delivery status has not been "
+"notified yet"
+msgstr ""
+"Running messages means they are sent but their delivery status has not been "
+"notified yet"
+
+msgid "latest network users"
+msgstr "latest network users"
+
+msgid "all network users"
+msgstr "all network users"
+
+msgid "my messages to the network"
+msgstr "my messages to the network"
+
+msgid "number of uses"
+msgstr "number of uses"
+
+msgid "model"
+msgstr "model"
+
+msgid "latest campaign models"
+msgstr "latest campaign models"
+
+msgid "all campaign models"
+msgstr "all campaign models"
+
+msgid "Simple characters"
+msgstr "Simple characters"
+
+msgid ""
+"The following characters use two spaces, please leave sufficient space at "
+"the end of your text :"
+msgstr ""
+"The following characters use two spaces, please leave sufficient space at "
+"the end of your text :"
+
+msgid "The following characters will be modified during transmission :"
+msgstr "The following characters will be modified during transmission :"
+
+msgid "e with accent"
+msgstr "e with accent"
+
+msgid "Number"
+msgstr "Number"
+
+msgid "at"
+msgstr "at"
+
+msgid "attached o and e"
+msgstr "attached o and e"
+
+msgid "Reverse accent"
+msgstr "Reverse accent"
+
+msgid "apostrophe"
+msgstr "apostrophe"
+
+msgid "3 dots &nbsp;Three dots &nbsp;'…'&nbsp;use three characters&nbsp;'...'"
+msgstr "3 dots &nbsp;Three dots &nbsp;'…'&nbsp;use three characters&nbsp;'...'"
+
+msgid "Characters which are not listed below, will be deleted"
+msgstr "Characters which are not listed below, will be deleted"
+
+msgid "Copy/paste from an external tool may cause dysfunctions when sending."
+msgstr "Copy/paste from an external tool may cause dysfunctions when sending."
+
+msgid "your contract manage no network"
+msgstr "your contract manage no network"
+
+msgid "My templates"
+msgstr "My templates"
+
+msgid "my campaign templates"
+msgstr "my campaign templates"
+
+msgid "campaign templates"
+msgstr "campaign templates"
+
+msgid "list of affiliates"
+msgstr "list of affiliates"
+
+msgid "details of the campaign template"
+msgstr "details of the campaign template"
+
+msgid "name your template"
+msgstr "name your template"
+
+msgid "create a new campaign from template"
+msgstr "create a new campaign from template"
+
+msgid "no campaign template"
+msgstr "no campaign template"
+
+msgid "Edit template"
+msgstr "Edit template"
+
+msgid "create a new campaign with this template"
+msgstr "create a new campaign with this template"
+
+msgid "Cancel campaign"
+msgstr "Cancel campaign"
+
+msgid "Duplicate template"
+msgstr "Duplicate template"
+
+msgctxt ""
+msgid "Delete step"
+msgstr "Delete step"
+
+msgid "available campaign templates"
+msgstr "available campaign templates"
+
+msgid "template was successfully duplicated"
+msgstr "template was successfully duplicated"
+
+msgid "campaign was successfully created"
+msgstr "campaign was successfully created"
+
+msgid "cannot create campaign template"
+msgstr "cannot create campaign template"
+
+msgid "cannot display campaign template without a valid identifier"
+msgstr "cannot display campaign template without a valid identifier"
+
+msgid "campaign template not found"
+msgstr " \"le modèle de campagne n'a pas été trouvé\""
+
+msgid "cannot create step"
+msgstr "cannot create step"
+
+msgid "cannot delete step without valid identifier"
+msgstr "cannot delete step without valid identifier"
+
+msgid "step not found"
+msgstr "step not found"
+
+msgid "cannot delete step belonging to invalid template"
+msgstr "cannot delete step belonging to invalid template"
+
+msgid "cannot delete step if not in edit mode"
+msgstr "cannot delete step if not in edit mode"
+
+msgid "the step is deleted"
+msgstr "the step is deleted"
+
+msgctxt ""
+msgid "cannot create campaign"
+msgstr "cannot create campaign"
+
+msgid "cannot create template"
+msgstr "cannot create template"
+
+msgctxt ""
+msgid "new campaign template"
+msgstr "new campaign template"
+
+msgid "messages from the network"
+msgstr "messages from the network"
+
+msgid "create a new campaign template"
+msgstr "create a new campaign template"
+
+msgid "template"
+msgstr "template"
+
+msgid "campaign-stats"
+msgstr "campaign-stats"
+
+msgctxt ""
+msgid "complete export"
+msgstr "complete export"
+
+msgctxt ""
+msgid "export pdf"
+msgstr "export pdf"
+
+msgid "back to the list of affiliates"
+msgstr "back to the list of affiliates"
+
+msgid "View affiliate campaigns"
+msgstr "View affiliate campaigns"
+
+msgctxt ""
+msgid "new campaign template"
+msgstr "new campaign template"
+
+msgid "publication start date"
+msgstr "publication start date"
+
+msgid "publication end date"
+msgstr "publication end date"
+
+msgid "validity duration"
+msgstr "validity duration"
+
+msgid "template.editing"
+msgstr "template.editing"
+
+msgid "template.confirmed"
+msgstr "template.confirmed"
+
+msgid "template.ended"
+msgstr "template.ended"
+
+msgid "cannot confirm template"
+msgstr "cannot confirm template"
+
+msgid "unlimited"
+msgstr "unlimited"
+
+msgid "my group"
+msgstr "my group"
+
+msgid "available affiliates"
+msgstr "available affiliates"
+
+msgctxt ""
+msgid "complete export"
+msgstr "complete export"
+
+msgctxt ""
+msgid "export pdf"
+msgstr "export pdf"
+
+msgid "help on page"
+msgstr "help on page"
+
+msgid "What is sending type ?"
+msgstr "What is sending type ?"
+
+msgctxt ""
+msgid "Substitution mode"
+msgstr "Substitution mode"
+
+msgid ""
+"Option you can use to define an order preference for your messages. It allow "
+"the product to use contacts data to send only one message to each contact. "
+"If channel one is SMS, channel two is Email, contacts that contains Email "
+"and SMS data will recieve only a SMS."
+msgstr ""
+"Option you can use to define an order preference for your messages. It allow "
+"the product to use contacts data to send only one message to each contact. "
+"If channel one is text message, channel two is Email, contacts that contains "
+"Email and text message data will recieve only a text message."
+
+msgctxt ""
+msgid "Multichannel mode"
+msgstr "Multichannel mode"
+
+msgid ""
+"Option you can use to send your message with chosen channels, to all the "
+"contacts of your selected list."
+msgstr ""
+"Option you can use to send your message with chosen channels, to all the "
+"contacts of your selected list."
+
+msgid "create list from these contacts"
+msgstr "create list from these contacts"
+
+msgid "list '%s' created"
+msgstr "list '%s' created"
+
+msgid "no contacts found for this media"
+msgstr "no contacts found for this media"
+
+msgid "stats empty for this media"
+msgstr "stats empty for this media"
+
+msgid "error while reading stats"
+msgstr "error while reading stats"
+
+msgid "error creating contacts list, parameter missing"
+msgstr "error creating contacts list, parameter missing"
+
+msgid "Create a contact list with existing contacts from a campaign"
+msgstr "Create a contact list with existing contacts from a campaign"
+
+msgid "error while creating list"
+msgstr "error while creating list"
+
+msgid "no contacts found"
+msgstr "no contacts found"
+
+msgid "list name should not be empty"
+msgstr "list name should not be empty"
+
+msgid "first name"
+msgstr "first name"
+
+msgid "last name"
+msgstr "last name"
+
+msgid "maximum size"
+msgstr "maximum size"
+
+msgid "maximum height"
+msgstr "maximum height"
+
+msgid "maximum width"
+msgstr "maximum width"
+
+msgid "W x H"
+msgstr "W x H"
+
+msgid "Cancel template"
+msgstr "Cancel template"
+
+msgid "cannot cancel template"
+msgstr "cannot cancel template"
+
+msgid "template was successfully canceled"
+msgstr "template was successfully canceled"
+
+msgid "cannot cancel not confirmed template"
+msgstr "cannot cancel not confirmed template"
+
+msgid "templates.editing"
+msgstr "templates.editing"
+
+msgid "templates.confirmed"
+msgstr "templates.confirmed"
+
+msgid "templates.ended"
+msgstr "templates.ended"
+
+msgid "disable unavailable channels"
+msgstr "disable unavailable channels"
+
+msgid "display options for media channels"
+msgstr "display options for media channels"
+
+msgid "my affiliates"
+msgstr "my affiliates"
+
+msgid "lists"
+msgstr "lists"
+
+msgid "done"
+msgstr "done"
+
+msgid "no images found"
+msgstr "no images found"
+
+msgid "all affiliates"
+msgstr "all affiliates"
+
+msgid "Cannot share template to this affiliate group."
+msgstr "Cannot share template to this affiliate group."
+
+msgid "make available"
+msgstr "make available"
+
+msgid "share with"
+msgstr "share with"
+
+msgid "select a list"
+msgstr "select a list"
+
+msgid "list affiliates"
+msgstr "list affiliates"
+
+msgid "legend"
+msgstr "legend"
+
+msgid "role"
+msgstr "role"
+
+msgid "simple contract"
+msgstr "simple contract"
+
+msgid "offer"
+msgstr "offer"
+
+msgid "Free search (contract name, city, ...)"
+msgstr "Free search (contract name, city, ...)"
+
+msgid "If this newsletter is not displayed properly, please click"
+msgstr "If this newsletter is not displayed properly, please click"
+
+msgid "here"
+msgstr "here"
+
+msgid "Are you sure to want to cancel the campaign template?"
+msgstr "Are you sure to want to cancel the campaign template?"
+
+msgid "My messages"
+msgstr "My messages"
+
+msgid "last affiliates"
+msgstr "last affiliates"
+
+msgid "network contacts distribution per channel"
+msgstr "network contacts distribution per channel"
+
+msgid "select a channel and configure the campaign template"
+msgstr "select a channel and configure the campaign template"
+
+msgid ""
+"The campaign template will be available when the publication start date is "
+"reached. After this confirmation, the selected group of affiliates can no "
+"longer be modified."
+msgstr ""
+"The campaign template will be available when the publication start date is "
+"reached. After this confirmation, the selected group of affiliates can no "
+"longer be modified."
+
+msgid ""
+"The message template will be available when the publication start date is "
+"reached. After this confirmation, the sharing adressee can no longer be "
+"modified."
+msgstr ""
+"The message template will be available when the publication start date is "
+"reached. After this confirmation, the sharing adressee can no longer be "
+"modified."
+
+msgid "network campaigns"
+msgstr "network campaigns"
+
+msgid "draft"
+msgstr "draft"
+
+msgid "all my network"
+msgstr "all my network"
+
+msgid "finished"
+msgstr "finished"
+
+msgid "advices"
+msgstr "advices"
+
+msgid "unicity.label"
+msgstr "unicity.label"
+
+msgid "Contact already exist"
+msgstr "Contact already exist"
+
+msgid "campaigns"
+msgstr "campaigns"
+
+msgid "Template statistics"
+msgstr "Template statistics"
+
+msgid "summary of campaigns"
+msgstr "summary of campaigns"
+
+msgid "performance of campaigns"
+msgstr "performance of campaigns"
+
+msgid "show campaigns for affiliate"
+msgstr "show campaigns for affiliate"
+
+msgid "validity of your campaign template"
+msgstr "validity of your campaign template"
+
+msgid "validity start"
+msgstr "validity start"
+
+msgid "validity end"
+msgstr "validity end"
+
+msgid "campaigns using the template"
+msgstr "campaigns using the template"
+
+msgid "statistics for the campaign template"
+msgstr "statistics for the campaign template"
+
+msgctxt ""
+msgid "memo"
+msgstr "memo"
+
+msgid "sending statistics"
+msgstr "sending statistics"
+
+msgid "Thank you for selecting at least one contact"
+msgstr "Thank you for selecting at least one contact"
+
+msgid "Thank you for selecting at least one list"
+msgstr "Thank you for selecting at least one list"
+
+msgid "Thank you for selecting at least two lists"
+msgstr "Thank you for selecting at least two lists"
+
+msgctxt ""
+msgid "suspend the contract"
+msgstr "suspend the contract"
+
+msgctxt ""
+msgid "reactivate the contract"
+msgstr "reactivate the contract"
+
+msgctxt ""
+msgid "suspend the contract"
+msgstr "suspend the contract"
+
+msgctxt ""
+msgid "reactivate the contract"
+msgstr "reactivate the contract"
+
+msgid "an error has occurred while contract update, operation cancelled"
+msgstr "an error has occurred while contract update, operation cancelled"
+
+msgid ""
+"the contract is updated but the ecoSms associated account cannot be updated, "
+"please contact the support"
+msgstr ""
+"the contract is updated but the ecoSms associated account cannot be updated, "
+"please contact the support"
+
+msgid "campaign template name"
+msgstr "campaign template name"
+
+msgid "voice"
+msgstr "voice"
+
+msgid "campaign-template-stats"
+msgstr "campaign-template-stats"
+
+msgid "messages detail"
+msgstr "messages detail"
+
+msgid "flag"
+msgstr "flag"
+
+msgid "edit parameters"
+msgstr "edit parameters"
+
+msgid "last access"
+msgstr "last access"
+
+msgid "Free search(name, firstname, login, email)"
+msgstr "Free search(name, firstname, login, email)"
+
+msgid "could not add parameter"
+msgstr "could not add parameter"
+
+msgid "parameter added"
+msgstr "parameter added"
+
+msgid "cannot edit a shared campaign template"
+msgstr "cannot edit a shared campaign template"
+
+msgid "all campaigns using this template"
+msgstr "all campaigns using this template"
+
+msgid "shared with"
+msgstr "shared with"
+
+msgid "cannot delete campaign template with invalid identifier"
+msgstr "cannot delete campaign template with invalid identifier"
+
+msgid "campaign template deleted"
+msgstr "campaign template deleted"
+
+msgid "Delete campaign template"
+msgstr "Delete campaign template"
+
+msgid "Are you sure to want to delete this campaign template?"
+msgstr "Are you sure to want to delete this campaign template?"
+
+msgctxt ""
+msgid "filled forms"
+msgstr "filled forms"
+
+msgid "invalid list of contacts"
+msgstr "invalid list of contacts"
+
+msgid "channels usage"
+msgstr "channels usage"
+
+msgid "please confirm before continuing"
+msgstr "please confirm before continuing"
+
+msgctxt ""
+msgid "back"
+msgstr "back"
+
+msgctxt ""
+msgid "filled forms"
+msgstr "filled forms"
+
+msgid "suspend"
+msgstr "suspend"
+
+msgid "reactivate"
+msgstr "reactivate"
+
+msgid "are you sure to want to reactivate this contract?"
+msgstr "are you sure to want to reactivate this contract?"
+
+msgid "are you sure to want to suspend this contract?"
+msgstr "are you sure to want to suspend this contract?"
+
+msgid "could not create a new note"
+msgstr "could not create a new note"
+
+msgid "could not update the note"
+msgstr "could not update the note"
+
+msgctxt ""
+msgid "filled forms"
+msgstr "filled forms"
+
+msgctxt ""
+msgid "memo"
+msgstr "memo"
+
+msgid "email notification"
+msgstr "email notification"
+
+msgid "affiliation date"
+msgstr "affiliation date"
+
+msgid "recipient"
+msgstr "recipient"
+
+msgid "define as a template"
+msgstr "define as a template"
+
+msgid ""
+"A copy of the current message will be used to create a new model. You can "
+"retrieve it from your model library."
+msgstr ""
+"A copy of the current message will be used to create a new model. You can "
+"retrieve it from your model library."
+
+msgid "save as model"
+msgstr "save as model"
+
+msgid "tags"
+msgstr "tags"
+
+msgid "Tags *"
+msgstr "Tags *"
+
+msgid "* (comma separated)"
+msgstr "* (comma separated)"
+
+msgid "No template found for this media"
+msgstr "No template found for this media"
+
+msgid "deleted contract"
+msgstr "deleted contract"
+
+msgid "Deleted contracts"
+msgstr "Deleted contracts"
+
+msgid "warning this contract is deleted"
+msgstr "warning this contract is deleted"
+
+msgid "cannot delete contract with invalid identifier"
+msgstr "cannot delete contract with invalid identifier"
+
+msgid "cannot reactive contract with invalid identifier"
+msgstr "cannot reactive contract with invalid identifier"
+
+msgid "contract reactivated"
+msgstr "contract reactivated"
+
+msgid "contract not reactivated"
+msgstr "contract not reactivated"
+
+msgid "Deleted"
+msgstr "Deleted"
+
+msgid "user added"
+msgstr "user added"
+
+msgid "cannot add user with invalid contract"
+msgstr "cannot add user with invalid contract"
+
+msgid "bad characters in name"
+msgstr "bad characters in name"
+
+msgid "the name must be in camel case"
+msgstr "the name must be in camel case"
+
+msgid "be explicit in the description"
+msgstr "be explicit in the description"
+
+msgid "recipients detail"
+msgstr "recipients detail"
+
+msgid "New contract"
+msgstr "New contract"
+
+msgid "Deleted networks"
+msgstr "Deleted networks"
+
+msgid "all roles"
+msgstr "all roles"
+
+msgid "all networks"
+msgstr "all networks"
+
+msgid "no name user"
+msgstr "no name user"
+
+msgid "list of  messages"
+msgstr "list of  messages"
+
+msgid "list of Sms messages"
+msgstr "list of text messages"
+
+msgid "list of Email messages"
+msgstr "list of Email messages"
+
+msgid "list of Site messages"
+msgstr "list of Site messages"
+
+msgid "add new email"
+msgstr "add new email"
+
+msgid "add new sms"
+msgstr "add new text message"
+
+msgid "add new "
+msgstr "add new "
+
+msgid "campaigns list"
+msgstr "campaigns list"
+
+msgid "messages list"
+msgstr "messages list"
+
+msgid "get the qrcode"
+msgstr "get the qrcode"
+
+msgid "get link / qrcode"
+msgstr "get link / qrcode"
+
+msgid "Link to mobile site"
+msgstr "Link to Smartpage"
+
+msgid "custom fields"
+msgstr "custom fields"
+
+msgid "contractual"
+msgstr "contractual"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Signature"
+msgstr "Signature"
+
+msgid "Commercial name"
+msgstr "Commercial name"
+
+msgid "Commercial address"
+msgstr "Commercial address"
+
+msgid "CONTRACT-FIELDS"
+msgstr "Contract's fields"
+
+msgid "contractLogo"
+msgstr "Your logo"
+
+msgid "contractSignature"
+msgstr "Your sign"
+
+msgid "contractName"
+msgstr "Your name"
+
+msgid "contractPhone"
+msgstr "Your phone number"
+
+msgid "contractAddress"
+msgstr "Your address"
+
+msgid "specify a name for the new list"
+msgstr "specify a name for the new list"
+
+msgid "(optionnal) default name : List YYYY-MM-DD"
+msgstr "(optionnal) default name : List YYYY-MM-DD"
+
+msgid "feature"
+msgstr "feature"
+
+msgid "personalSetting"
+msgstr "personalSetting"
+
+msgid "template definition"
+msgstr "template definition"
+
+msgid "do you really want to overwrite parameters with network"
+msgstr "do you really want to overwrite parameters with network"
+
+msgid "inherits parameters"
+msgstr "inherits parameters"
+
+msgid "inherits config from network"
+msgstr "inherits config from network"
+
+msgid "unlock baseo"
+msgstr "unlock baseo"
+
+msgid "template successfully created"
+msgstr "template successfully created"
+
+msgid ""
+"Parameter At least one of those properties is required: email, phone, "
+"mobile, facebookId, twitterId"
+msgstr "At least one of these fields must be filled: email, phone, mobile"
+
+msgid "Parameter"
+msgstr "Field error"
+
+msgid "audio content"
+msgstr "audio content"
+
+msgid "media_sms"
+msgstr "text message"
+
+msgid "media_email"
+msgstr "email"
+
+msgid "media_voice"
+msgstr "voice"
+
+msgid "media_voicemail"
+msgstr "voice mail"
+
+msgid "voicemail-short"
+msgstr "Voicemail"
+
+msgid "MEDIA_SMS"
+msgstr "Text message"
+
+msgid "MEDIA_VOCAL"
+msgstr "Voice"
+
+msgid "MEDIA_EMAIL"
+msgstr "Email"
+
+msgid "MEDIA_VOICEMAIL"
+msgstr "Voicemail"
+
+msgid "campaign.type.name.standard"
+msgstr "Standard campaign"
+
+msgid "campaign.type.description.standard"
+msgstr "Create a standard marketing campaign based on push and social canals"
+
+msgid "campaign.type.name.automatic"
+msgstr "Automated campaign"
+
+msgid "campaign.type.description.automatic"
+msgstr ""
+"Create automated campaign to keep in touch with you customers for special "
+"events (birthday, reminders...)"
+
+msgid "campaign.type.name.network"
+msgstr "Network campaign"
+
+msgid "campaign.type.description.network"
+msgstr "Create your marketing campaign based on your brand styling policy"
+
+msgid "Automatic.sending hour "
+msgstr "Scheduled time"
+
+msgid "Automatic.options"
+msgstr ""
+
+msgid "automatic.automation"
+msgstr "options"
+
+msgid "Automatic.options for automatic campaigns"
+msgstr "Automation options"
+
+msgid " Automatic.sunday"
+msgstr "Sunday"
+
+msgid "Automatic.messages"
+msgstr "Messages"
+
+msgid "automatic.every year"
+msgstr "Every year"
+
+msgid "automatic.every month"
+msgstr "Every month"
+
+msgid "automatic.of the contact"
+msgstr "of every contacts"
+
+msgid " automatic.days before the date on the field"
+msgstr "days before the date contained in the field"
+
+msgid "Automatic.messages must be sent"
+msgstr "Messages must be sent"
+
+msgid "Automatic.sunday messages must be sent on saturday. "
+msgstr "Sunday's messages must be sent on saturday"
+
+msgid "content.all templates"
+msgstr "All categories"
+
+msgid "content.mine"
+msgstr "Mine"
+
+msgid "content.neutral"
+msgstr "Neutral"
+
+msgid "content.responsive"
+msgstr "Responsive"
+
+msgid "content.agencies"
+msgstr "Agencies"
+
+msgid "content.software"
+msgstr "Software"
+
+msgid "content.automotive"
+msgstr "Automotive"
+
+msgid "content.education"
+msgstr "Education"
+
+msgid "content.employment"
+msgstr "Employment"
+
+msgid "content.training"
+msgstr "Training"
+
+msgid "content.supermarket"
+msgstr "Supermarket"
+
+msgid "content.retail"
+msgstr "Retail"
+
+msgid "content.beauty"
+msgstr "Beauty"
+
+msgid "content.health"
+msgstr "Health"
+
+msgid "content.hotel"
+msgstr "Hotel"
+
+msgid "content.food"
+msgstr "Food"
+
+msgid "content.real estate"
+msgstr "Real estate"
+
+msgid "content.entertainment"
+msgstr "Entertainment"
+
+msgid "content.holidays"
+msgstr "Holydays"
+
+msgid "content.services"
+msgstr "Services"
+
+msgid "Save (nom)"
+msgstr "save"
+
+msgid "Personnaliser l'expéditeur "
+msgstr "Customise sender"
+
+msgid "Récupérer les réponses aux SMS"
+msgstr "Get text responses"
+
+msgid "My templates : "
+msgstr "My templates: "
+
+msgid "Télécharger le fichier d'erreurs d'import"
+msgstr "Download errors file"
+
+msgid "Renommer la liste"
+msgstr "Rename contact list"
+
+msgid "Ajouter aux favoris"
+msgstr "Add to bookmarks"
+
+msgid "Déconnexion"
+msgstr "Logout"
+
+msgid "Aucun fichier sélectionné"
+msgstr "No file selected"
+
+msgid "Parcourir"
+msgstr "Browse"
+
+msgctxt ""
+msgid "legal.mentions.text"
+msgstr ""
+"This entire site is covered by French and international legislation on "
+"copyright and intellectual property. All reproduction rights are reserved, "
+"including downloadable documents, iconographic and photographic "
+"representations. Reproduction of all or part of this site on any medium is "
+"strictly prohibited without written authorization from the company "
+"Digitaleo. All trademarks in this site are registered with the specialized "
+"agencies, on behalf of Digitaleo."
+
+msgctxt ""
+msgid "filter.notempty"
+msgstr "is not empty"
+
+msgctxt ""
+msgid "filter.reset"
+msgstr "Reset"
+
+msgid "Filter.search"
+msgstr "Search"
+
+msgid "media.available.0"
+msgstr "media not set"
+
+msgid "media.available.1"
+msgstr "media available"
+
+msgid "media.available.-1"
+msgstr "Optout data"
+
+msgid "media.available.-2"
+msgstr "Desactivated contact, click to reactivate"
+
+msgid " Library.fotolia"
+msgstr "Stock photos"
+
+msgid "Chosissez une liste"
+msgstr "Select a list"
+
+msgid "Digitaleo.mail"
+msgstr "contact@digitaleo.com"
+
+msgid "Digitaleo.phone"
+msgstr "+33 2 56 03 67 00"
+
+msgid "Etape"
+msgstr "Step"
+
+msgid "Export pdf"
+msgstr "PDF export"
+
+msgid "Tester votre message"
+msgstr "tester votre message"
+
+msgid "get a quote"
+msgstr "get a quote"
+
+msgid "select list"
+msgstr "select list"
+
+msgid "Civilité"
+msgstr "Civility"
+
+msgid "Prénom"
+msgstr "Firstname"
+
+msgid "Nom"
+msgstr "Lastname"
+
+msgid "Téléphone Fixe"
+msgstr "Phone"
+
+msgid "Adresse 1"
+msgstr "Address1"
+
+msgid "Adresse 2"
+msgstr "Address2"
+
+msgid "Code postal"
+msgstr "Post code"
+
+msgid "Ville"
+msgstr "City"
+
+msgid "Etat"
+msgstr "State"
+
+msgid "Pays"
+msgstr "Country"
+
+msgid "Date de naissance"
+msgstr "Birthdate"
+
+msgid "Société"
+msgstr "Company"
+
+msgid "Référence"
+msgstr "Reference"
+
+msgid "remote-control"
+msgstr "remote control"
+
+msgid "allow Digitaleo access my account"
+msgstr "allow Digitaleo access my account"
+
+msgid "admin username:"
+msgstr "admin username:"
+
+msgid "admin password:"
+msgstr "admin password:"
+
+msgid "user username:"
+msgstr "user username:"
+
+msgid ""
+"the user login entered was wrong or remote access not allowed, please try "
+"again"
+msgstr ""
+"the user login entered was wrong or remote access not allowed, please try "
+"again"
+
+msgid "characters or"
+msgstr "characters /"
+
+msgid "characters"
+msgstr "characters"
+
+msgid "site mobile"
+msgstr "smartpage"
+
+msgid "library.fotolia"
+msgstr "stock photos"
+
+msgid "voicemail"
+msgstr "voicemail"
+
+msgid "filter.optout.all"
+msgstr "is deactivated (all reasons)"
+
+msgid "filter.optout.user"
+msgstr "is deactivated by contact"
+
+msgid "filter.optout.contact"
+msgstr "is manually disabled"
+
+msgid "filter.optout.hardbounced"
+msgstr "is automatically deactivated (incorrect)"
+
+msgid "filter.lower"
+msgstr "is lesser than"
+
+msgid "filter.top"
+msgstr "is greater than"
+
+msgid "filter.lowereq"
+msgstr "is lesser or equal than"
+
+msgid "filter.topeq"
+msgstr "is greater or equal than"
+
+msgid "contact.filter.optout"
+msgstr "media disabled"
+
+msgid "filter.media.sms"
+msgstr "Text message"
+
+msgid "filter.media.voice"
+msgstr "Voice"
+
+msgid "filter.media.voicemail"
+msgstr "Voice mail"
+
+msgid "filter.media.email"
+msgstr "Email"
+
+msgid "activated:fem"
+msgstr "activated"
+
+msgid "deactivated:fem"
+msgstr "deactivated"
+
+msgid "running_info_tooltip"
+msgstr ""
+"Your campaign is active a few days after sending your messages, letting time "
+"to wait for final statuses. Then your campaign will be set as closed."
+
+msgid "running_status_confirmed"
+msgstr "confirmed"
+
+msgid "running_status_active"
+msgstr "active"
+
+msgid "running_status_running"
+msgstr "running"
+
+msgid "running_status_pending"
+msgstr "pending"
+
+msgid "home-page"
+msgstr "homepage"
+
+msgid "select your home page"
+msgstr "select your home page"
+
+msgid "saving"
+msgstr "saving"
+
+msgid "saved"
+msgstr "saved"
+
+msgid "first name, last name, mobile"
+msgstr "first name, last name, mobile"
+
+msgid "notification-sms"
+msgstr "Text notification"
+
+msgid "sms templates"
+msgstr "sms templates"
+
+msgid "sms template name"
+msgstr "sms template name"
+
+msgid "SMS Notification"
+msgstr "Text Notification"
+
+msgid "Select your message to personalize"
+msgstr "Select your message to personalize"
+
+msgctxt ""
+msgid "Customize the fields of your message"
+msgstr "Customize the fields of your message"
+
+msgid "Fill out your message by adding custom fields"
+msgstr "Fill out your message by adding custom fields"
+
+msgid "Add a field"
+msgstr "Add a field"
+
+msgid "CGS"
+msgstr "CGS"
+
+msgid "Help online"
+msgstr "Help online"
+
+msgid "Couponing"
+msgstr "Couponing"
+
+msgid "Responsive"
+msgstr "Responsive"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Forms"
+msgstr "Forms"
+
+msgid "Store Locator"
+msgstr "Store Locator"
+
+msgid "Gallery"
+msgstr "Gallery"
+
+msgid "Social Networks"
+msgstr "Social Networks"
+
+msgid "sequencing.reset"
+msgstr "reset options"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "How can we help you?"
+msgstr "How can we help you?"
+
+msgid "Search in Help center"
+msgstr "Search in Help center"
+
+msgid "Search in FAQ"
+msgstr "Search in FAQ"
+
+msgid "or view a category"
+msgstr "or view a category"
+
+msgid "Manuals"
+msgstr "Manuals"
+
+msgid "Our best practices"
+msgstr "Our best practices"
+
+msgid "Our video tutorials"
+msgstr "Our video tutorials"
+
+msgid "To go further"
+msgstr "To go further"
+
+msgid "Frequently Asked Questions"
+msgstr "Frequently Asked Questions"
+
+msgid "Colors"
+msgstr "Colors"
+
+msgid "Digitaleo use this solutions under Open licence :"
+msgstr "Digitaleo use this solutions under Open licence :"
+
+msgid "Show the licence"
+msgstr "Show the licence"
+
+msgctxt ""
+msgid "Show sharing buttons to social networks"
+msgstr "Show sharing buttons to social networks"
+
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+msgid "Share on Twitter"
+msgstr "Share on Twitter"
+
+msgid "clicked.export"
+msgstr "clicker"
+
+msgid "hb.export"
+msgstr "permanent errors (hard bounce)"
+
+msgid "ko.export"
+msgstr "undelivred"
+
+msgid "ok.export"
+msgstr "delivred"
+
+msgid "on.export"
+msgstr "missing delivery status"
+
+msgid "no.export"
+msgstr "unknown"
+
+msgid "opened.export"
+msgstr "opener"
+
+msgid "optout.export"
+msgstr "unsubscriber"
+
+msgid "wait.export"
+msgstr "programmed"
+
+msgid "rep.export"
+msgstr "answered"
+
+msgid "sb.export"
+msgstr "temporary errors (soft bounce)"
+
+msgid "notopened.export"
+msgstr "not opened"
+
+msgid "notclicked.export"
+msgstr "not clicked"
+
+msgid "from-date"
+msgstr "From"
+
+msgid "to-date"
+msgstr "To"
+
+msgid "dt-days"
+msgstr "['Sun','Mon','Tue','Wed','Thu','Fri','Sat']"
+
+msgid "dt-months"
+msgstr ""
+"['January','February','March','April','May','June','July','August','September"
+"','October','November','December']"
+
+msgid "BPg"
+msgstr "Individuals base"
+
+msgid "targeting.interest.teenager"
+msgstr "Teenager"
+
+msgid "targeting.interest.food"
+msgstr "Food"
+
+msgid "targeting.interest.animals"
+msgstr "Animals"
+
+msgid "targeting.interest.money"
+msgstr "Money"
+
+msgid "targeting.interest.cars_motocycles"
+msgstr "Cars/Motocycles"
+
+msgid "targeting.interest.household_goods"
+msgstr "Household/Goods"
+
+msgid "targeting.interest.high_tech"
+msgstr "High Tech/IT"
+
+msgid "targeting.interest.garden"
+msgstr "Garden"
+
+msgid "targeting.interest.lottery"
+msgstr "Lottery"
+
+msgid "targeting.interest.fashion"
+msgstr "Fashion"
+
+msgid "targeting.interest.women_magazines"
+msgstr "Women magazines"
+
+msgid "targeting.interest.man_magazines"
+msgstr "Men magazines"
+
+msgid "targeting.interest.health"
+msgstr "Health"
+
+msgid "targeting.interest.sport"
+msgstr "Sport"
+
+msgid "targeting.interest.travel"
+msgstr "Traveling"
+
+msgid "targeting.interest"
+msgstr "Center of interest"
+
+msgctxt ""
+msgid "Customize the fields of your message"
+msgstr "Customize message fields"
+
+msgid "Your notifications"
+msgstr "Previous notifications"
+
+msgid "SMS models"
+msgstr "Text notification models"
+
+msgid ""
+"This email is already in use.<br />If you forgot your password, please click "
+"on 'Forgotten password ?' on the login page"
+msgstr ""
+"This email is already in use.<br />If you forgot your password, please click "
+"on 'Forgotten password ?' on the login page"
+
+msgid "Center of interest"
+msgstr "Interests"
+
+msgid "Region1"
+msgstr "Region"
+
+msgid "Region2"
+msgstr "Subregion"
+
+msgid "New message"
+msgstr "New message"
+
+msgid "Notifications sended"
+msgstr "Notifications sended"
+
+msgid "Results"
+msgstr "Results"
+
+msgid "Choose your campaign settings"
+msgstr "Choose your campaign settings"
+
+msgid "Send SMS in an instant"
+msgstr "Send SMS in an instant"
+
+msgid "Manage your database"
+msgstr "Manage your database"
+
+msgid "See all your activity"
+msgstr "See all your activity"
+
+msgctxt ""
+msgid "editable"
+msgstr "Allow affiliates to publish this item"
+
+msgctxt ""
+msgid "editable"
+msgstr "Allow affiliates to publish this item"
+
+msgid "custom-fields"
+msgstr "custom fields"
+
+msgid "contact list name format"
+msgstr "in the format"
+
+msgid "number of lines to ignore"
+msgstr "number of lines to ignore"
+
+msgid "contacts import format"
+msgstr "contacts import format"
+
+msgid "none"
+msgstr "none"
+
+msgid "save this import config"
+msgstr "save this import configuration"
+
+msgid "automatic.cannot save import config"
+msgstr "This import configuration could not be saved"
+
+msgid "automatic.cannot delete import config"
+msgstr "This import configuration could not be deleted"
+
+msgid "automatic.cannot get import config"
+msgstr "This import configuration could not be loaded"
+
+msgid "modify name type custom fields"
+msgstr ""
+"you can modify the name and type of this custom fields by contacting the "
+"support"
+
+msgid "Test message"
+msgstr "Test message"
+
+msgid "Fill in your details to test your messages"
+msgstr "Fill in your details to test your messages"
+
+msgid "Receive an email campaign report in"
+msgstr "Receive an email campaign report in"
+
+msgid "Memo"
+msgstr "Memo"
+
+msgid "Select your template or import your content"
+msgstr "Select your template or import your content"
+
+msgid "New email"
+msgstr "New email"
+
+msgid "Search a template"
+msgstr "Search a template"
+
+msgid "delivery settings"
+msgstr "Paramètres de livraison"
+
+msgctxt ""
+msgid "Warning"
+msgstr "Watch out"
+
+msgid "delivery warning"
+msgstr ""
+"An indicative period of 72 hours is required between the confirmation of the "
+"campaign and the expedition of communication media"
+
+msgid "Select poi list"
+msgstr "Select poi list"
+
+msgid ""
+"By default, your SmartPage is valid for 30 days from the validation of your "
+"campaign. You can extend this period up to 6 months"
+msgstr ""
+"By default, your SmartPage is valid for 30 days from the validation of your "
+"campaign. You can extend this period up to 6 months"
+
+msgid "Video component"
+msgstr "Video component"
+
+msgid "Map component"
+msgstr "Map component"
+
+msgid "Form component"
+msgstr "Form component"
+
+msgid "At form validation, display the page"
+msgstr "A la validation du formulaire, afficher la page"
+
+msgid "Wording of the validation button"
+msgstr "Wording of the validation button"
+
+msgid "Subtitle"
+msgstr "Subtitle"
+
+msgid "Social component"
+msgstr "Social component"
+
+msgctxt ""
+msgid "Show sharing buttons to social networks"
+msgstr "Show sharing buttons to social networks"
+
+msgid "Remember to press the # key on your phone to accept your recording."
+msgstr "Remember to press the # key on your phone to accept your recording."
+
+msgid "region1 unrecognized"
+msgstr "region unrecognized"
+
+msgid "region2 unrecognized"
+msgstr "subregion unrecognized"
+
+msgid ""
+"You have been disconnected from the platform,%s thank you to identify you "
+"again"
+msgstr ""
+"You have been disconnected from the platform,%s thank you to identify you "
+"again"
+
+msgid "My account"
+msgstr "My account"
+
+msgid "None selected list"
+msgstr "None selected list"
+
+msgid "PDF generation in progress.%s Please refresh the page"
+msgstr "PDF generation in progress.%s Please refresh the page"
+
+msgid ""
+"when using region AND department filters, results will return all "
+"enterprises established in the selected region OR from the selected "
+"department."
+msgstr ""
+"when using region AND department filters, results will return all "
+"enterprises established in the selected region OR from the selected "
+"department."
+
+msgid "Invalid subject"
+msgstr "Invalid subject"
+
+msgid "Invalid reply to"
+msgstr "Invalid reply to"
+
+msgid "Invalid sms text"
+msgstr "Invalid sms text"
+
+msgid "targeting.COMPUTERS_AND_ELECTRONICS"
+msgstr "computers and electronics"
+
+msgid "targeting.TRANSPORT_AND_LOGISTICS"
+msgstr "transport and logistics"
+
+msgid "targeting.BANKING_AND_INSURANCE"
+msgstr "banking and insurance"
+
+msgid "targeting.PROPERTY"
+msgstr "property"
+
+msgid "targeting.TELECOM"
+msgstr "telecom"
+
+msgid "targeting.SOCIAL_AND_MEDICAL_ACTION"
+msgstr "social and medical action"
+
+msgid "targeting.EDUCATION"
+msgstr "eductation"
+
+msgid "targeting.WHOLESALE"
+msgstr "wholesale"
+
+msgid "targeting.BUSINESS_SERVICES"
+msgstr "business services"
+
+msgid "targeting.PUBLIC_SECTOR"
+msgstr "public sector"
+
+msgid "targeting.FOOD_PROCESSING"
+msgstr "food processing"
+
+msgid "targeting.INDUSTRY"
+msgstr "industry"
+
+msgid "targeting.MEDIA_PUBLISHING_AND_COMMUNICATION"
+msgstr "media, publiching and communication"
+
+msgid "targeting.AUTOMOBILE"
+msgstr "automobile"
+
+msgid "targeting.TOURISM_AND_RECREATION"
+msgstr "tourism and recreation"
+
+msgid "targeting.ASSOCIATIONS_AND_UNIONS"
+msgstr "associations and unions"
+
+msgid "targeting.SERVICES_TO_INDIVIDUALS"
+msgstr "services to individuals"
+
+msgid "targeting.BUILDING_AND_CONSTRUCTION_MATERIALS"
+msgstr "building and construction materials"
+
+msgid "targeting.ENERGY"
+msgstr "energy"
+
+msgid "targeting.RETAIL_TRADE"
+msgstr "retail trade"
+
+msgid "targeting.SERVICE_ADMINISTRATIVE"
+msgstr "administrative"
+
+msgid "targeting.SERVICE_TRADE"
+msgstr "trade"
+
+msgid "targeting.SERVICE_PURCHASING"
+msgstr "purchasing"
+
+msgid "targeting.SERVICE_HEAD_OFFICE"
+msgstr "head office"
+
+msgid "targeting.SERVICE_MARKETING"
+msgstr "marketing"
+
+msgid "targeting.SERVICE_LOGISTICS"
+msgstr "logistics"
+
+msgid "targeting.SERVICE_IT"
+msgstr "it"
+
+msgid "targeting.SERVICE_RH"
+msgstr "human resources"
