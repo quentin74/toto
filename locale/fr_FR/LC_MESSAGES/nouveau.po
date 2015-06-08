@@ -1,0 +1,38 @@
+# French translations for PACKAGE package.
+# Copyright (C) 2015 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Quentin Torck <qtorck@imac-de-admin.local>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 09:55+0200\n"
+"PO-Revision-Date: 2015-06-08 09:55+0200\n"
+"Last-Translator: Quentin Torck <qtorck@imac-de-admin.local>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /Users/qtorck/sources/v2.marketeo.net/application/modules/frontoffice/controllers/ContentController.php:181
+msgid "content updated successfully"
+msgstr ""
+
+#: /Users/qtorck/sources/v2.marketeo.net/application/modules/frontoffice/controllers/DashboardController.php:164
+msgid "all"
+msgstr ""
+
+#: /Users/qtorck/sources/v2.marketeo.net/application/modules/frontoffice/controllers/DashboardController.php:166
+msgid ".export"
+msgstr ""
+
+#: /Users/qtorck/sources/v2.marketeo.net/application/modules/frontoffice/controllers/DashboardController.php:541
+msgid "please enter at least one contact"
+msgstr ""
+
+#: /Users/qtorck/sources/v2.marketeo.net/application/modules/frontoffice/controllers/DashboardController.php:578
+msgid "your request has been treated"
+msgstr ""
